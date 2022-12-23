@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Main page</title>
+    
+
+<link href="../static/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      p.card-text{
+        font-style: italic;
+      }
+
+      .seacrh-bar{
+        background-color:azure;
+        border-width: 100%;
+      }
+
+      form{
+        display: block;
+        width: 2000px;
+        height: 80px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        padding: 0 380px 0 80px;
+        border: none;
+        -webkit-border-radius: 8px;
+        border-radius: 8px;
+        background: #fff;
+        font-size: 22px;
+        color: #031933;
+        -o-text-overflow: ellipsis;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        -webkit-transition: border .1s linear,box-shadow .1s linear;
+        -moz-transition: border .1s linear,box-shadow .1s linear;
+        -o-transition: border .1s linear,box-shadow .1s linear;
+        -ms-transition: border .1s linear,box-shadow .1s linear;
+        transition: border .1s linear,box-shadow .1s linear;
+        border: 1px solid transparent;
+      }
+
+    </style>
+
+    
+  </head>
+  <body>
+    
+<header>
+  <div class="collapse bg-dark" id="navbarHeader">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 col-md-7 py-4">
+          <h4 class="text-white">О нас</h4>
+          <p class="text-muted">Мы команда создателей модели Russian print XVIII cent PyLaia на платформе Transkribus</p>
+        </div>
+        <!-- <div class="col-sm-4 offset-md-1 py-4">
+          <h4 class="text-white">Контакты</h4>
+          <ul class="list-unstyled">
+            <li><a href="#" class="text-white">Follow on Twitter</a></li>
+            <li><a href="#" class="text-white">Like on Facebook</a></li>
+            <li><a href="#" class="text-white">Email me</a></li>
+          </ul>
+        </div> -->
+      </div>
+    </div>
+  </div>
+  <div class="navbar navbar-dark bg-dark shadow-sm">
+    <div class="container">
+      <a href="#" class="navbar-brand d-flex align-items-center">
+        <!-- <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg> -->
+      </a>
+      <button class="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">О нас</button>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <section class="py-5 text-center container">
+    <div class="row py-lg-5">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">Transkribus_project</h1>
+        <p class="lead text-muted">Проект по разпознаванию русскоязычных печатных текстов XVIII века</p>
+        <p>
+          <button type="button" href="about texts.html" class="btn btn-secondary my-2" disabled>О текстах</button>
+          <a href="about_model.html" class="btn btn-primary my-2">О модели</a>
+        </p>
+      </div>
+    </div>
+  </section>
+   
+  
+  <div class="album py-5 bg-light">
+    <div class="container">
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          <div class="card shadow-sm">
+            <img class="post__elem_photo-img post__elem_photo-img--fit" src="../static/img/book.jpg"></img>
+            <div class="card-body">
+              <p class="card-text">Описание лагеря, собранного под высочайшею Ея Императорского Величества собственною командою при Красном селе</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary" disabled>Смотреть</button>
+                  <!-- <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button> -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <img class="post__elem_photo-img post__elem_photo-img--fit" src="../static/img/book.jpg"></img>
+
+            <div class="card-body">
+              <p class="card-text">Кто может быть добрым гражданином и верным подданным?</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary" disabled>Смотреть</button>
+                  <!-- <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button> -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <img class="post__elem_photo-img post__elem_photo-img--fit" src="../static/img/book.jpg"></img>
+
+            <div class="card-body">
+              <p class="card-text">Московский журнал</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary" disabled>Смотреть</button>
+                  <!-- <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button> -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+</main>
+
+<footer class="text-muted py-5">
+  <div class="container">
+    <p class="float-end mb-1">
+      <a href="#">Back to top</a>
+    </p>
+    <p class="mb-1">&copy; Transkribus_project, 2022</p>
+  </div>
+</footer>
+
+
+    <script src="../static/js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>
