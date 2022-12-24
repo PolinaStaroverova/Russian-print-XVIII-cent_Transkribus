@@ -6,9 +6,9 @@ Transkribus_project allows to read about a model "Russian print XVIII cent PyLai
 
 Run using Docker Compose:
 
-...
+```
 docker compose up
-...
+```
 
 
 ## License
