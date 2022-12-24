@@ -4,11 +4,11 @@ app = Flask(__name__)
 
 @app.route("/")
 def main_page():
-    return render_template("index.html")
+    return render_template("index.html.j2")
 
-@app.route("/about_model.html")
+@app.route("/aboutmodel")
 def about_model():
-    return render_template("about_model.html")
+    return render_template("about_model.html.j2")
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
