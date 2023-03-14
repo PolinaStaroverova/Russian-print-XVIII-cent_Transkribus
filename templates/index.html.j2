@@ -5,62 +5,39 @@
     <title>Main page</title>
     <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
     <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+
+
+    <style>
+
+    #description{
+    font-size: 12pt;
+    }
+
+    </style>
   </head>
 
   
   <body>
     
-<header>
-  <div class="collapse bg-dark" id="navbarHeader">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-8 col-md-7 py-4">
-          <h4 class="text-white">О нас</h4>
-          <p class="text-muted">Мы команда создателей модели Russian print XVIII cent PyLaia на платформе Transkribus</p>
-        </div>
-        <div class="col-sm-4 offset-md-1 py-4">
-          <h4 class="text-white">Контакты</h4>
-          <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
-            <a
-              class="Header-link"
-              href="https://github.com/PolinaStaroverova/Russian-print-XVIII-cent_Transkribus.git"
-              data-hotkey="g d"
-              aria-label="Homepage "
-              data-turbo="false"
-              data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
->
-              <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
-                <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
-              </svg>
-            </a>
-
-    </div>
-          <ul class="list-unstyled">
-            <li><a href="https://github.com/PolinaStaroverova/Russian-print-XVIII-cent_Transkribus.git" class="text-whiфпкфte">GitHub</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="navbar navbar-dark bg-dark shadow-sm">
-    <div class="container">
-      <a href="#" class="navbar-brand d-flex align-items-center">
-        <!-- <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg> -->
-      </a>
-      <button class="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">О нас</button>
+<header> 
+  <div class="navbar navbar-light" style="background-color: #BBC6C8;">
+    <div class="container-fluid d-flex align-items-center">
+      <h3 class="d-flex align-items-center fs-4 text-dark mb-0">
+      </h3>
+      <a class="btn btn-light" href="#contact"><TT>О нас</TT></a>
     </div>
   </div>
 </header>
+
 
 <main>
 
   <section class="py-5 text-center container">
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Russian print XVIII cent</h1>
-        <p class="lead text-muted">Проект по разпознаванию русскоязычных печатных текстов XVIII века</p>
+        <h1 class="fw-light"><TT>Russian print XVIII cent</TT></h1>
+        <p class="lead text-muted" id="description"><TT>Проект по разпознаванию русскоязычных печатных текстов XVIII века.<br>В галерее вы найдете книги, распознанные с помощью модели<br>Russian print XVIII cent.<br>О том, как натренировать свою модель, читайте в разделе "О модели".</TT></p>
         <p>
-          <button type="button" href="#" class="btn btn-secondary my-2" disabled>О текстах</button>
           <a class="btn btn-primary my-2" href="aboutmodel">О модели</a>
         </p>
       </div>
@@ -71,15 +48,15 @@
   <div class="album py-5 bg-light">
     <div class="container">
 
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 g-10">
         <div class="col">
           <div class="card shadow-sm">
-            <img class="post__elem_photo-img post__elem_photo-img--fit" src="../static/img/book.jpg"></img>
+            <img class="post__elem_photo-img post__elem_photo-img--fit" src="../static/img/opisanie_lagerya_sobrannogo.png"></img>
             <div class="card-body">
-              <p class="card-text">Описание лагеря, собранного под высочайшею Ея Императорского Величества собственною командою при Красном селе</p>
+              <p class="card-text">Описание лагеря, собранного под высочайшею Ея Императорского Величества собственною командою при Красном селе с объяснением, какие при том были намерения, и что по тому каждого дня достопамятного происходило</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary" disabled>Смотреть</button>
+                  <a type="button" class="btn btn-sm btn-outline-secondary" href="opisanie_lagerya_sobrannogo">Читать</a>
                   <!-- <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button> -->
                 </div>
               </div>
@@ -88,44 +65,38 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img class="post__elem_photo-img post__elem_photo-img--fit" src="../static/img/book.jpg"></img>
+            <img class="post__elem_photo-img post__elem_photo-img--fit" src="../static/img/kto_mojhet_byt_dobrym_grazhdaninom.jpg"></img>
 
             <div class="card-body">
               <p class="card-text">Кто может быть добрым гражданином и верным подданным?</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary" disabled>Смотреть</button>
+                  <a type="button" class="btn btn-sm btn-outline-secondary" href="kto_mojhet_byt_dobrym_grazhdaninom">Читать</a>
                   <!-- <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button> -->
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img class="post__elem_photo-img post__elem_photo-img--fit" src="../static/img/book.jpg"></img>
-
-            <div class="card-body">
-              <p class="card-text">Тестовая книга</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a type="button" class="btn btn-sm btn-outline-secondary" href="testviewer">Смотреть</a>
-                  <!-- <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button> -->
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+      </div>
+    </div>
+  </div>
+  
 
 
 </main>
 
-<footer class="text-muted py-5">
-  <div class="container">
-    <p class="float-end mb-1">
+<footer class="text-muted py-5" style="background-color: #BBC6C8;">
+   <p class="float-end mb-1">
       <a href="#">Back to top</a>
     </p>
-    <p class="mb-1">&copy; Transkribus_project, 2022</p>
+   <p><a name="contact"></a></p>
+  <div class="container">
+    <p class="mb-1">&copy; Russian print XVIII cent PyLaia, 2023 <br>Мы команда создателей модели Russian print XVIII cent PyLaia на платформе Transkribus</p>
+    <ul class="list-unstyled">
+      <li><a href="https://github.com/PolinaStaroverova/Russian-print-XVIII-cent_Transkribus.git" class="text-whiфпкфte">Наш репозиторий на GitHub</a></li>
+      <li><a href="https://readcoop.eu/model/russian-print-xviii-cent/" class="text-whiфпкфte">Наша модель на сайте Transkribus</a></li>
+    </ul> 
   </div>
 </footer>
 

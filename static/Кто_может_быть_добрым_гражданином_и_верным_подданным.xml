@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Кто_может_быть_добрым_гражданином_и_верным_подданным</title>
+         </titleStmt>
+         <seriesStmt>
+            <title>Типография Московского университета</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">Кто_может_быть_добрым_гражданином_и_верным_подданным</title><idno type="Transkribus">1012091</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="1162" lry="1970" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="1970px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0001.jpg" width="1162px"/>
+         <graphic height="1970px" url="https://files.transkribus.eu/Get?id=RWGQUMVFBECEBWJWTADXLRWE&amp;fileType=view" width="1162px"/>
+      </surface>
+      <surface lrx="1195" lry="1924" ulx="0" uly="0" xml:id="facs_2">
+         <graphic height="1924px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0002.jpg" width="1195px"/>
+         <graphic height="1924px" url="https://files.transkribus.eu/Get?id=QUWIPUHQWKOEEHFXKLHAFLGZ&amp;fileType=view" width="1195px"/>
+      </surface>
+      <surface lrx="1079" lry="1845" ulx="0" uly="0" xml:id="facs_3">
+         <graphic height="1845px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0003.jpg" width="1079px"/>
+         <graphic height="1845px" url="https://files.transkribus.eu/Get?id=AVQXOTHRAMYFABSGUVKWRQRC&amp;fileType=view" width="1079px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_4">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0004.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=SPOPEVPWRIOMKKHNJONIBHOD&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_5">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0005.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=JMSOSEKQALJNZFEAYCSFPFEC&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_6">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0006.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=KLUGISQVMKEAYNZISGMJAXQD&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_7">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0007.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=UENMNLBCCCKVVKVFVWQXGFYT&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_8">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0008.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=PAZNTAWWDKOZWQJSDSENIUME&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_9">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0009.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=WSKZHRIWCEDNHDMJEIPJRPLY&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_10">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0010.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=NDBNCLZRMLQWUFTPTCJVKMNK&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_11">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0011.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=VVHFCHSNOSEHIIUUIRIHUCVX&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_12">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0012.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=QDYKZBARIRSKRFJUBYVGOPNB&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_13">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0013.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=XCEZOCYEPVZEQZHUDJQWSMUY&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_14">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0014.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=FFZUWHOLAJEMXADQEYHELGQO&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_15">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0015.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=WIGHFSGZOAMSBKOSTABPVMBI&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_16">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0016.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=ZOWPVGUEHUPVAYMREIMIQPTP&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_17">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0017.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=WIZEXQMDQDFAGYRXDTRVRSFW&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_18">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0018.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=TAZCOTOIXQNLYWOGBXOBMKOD&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_19">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0019.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=HDIWEBNNZSQLHRFYXPBWVKME&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_20">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0020.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=MKXVFCHGKZLZZFOISXMEIYDS&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_21">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0021.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=WRPGALUIFOLHROBVFZQVNVGX&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_22">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0022.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=WXJISNIBGWVJKADZNMSCTPEW&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_23">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0023.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=LOLVAIQBCMRXJLEPPJHTVHVJ&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_24">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0024.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=USKSNSHWDTDHFMEPMCEJNQJT&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_25">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0025.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=FROMLGBIUMZXGSXFEGQQZYXA&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_26">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0026.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=LHGVVJWNHAJEAVRAVCWJAAES&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_27">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0027.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=TRIMHMDUIBKKJEWVESENZNJK&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_28">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0028.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=ZJANTHLFPYJMAKNIYJQGCAON&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_29">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0029.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=JLAKYNLIVWRCCVEUNETDELVN&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_30">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0030.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=FMSFHBHIPMHLQEKJQYTPPATG&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_31">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0031.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=LIUKGDVQCYTPOGWGKYKWBQUS&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_32">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0032.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=VVHEMOXSUPYJJPLNLCLTAVSZ&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_33">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0033.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=FHMETGHZCULGPYUJXJFEMDUR&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_34">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0034.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=YGVTKVSFVIRJARCLPYIOUYBB&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_35">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0035.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=VWJGHNOCDJXLKHHWXNFILTMF&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_36">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0036.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=OHDTCLADMOWZAGEYZLBTLANU&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_37">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0037.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=MWTUZNXHXAZMMFXUYRPYVEZQ&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_38">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0038.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=YGXABAOTYLKROTAUHQKHTWOZ&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_39">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0039.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=ZQJYYAGXZZRZYJODEFVJKVVN&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_40">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0040.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=JBFOZDDFALLZKTVKCQFXRSTN&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_41">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0041.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=BIQSADDWRFBFIQILZRKLAIZN&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_42">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0042.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=WFSJPTKEVJTOQWTBQCMTUXAF&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_43">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0043.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=PHFQUARPBGNCSNHNPDUKZDZQ&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_44">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0044.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=PUXFMBAJAMRDQNWSMZLYHXBZ&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_45">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0045.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=YKGGMVLOKYODDLAMZZFKCMCB&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_46">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0046.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=KKUJCHBMPKQIHPKPUZHDKFEF&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="974" lry="1724" ulx="0" uly="0" xml:id="facs_47">
+         <graphic height="1724px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0047.jpg" width="974px"/>
+         <graphic height="1724px" url="https://files.transkribus.eu/Get?id=XPZAUWMAEGDGFSJUAFBDPKKB&amp;fileType=view" width="974px"/>
+      </surface>
+      <surface lrx="1120" lry="1887" ulx="0" uly="0" xml:id="facs_48">
+         <graphic height="1887px" url="%D0%9A%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%BC_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-0048.jpg" width="1120px"/>
+         <graphic height="1887px" url="https://files.transkribus.eu/Get?id=ZOPPJSZIFVLHTECVMCYFLKBR&amp;fileType=view" width="1120px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+           <pb facs="#facs_1" n="1" xml:id="img_0001"/><pb facs="#facs_2" n="2" xml:id="img_0002"/><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_region_1654461957709_1702" type="">
+               <lb facs="#facs_3_line_1654461977101_1708" n="N001"/>КТО
+               <lb facs="#facs_3_line_1654461979548_1711" n="N002"/>МОЖЕТЪ БЫТЬ
+               <lb facs="#facs_3_line_1654461983660_1714" n="N003"/>ДОБРЫМЪ ГРАЖДАНИНОМЪ
+               <lb facs="#facs_3_line_1654461986340_1717" n="N004"/>И
+               <lb facs="#facs_3_line_1654461989469_1720" n="N005"/>ВѢРНЫМЪ ПОДДАННЫМЪ?
+               <lb facs="#facs_3_line_1654461992180_1723" n="N006"/>съ
+               <lb facs="#facs_3_line_1654461996004_1726" n="N007"/>Французскаго на Россїйской
+               <lb facs="#facs_3_line_1654462000476_1729" n="N008"/>перевелъ
+               <lb facs="#facs_3_line_1654462005925_1732" n="N009"/><hi>Серп. Протпп. Василій Протопоповъ.</hi>
+               <lb facs="#facs_3_line_1654462010836_1735" n="N010"/>МОСКВА,
+               <lb facs="#facs_3_line_1654462016188_1738" n="N011"/>Въ Университетской Типографїи,
+               <lb facs="#facs_3_line_1654462020317_1741" n="N012"/><hi>у Ридигера и Клаудїя.</hi>
+               <lb facs="#facs_3_line_1654462023956_1744" n="N013"/>1796.
+            </ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_region_1654462252037_1776" type="">
+               <lb facs="#facs_4_line_1654462258294_1779" n="N001"/>По возложенной отъ Господъ Кура¬
+               <lb facs="#facs_4_line_1654462264413_1782" n="N002"/>торовъ на меня должности, я разсмат¬
+               <lb facs="#facs_4_line_1654462272404_1785" n="N003"/>ривалъ книгу, подъ заглавїемъ: <hi>Кто</hi>
+               <lb facs="#facs_4_line_1654462279485_1788" n="N004"/><hi>можетъ быть добрымъ гражданиномъ и</hi>
+               <lb facs="#facs_4_line_1654462285189_1791" n="N005"/><hi>вѣрнымъ подданным?</hi> и не нашелъ въ
+               <lb facs="#facs_4_line_1654462289836_1794" n="N006"/>ней противнаго наставленїю, данному мнѣ
+               <lb facs="#facs_4_line_1654462294388_1797" n="N007"/>о печатаемыхъ въ Университетской
+               <lb facs="#facs_4_line_1654462300363_1800" n="N008"/>Типографїи книгахъ. — Натуральной
+               <lb facs="#facs_4_line_1654462306405_1803" n="N009"/>Исторїи и Энциклопедїи Профессоръ и
+               <lb facs="#facs_4_line_1654462310268_1806" n="N010"/>Ценсоръ
+               <lb facs="#facs_4_line_1654462314825_1809" n="N011"/><hi>Антонъ Прокоповичь—Антонской.</hi>
+            </ab><pb facs="#facs_5" n="5" xml:id="img_0005"/><ab facs="#facs_5_region_1654462596740_1869" type="">
+               <lb facs="#facs_5_line_1654462666401_1891" n="N001"/>ЕГО
+               <lb facs="#facs_5_line_1654462669649_1894" n="N002"/>ПРЕОСВЯЩЕНСТВУ,
+               <lb facs="#facs_5_line_1654462673049_1897" n="N003"/>ПРЕОСВЯЩЕННѢЙШЕМУ
+               <lb facs="#facs_5_line_1654462677415_1900" n="N004"/>АѲАНАСІЮ,
+               <lb facs="#facs_5_line_1654462680150_1903" n="N005"/>ЕПИСКОПУ
+               <lb facs="#facs_5_line_1654462683575_1906" n="N006"/>КОЛОМЕНСКОМУ и ТУЛЬСКОМУ,
+               <lb facs="#facs_5_line_1654462687967_1909" n="N007"/>Милостивому Архипастырю и Отцу
+            </ab><ab facs="#facs_5_region_1654462601476_1872" type="">
+               <lb facs="#facs_5_line_1654462608874_1876" n="N001"/>Всеусерднѣйшее приношенїе.
+            </ab><pb facs="#facs_6" n="6" xml:id="img_0006"/><pb facs="#facs_7" n="7" xml:id="img_0007"/><ab facs="#facs_7_region_1654462797489_1948" type="">
+               <lb facs="#facs_7_line_1654462810673_1954" n="N001"/>ПРЕОСВЯЩЕННѢИШІЙ ВЛАДЫКО!
+               <lb facs="#facs_7_line_1654462814105_1957" n="N002"/>Милостивый Архипастырь
+               <lb facs="#facs_7_line_1654462817304_1960" n="N003"/>и Отецъ мой!
+            </ab><ab facs="#facs_7_region_1654462802128_1951" type="">
+               <lb facs="#facs_7_line_1654463066421_2007" n="N001"/><hi>Не смѣлъ бы я посвятить Тебѣ</hi>
+               <lb facs="#facs_7_line_1654463071324_2010" n="N002"/><hi>сей малой трудъ мой, плодъ</hi>
+               <lb facs="#facs_7_line_1654463077260_2013" n="N003"/><hi>часовъ, остающихся мнѣ отъ испол¬</hi>
+               <lb facs="#facs_7_line_1654463082860_2016" n="N004"/><hi>ненїя долга званїя моего, ежели</hi>
+               <lb facs="#facs_7_line_1654463088412_2019" n="N005"/><hi>бы не былъ довольно увѣренъ, что</hi>
+               <lb facs="#facs_7_line_1654463094571_2022" n="N006"/><hi>всѣ истины, въ книжицѣ сей помѣ¬</hi>
+               <lb facs="#facs_7_line_1654463221748_2045" n="N007"/><hi>щенныя, дознаешь Ты на опытѣ</hi>
+               <lb facs="#facs_7_line_1654463233516_2049" n="N008"/><hi>своемъ, и исполняешь обязанности</hi>
+               <lb facs="#facs_7_line_1654463248130_2053" n="N009"/><hi>Гражданина—Христїанина. — Съ</hi>
+               <lb facs="#facs_7_line_1654463253122_2056" n="N010"/><hi>Тебя снимая образецъ, преложилъ</hi>
+               <lb facs="#facs_7_line_1654463259181_2059" n="N011"/><hi>я на языкъ нашъ строки сїи; и</hi>
+               <lb facs="#facs_7_line_1654463285081_2065" n="N012"/><hi>симъ же образцемъ руководимъ,</hi>
+               <lb facs="#facs_7_line_1654463355231_2088" n="N013"/><hi>жертвую Тебѣ единою лептою</hi>
+               <lb facs="#facs_7_line_1654463360526_2091" n="N014"/><hi>моею, ласкаясь надеждою, что</hi>
+               <lb facs="#facs_7_line_1654463365046_2094" n="N015"/><hi>Отеческая кротость Твоя приметъ</hi>
+               <lb facs="#facs_7_line_1654463369718_2097" n="N016"/><hi>ее благосклонно. — Поелику Богъ,</hi>
+            </ab><pb facs="#facs_8" n="8" xml:id="img_0008"/><ab facs="#facs_8_region_1654463689621_2145" type="">
+               <lb facs="#facs_8_line_1654463697389_2148" n="N001"/><hi>коего образъ Ты в себѣ носишь,</hi>
+               <lb facs="#facs_8_line_1654463704565_2151" n="N002"/><hi>и малыми, но искренними благо¬</hi>
+               <lb facs="#facs_8_line_1654463739539_2157" n="N003"/><hi>угождается жертвами.</hi>
+               <lb facs="#facs_8_line_1654463768227_2169" n="N004"/>ПРЕОСВЯЩЕННѢИШІЙ ВЛАДЫКО!
+               <lb facs="#facs_8_line_1654463785778_2173" n="N005"/>Милостивый Архипастырь
+               <lb facs="#facs_8_line_1654463792218_2176" n="N006"/>и Отецъ мой!
+               <lb facs="#facs_8_line_1654463798024_2179" n="N007"/>ВАШЕГО ПРЕОСВЯЩЕНСТВА
+               <lb facs="#facs_8_line_1654463802568_2182" n="N008"/>Преданнѣйшїй сынъ и Богомолецъ
+               <lb facs="#facs_8_line_1654463807817_2185" n="N009"/><hi>Протоіерей Василій Протопоповъ.</hi>
+            </ab><pb facs="#facs_9" n="9" xml:id="img_0009"/><ab facs="#facs_9_region_1654464212222_2251" type="">
+               <lb facs="#facs_9_line_1654464224221_2255" n="N001"/>КТО
+               <lb facs="#facs_9_line_1654464227278_2258" n="N002"/>МОЖЕТЪ БЫТЬ
+               <lb facs="#facs_9_line_1654464231110_2261" n="N003"/>ДОБРЫМЪ ГРАЖДАНИНОМЪ
+               <lb facs="#facs_9_line_1654464234518_2264" n="N004"/>И
+               <lb facs="#facs_9_line_1654464237853_2267" n="N005"/>ВѢРНЫМЪ ПОДДАННЫМЪ?
+               <lb facs="#facs_9_line_1654464270035_2285" n="N006"/>Весьма естественно производить
+               <lb facs="#facs_9_line_1654464296491_2291" n="N007"/>учрежденіе человѣческихъ об¬
+               <lb facs="#facs_9_line_1654464302363_2294" n="N008"/>ществъ, какого бы онѣ рода ни бы¬
+               <lb facs="#facs_9_line_1654464309460_2297" n="N009"/>ли, отъ чувствованія выгодъ, про¬
+               <lb facs="#facs_9_line_1654464349760_2311" n="N010"/>истекающихъ изъ соединенія мно¬
+               <lb facs="#facs_9_line_1654464355065_2314" n="N011"/>гихъ въ одно тѣло. Сперва дол¬
+               <lb facs="#facs_9_line_1654464360161_2317" n="N012"/>жно предположить, что каждый
+               <lb facs="#facs_9_line_1654464366393_2320" n="N013"/>членъ общества обязанъ нѣкото¬
+               <lb facs="#facs_9_line_1654464372921_2323" n="N014"/>рыя изъ своихъ личныхъ выгодъ
+               <lb facs="#facs_9_line_1654464379096_2326" n="N015"/>посвящать пользѣ общества, еже¬
+               <lb facs="#facs_9_line_1654464383758_2329" n="N016"/>ли желаетъ, дабы оно поддержи¬
+               <lb facs="#facs_9_line_1654464389238_2332" n="N017"/>валось, прирастало и укрѣпля¬
+               <lb facs="#facs_9_line_1654464456652_2359" n="N018"/>лось. Отсюда — то произойдутъ
+               <lb facs="#facs_9_line_1654464463012_2362" n="N019"/>различныя состоянія, обязанности,
+               <lb facs="#facs_9_line_1654464471451_2366" n="N020"/>А 2
+            </ab><pb facs="#facs_10" n="10" xml:id="img_0010"/><ab facs="#facs_10_region_1654464834803_2419" type="">
+               <lb facs="#facs_10_line_1654464842562_2422" n="N001"/>4
+               <lb facs="#facs_10_line_1654464848000_2425" n="N002"/>отношенія и должности, изъ ко¬
+               <lb facs="#facs_10_line_1654464972299_2436" n="N003"/>ихъ однѣ должны быть блиста¬
+               <lb facs="#facs_10_line_1654464978276_2439" n="N004"/>тельны и вмѣстѣ тягостны; а
+               <lb facs="#facs_10_line_1654464985284_2442" n="N005"/>другія, хотя не менѣе полезны и
+               <lb facs="#facs_10_line_1654464996828_2446" n="N006"/>нужны, но не столь замѣчатель¬
+               <lb facs="#facs_10_line_1654623342733_6" n="N007"/>ны, а также трудны. Первая
+               <lb facs="#facs_10_line_1654623354049_9" n="N008"/>могутъ возбудить неудовольствіе
+               <lb facs="#facs_10_line_1654623364446_12" n="N009"/>въ тѣхъ, которые занимаютъ по¬
+               <lb facs="#facs_10_line_1654623385007_16" n="N010"/>слѣднія. И такъ для предупре¬
+               <lb facs="#facs_10_line_1654627122598_32" n="N011"/>жденія несчастныхъ случаевъ, и
+               <lb facs="#facs_10_line_1654627190059_35" n="N012"/>для соблюденія благоустройства,
+               <lb facs="#facs_10_line_1654627209746_39" n="N013"/>нужно изобрѣсти побудительныя
+               <lb facs="#facs_10_line_1654627221032_42" n="N014"/>причины къ исполненію должно¬
+               <lb facs="#facs_10_line_1654627314478_60" n="N015"/>стей, налагаемыхъ общественною
+               <lb facs="#facs_10_line_1654627320670_63" n="N016"/>пользою, безъ роптанія Первен¬
+               <lb facs="#facs_10_line_1654627328214_66" n="N017"/>ствующіе члены общества, или
+               <lb facs="#facs_10_line_1654627335959_69" n="N018"/>охранители общественнаго благо¬
+               <lb facs="#facs_10_line_1654627417251_85" n="N019"/>состоянія, изобрѣли различные
+               <lb facs="#facs_10_line_1654627425987_88" n="N020"/>знаки наградъ, отличающіе спо¬
+               <lb facs="#facs_10_line_1654627465384_98" n="N021"/>спѣшествующихъ благу сограж¬
+               <lb facs="#facs_10_line_1654627470497_101" n="N022"/>данъ отъ прочихъ простыхъ лю¬
+               <lb facs="#facs_10_line_1654627488721_105" n="N023"/>дей, посредствомъ различныхъ
+               <lb facs="#facs_10_line_1654627497009_108" n="N024"/>внѣшнихъ знаковъ и чиновъ, ко¬
+            </ab><pb facs="#facs_11" n="11" xml:id="img_0011"/><ab facs="#facs_11_region_1654632719146_162" type="">
+               <lb facs="#facs_11_line_1654632747250_166" n="N001"/>5
+               <lb facs="#facs_11_line_1654632788503_172" n="N002"/>имъ почерпнуты имяна изъ самой
+               <lb facs="#facs_11_line_1654632816232_179" n="N003"/>услуги обществу. Съ сего — то
+               <lb facs="#facs_11_line_1654632824526_182" n="N004"/>времени появились знаки, украша¬
+               <lb facs="#facs_11_line_1654632833917_185" n="N005"/>ющіе побѣдителей, статскихъ лю¬
+               <lb facs="#facs_11_line_1654632849422_188" n="N006"/>дей, судей и славныхъ художни¬
+               <lb facs="#facs_11_line_1654632857285_191" n="N007"/>ковъ. Чѣмъ болѣе общество увели¬
+               <lb facs="#facs_11_line_1654632960169_209" n="N008"/>чивалось, тѣмъ большая настоя¬
+               <lb facs="#facs_11_line_1654632966649_212" n="N009"/>ла нужда въ различныхъ должно¬
+               <lb facs="#facs_11_line_1654632973937_215" n="N010"/>стяхъ. Чѣмъ болѣе открывалось
+               <lb facs="#facs_11_line_1654632998881_219" n="N011"/>полезныхъ людей, тѣмъ нужнѣе
+               <lb facs="#facs_11_line_1654633007399_222" n="N012"/>были отличія разнаго рода.
+               <lb facs="#facs_11_line_1654633083941_242" n="N013"/>Не говоря болѣе о происхожденіи,
+               <lb facs="#facs_11_line_1654633091108_245" n="N014"/>приращеніи и преображеніи об¬
+               <lb facs="#facs_11_line_1654633098397_248" n="N015"/>ществъ, разсмотримъ ихъ въ насто¬
+               <lb facs="#facs_11_line_1654633104078_251" n="N016"/>ящемъ состояніи. Скажемъ, что су¬
+               <lb facs="#facs_11_line_1654633112619_254" n="N017"/>щественное благо общества, (взявъ
+               <lb facs="#facs_11_line_1654633122948_257" n="N018"/>въ разсужденіе благосостояніе его
+               <lb facs="#facs_11_line_1654633130260_260" n="N019"/>въ различныхъ отношеніяхъ), зави¬
+               <lb facs="#facs_11_line_1654633212161_284" n="N020"/>ситъ отъ ревностнаго и усерднаго
+               <lb facs="#facs_11_line_1654633219417_287" n="N021"/>исполненія должностей обществен¬
+               <lb facs="#facs_11_line_1654633229110_290" n="N022"/>ныхъ, и что чѣмъ сильнѣе ободренія
+               <lb facs="#facs_11_line_1654633235790_293" n="N023"/>къ сему исполненію, тѣмъ надежнѣе
+               <lb facs="#facs_11_line_1654633243143_296" n="N024"/>пріобрѣтается благо общества.
+            </ab><pb facs="#facs_12" n="12" xml:id="img_0012"/><ab facs="#facs_12_region_1654634754474_516" type="">
+               <lb facs="#facs_12_line_1654634768201_522" n="N001"/>6
+               <lb facs="#facs_12_line_1654634789441_528" n="N002"/>Но въ чемъ же состоятъ са¬
+               <lb facs="#facs_12_line_1654634797463_531" n="N003"/>мыя сильныя побудительныя при¬
+               <lb facs="#facs_12_line_1654634804216_534" n="N004"/>чины къ исполненію обществен¬
+               <lb facs="#facs_12_line_1654634810127_537" n="N005"/>ныхъ должностей, или блага, что
+               <lb facs="#facs_12_line_1654634930331_558" n="N006"/>все одно? какія крѣпчайшія побу¬
+               <lb facs="#facs_12_line_1654634934620_561" n="N007"/>жденія къ содѣланію добраго гра¬
+               <lb facs="#facs_12_line_1654634942011_564" n="N008"/>жданина и вѣрнаго подданнаго?
+               <lb facs="#facs_12_line_1654634950211_567" n="N009"/>Богатство ли, которое иные за нуж¬
+               <lb facs="#facs_12_line_1654635091165_582" n="N010"/>ное почитаютъ имѣть полезному
+               <lb facs="#facs_12_line_1654635097263_585" n="N011"/>члену общества? Никакъ! — Ибо,
+               <lb facs="#facs_12_line_1654635102493_588" n="N012"/>во первыхъ, не можно каждаго бо¬
+               <lb facs="#facs_12_line_1654635145445_601" n="N013"/>гатствомъ удовольствовать, по¬
+               <lb facs="#facs_12_line_1654635152157_604" n="N014"/>елику, кромѣ ненасытимыхъ, на¬
+               <lb facs="#facs_12_line_1654635156685_607" n="N015"/>ходятся еще гордыя души, ко¬
+               <lb facs="#facs_12_line_1654635165443_610" n="N016"/>торыя поставляютъ заслуги свои
+               <lb facs="#facs_12_line_1654635173403_613" n="N017"/>выше всякаго сокровища; есть
+               <lb facs="#facs_12_line_1654635180019_616" n="N018"/>также сами, изобилующіе богат¬
+               <lb facs="#facs_12_line_1654635269943_640" n="N019"/>ствомъ, и слѣдовательно не имѣю¬
+               <lb facs="#facs_12_line_1654635275408_643" n="N020"/>щіе въ немъ нужды. Во вторыхъ
+               <lb facs="#facs_12_line_1654635303254_652" n="N021"/>есть и такіе, кои, пріобрѣтши
+               <lb facs="#facs_12_line_1654635326310_656" n="N022"/>богатство, теряютъ ревность и
+               <lb facs="#facs_12_line_1654635345676_659" n="N023"/>усердіе свое, и засыпаютъ подъ
+               <lb facs="#facs_12_line_1654635357797_662" n="N024"/>тяжестію изобилія. — Кромѣ сего
+            </ab><pb facs="#facs_13" n="13" xml:id="img_0013"/><ab facs="#facs_13_r1" type="">
+               <lb facs="#facs_13_line_1667848979462_88" n="N001"/>7
+               <lb facs="#facs_13_r1l1" n="N002"/>чрезмѣрное излишество средствъ
+               <lb facs="#facs_13_r1l2" n="N003"/>жить въ изобиліи приводитъ къ
+               <lb facs="#facs_13_r1l4" n="N004"/>роскоши, а сія къ погибели. —
+               <lb facs="#facs_13_r1l5" n="N005"/>Похвалы ли, отличіе ли отъ дру¬
+               <lb facs="#facs_13_r1l6" n="N006"/>гихъ, пожалованіе ли чиновъ и
+               <lb facs="#facs_13_r1l7" n="N007"/>прочихъ внѣшнихъ знаковъ? — Но
+               <lb facs="#facs_13_r1l8" n="N008"/>кромѣ того, что не всѣ еще удоб¬
+               <lb facs="#facs_13_r1l9" n="N009"/>но плѣняются титлами и укра¬
+               <lb facs="#facs_13_r1l10" n="N010"/>шеніями, коихъ мудрые старики
+               <lb facs="#facs_13_r1l11" n="N011"/>не столько уважаютъ, сколько
+               <lb facs="#facs_13_r1l12" n="N012"/>молодые люди, недавно ихъ по¬
+               <lb facs="#facs_13_r1l13" n="N013"/>лучившіе, кромѣ сего, сколько
+               <lb facs="#facs_13_r1l14" n="N014"/>есть людей, получившихъ пенсіи,
+               <lb facs="#facs_13_r1l15" n="N015"/>земли, чины и ленты по достоин¬
+               <lb facs="#facs_13_r1l16" n="N016"/>ству и заслугамъ? Сколько Дворы
+               <lb facs="#facs_13_r1l17" n="N017"/>не пережаловали лентами, награ¬
+               <lb facs="#facs_13_r1l18" n="N018"/>дили пенсіями, одарили землями?
+               <lb facs="#facs_13_r1l19" n="N019"/>Можно ли то почесть безсмерті¬
+               <lb facs="#facs_13_r1l20" n="N020"/>емъ, на что получаются патен¬
+               <lb facs="#facs_13_r1l21" n="N021"/>ты изъ книгопечатней? Въ семъ
+               <lb facs="#facs_13_r1l22" n="N022"/>случаѣ часто бываетъ, что то
+               <lb facs="#facs_13_r1l23" n="N023"/>же перо, которое исписывалось на
+               <lb facs="#facs_13_r1l24" n="N024"/>обожательныя похвалы, предста¬
+            </ab><pb facs="#facs_14" n="14" xml:id="img_0014"/><ab facs="#facs_14_r1" type="">
+               <lb facs="#facs_14_line_1670540362561_52" n="N001"/>8
+               <lb facs="#facs_14_r1l1" n="N002"/>вляетъ, спустя нѣсколько мѣся¬
+               <lb facs="#facs_14_r1l2" n="N003"/>цовъ, тогожъ самаго героя ужа¬
+               <lb facs="#facs_14_r1l3" n="N004"/>снѣйшимъ чудовищемъ; и въ то
+               <lb facs="#facs_14_r1l4" n="N005"/>же время, только лишь въ другой
+               <lb facs="#facs_14_r1l5" n="N006"/>книгѣ, воздвигаетъ ему жертвен¬
+               <lb facs="#facs_14_r1l6" n="N007"/>ники. Одинъ Волтеръ можетъ до¬
+               <lb facs="#facs_14_r1l7" n="N008"/>казать сіе. — Но слава не можетъ
+               <lb facs="#facs_14_r1l8" n="N009"/>ли послужить людямъ довольнымъ
+               <lb facs="#facs_14_r1l9" n="N010"/>побужденіемъ? Но что такое сла¬
+               <lb facs="#facs_14_r1l10" n="N011"/>ва человѣческая? Слава вообще есть
+               <lb facs="#facs_14_r1l11" n="N012"/>дымъ, въ минуту изчезающій.
+               <lb facs="#facs_14_r1l12" n="N013"/>Слава самыхъ великихъ людей есть
+               <lb facs="#facs_14_r1l13" n="N014"/>такой товаръ, который покупает¬
+               <lb facs="#facs_14_r1l14" n="N015"/>ся у модныхъ писателей, который
+               <lb facs="#facs_14_r1l15" n="N016"/>судится по смерти ихъ запутан¬
+               <lb facs="#facs_14_r1l16" n="N017"/>ными Историками, коимъ обыкно¬
+               <lb facs="#facs_14_r1l17" n="N018"/>венно мало вѣрятъ, и который
+               <lb facs="#facs_14_r1l18" n="N019"/>наконецъ книгопродавцы за весьма
+               <lb facs="#facs_14_r1l19" n="N020"/>умѣренную продаютъ цѣну (*).
+               <lb facs="#facs_14_r1l20" n="N021"/>(*) Великїй ПЕТРЪ и Великая ЕКА¬
+               <lb facs="#facs_14_r1l21" n="N022"/>ТЕРИНА должны быть изключе¬
+               <lb facs="#facs_14_r1l22" n="N023"/>ны изъ сего, по несчастїю, истиннаго
+               <lb facs="#facs_14_r1l23" n="N024"/>мнѣнїя. — Сколько прошло времени,
+               <lb facs="#facs_14_r1l24" n="N025"/>какъ ПЕТРЪ премѣнилъ жизнь свою
+            </ab><pb facs="#facs_15" n="15" xml:id="img_0015"/><ab facs="#facs_15_region_1667849350706_148" type="">
+               <lb facs="#facs_15_line_1667849366320_157" n="N001"/>9
+               <lb facs="#facs_15_r1l1" n="N002"/>Герой славенъ, ежели бытописатель
+               <lb facs="#facs_15_r1l2" n="N003"/>его краснорѣчивъ. И не помнили бы
+               <lb facs="#facs_15_r1l3" n="N004"/>объ Александрѣ, ежели бы не бы¬
+               <lb facs="#facs_15_r1l4" n="N005"/>ло Квинта —Курція. Я и теперь
+               <lb facs="#facs_15_r1l5" n="N006"/>не помню, предъ кѣмъ Плиній ку¬
+            </ab><ab facs="#facs_15_r1" type="">
+               <lb facs="#facs_15_r1l6" n="N001"/>на небесную? но ни важный Германецъ,
+               <lb facs="#facs_15_r1l7" n="N002"/>ни мрачный Англичанинъ, ни коло¬
+               <lb facs="#facs_15_r1l8" n="N003"/>вратный Французъ, не смѣли ничего
+               <lb facs="#facs_15_r1l9" n="N004"/>говорить о немъ, кромѣ по достойн¬
+               <lb facs="#facs_15_r1l10" n="N005"/>ству добраго. Одинъ Штраленбергъ
+               <lb facs="#facs_15_r1l11" n="N006"/>могъ сплести нѣкоторыя басни; но
+               <lb facs="#facs_15_r1l12" n="N007"/>честные люди презираютъ сего пустаго
+               <lb facs="#facs_15_r1l13" n="N008"/>разскащика. — Россъли не пролїетъ
+               <lb facs="#facs_15_r1l14" n="N009"/>о ПЕТРѢ умиленную слезу изъ сердца
+               <lb facs="#facs_15_r1l15" n="N010"/>своего? — Великая ЕКАТЕРИНА,
+               <lb facs="#facs_15_r1l16" n="N011"/>Исполнительница ПЕТРОВЫХЪ начи¬
+               <lb facs="#facs_15_r1l17" n="N012"/>нанїй, уже въ сей жизни начала свое
+               <lb facs="#facs_15_r1l18" n="N013"/>безсмертїе. Законы пишущая, и сама
+               <lb facs="#facs_15_r1l19" n="N014"/>имъ прежде вѣрноподданныхъ своихъ
+               <lb facs="#facs_15_r1l20" n="N015"/>покаряющаяся, мудрые законы для
+               <lb facs="#facs_15_r1l21" n="N016"/>благоденствїя, отечества изъ Боже¬
+               <lb facs="#facs_15_r1l22" n="N017"/>скихъ поче пающая, и собственною
+               <lb facs="#facs_15_r1l23" n="N018"/>десницею своею потомству предающая,
+               <lb facs="#facs_15_r1l24" n="N019"/>можетъ ли изглаждена быть изъ сер¬
+               <lb facs="#facs_15_r1l25" n="N020"/>децъ чувствительныхъ? Благо чадъ
+               <lb facs="#facs_15_r1l26" n="N021"/>Ея есть боль лежащая на душѣ Ея. —
+               <lb facs="#facs_15_r1l27" n="N022"/>Проклято да будетъ то перо, которое
+               <lb facs="#facs_15_r1l28" n="N023"/>вдохновенный адомъ писатель, омочив¬
+               <lb facs="#facs_15_r1l29" n="N024"/>ши въ желчь, употребитъ на очерне¬
+               <lb facs="#facs_15_r1l30" n="N025"/>нїе Великаго ПЕТРА и Великой ЕКА¬
+               <lb facs="#facs_15_r1l31" n="N026"/>ТЕРИНЫІ В....
+            </ab><pb facs="#facs_16" n="16" xml:id="img_0016"/><ab facs="#facs_16_r1" type="">
+               <lb facs="#facs_16_r1l1" n="N001"/>10
+               <lb facs="#facs_16_r1l2" n="N002"/>рилъ ѳиміамъ свой. — Слава ча¬
+               <lb facs="#facs_16_r1l3" n="N003"/>стныхъ людей! Кто въ наше вре¬
+               <lb facs="#facs_16_r1l4" n="N004"/>мя славнѣе былъ Волтера? но что
+               <lb facs="#facs_16_r1l5" n="N005"/>нынѣ говорятъ о немъ? „О! что
+               <lb facs="#facs_16_line_1670540713382_108" n="N006"/>„касается до Философіи, то всего
+               <lb facs="#facs_16_line_1670540725835_112" n="N007"/>„меньше ее въ немъ было. Прене¬
+               <lb facs="#facs_16_r1l10" n="N008"/>„годный Историкъ; нѣтъ, Исторія
+               <lb facs="#facs_16_r1l11" n="N009"/>„не его дѣло.„ Только лишь то
+               <lb facs="#facs_16_r1l12" n="N010"/>можно сказать о немъ, что онъ
+               <lb facs="#facs_16_r1l13" n="N011"/>былъ забавный писатель. Чтожъ
+               <lb facs="#facs_16_r1l14" n="N012"/>говорятъ о немъ военные люди,
+               <lb facs="#facs_16_r1l15" n="N013"/>ученые, отцы дѣтей, ревностные
+               <lb facs="#facs_16_r1l16" n="N014"/>пастыри церкви, молодые люди,
+               <lb facs="#facs_16_r1l17" n="N015"/>исправившіе нравы свои, свидѣте¬
+               <lb facs="#facs_16_r1l18" n="N016"/>ли домашней его жизни?
+               <lb facs="#facs_16_r1l19" n="N017"/>Главнѣйшею изъ всѣхъ побуди¬
+               <lb facs="#facs_16_r1l20" n="N018"/>тельныхъ причинъ къ исполненію
+               <lb facs="#facs_16_r1l21" n="N019"/>должностей должно почесть страхъ
+               <lb facs="#facs_16_r1l22" n="N020"/>быть наказану отъ Бога и стыдъ
+               <lb facs="#facs_16_r1l23" n="N021"/>предъ людьми. Стыдѣ изчезаетъ,
+               <lb facs="#facs_16_r1l24" n="N022"/>когда преступленіе скрыто. Мож¬
+               <lb facs="#facs_16_r1l25" n="N023"/>но же скрыть его или упрямымъ
+               <lb facs="#facs_16_r1l26" n="N024"/>и упорнымъ непризнаніемъ про¬
+            </ab><pb facs="#facs_17" n="17" xml:id="img_0017"/><ab facs="#facs_17_r1" type="">
+               <lb facs="#facs_17_r1l1" n="N001"/>11
+               <lb facs="#facs_17_r1l2" n="N002"/>ступка своего предъ судіею, или
+               <lb facs="#facs_17_r1l3" n="N003"/>задаривъ и склонивъ судію на
+               <lb facs="#facs_17_r1l4" n="N004"/>свою сторону, или хитростію и
+               <lb facs="#facs_17_r1l5" n="N005"/>происками запутавъ дѣло, и мно¬
+               <lb facs="#facs_17_r1l6" n="N006"/>гими другими, или лучше сказать,
+               <lb facs="#facs_17_r1l7" n="N007"/>безчисленными обстоятельствами.
+               <lb facs="#facs_17_r1l8" n="N008"/>Сверьхъ сего, къ стыду нашего
+               <lb facs="#facs_17_r1l9" n="N009"/>времени, можно всегда найти до¬
+               <lb facs="#facs_17_r1l10" n="N010"/>вольное число одобрителей и изви¬
+               <lb facs="#facs_17_r1l11" n="N011"/>нителей развратовъ всякаго рода,
+               <lb facs="#facs_17_r1l12" n="N012"/>съ которыми быть, сдѣлавъ какой
+               <lb facs="#facs_17_r1l13" n="N013"/>нибудь безчестный поступокъ, не
+               <lb facs="#facs_17_r1l14" n="N014"/>имѣютъ ни стыда, ни скуки. И
+               <lb facs="#facs_17_r1l15" n="N015"/>такъ остается одинъ лишь страхъ
+               <lb facs="#facs_17_r1l16" n="N016"/>совѣсти, которая мучитъ въ тайнъ
+               <lb facs="#facs_17_r1l17" n="N017"/>совѣстнаго человѣка: совѣсти, ко¬
+               <lb facs="#facs_17_r1l18" n="N018"/>торая боится преступить законъ
+               <lb facs="#facs_17_r1l19" n="N019"/>Божій. Слѣдовательно совѣстный
+               <lb facs="#facs_17_r1l20" n="N020"/>гражданинъ есть дѣло закона Бо¬
+               <lb facs="#facs_17_r1l21" n="N021"/>жескаго, напечатлѣннаго въ совѣ¬
+               <lb facs="#facs_17_r1l22" n="N022"/>сти, и одушевленнаго правилами
+               <lb facs="#facs_17_r1l23" n="N023"/>Христіанскаго воспитанія; а не
+               <lb facs="#facs_17_r1l24" n="N024"/>дѣло законодавцевъ человѣковъ,
+            </ab><pb facs="#facs_18" n="18" xml:id="img_0018"/><ab facs="#facs_18_r1" type="">
+               <lb facs="#facs_18_r1l1" n="N001"/>12
+               <lb facs="#facs_18_r1l2" n="N002"/>изъ коихъ и премудрѣйшіе всегда
+               <lb facs="#facs_18_r1l3" n="N003"/>прибѣгаютъ къ Божественному за¬
+               <lb facs="#facs_18_r1l4" n="N004"/>кону, и на его основаніи соору¬
+               <lb facs="#facs_18_r1l5" n="N005"/>жаютъ зданіе своего законодатель¬
+               <lb facs="#facs_18_r1l6" n="N006"/>ства. И такъ сія побудительная
+               <lb facs="#facs_18_r1l7" n="N007"/>причина свойственна одному лишъ
+               <lb facs="#facs_18_r1l8" n="N008"/>гражданину Христіанину, а не
+               <lb facs="#facs_18_r1l9" n="N009"/>иному кому.
+               <lb facs="#facs_18_r1l10" n="N010"/>Внѣшнія побужденія, каковы
+               <lb facs="#facs_18_r1l11" n="N011"/>бы въ самихъ себѣ ни были, не
+               <lb facs="#facs_18_r1l12" n="N012"/>довольны возбудить гражданина
+               <lb facs="#facs_18_r1l13" n="N013"/>къ вѣрному, усердному и постоян¬
+               <lb facs="#facs_18_r1l14" n="N014"/>ному исполненію общественныхъ
+               <lb facs="#facs_18_r1l15" n="N015"/>должностей, которыя часто за¬
+               <lb facs="#facs_18_r1l16" n="N016"/>ставляютъ терпѣть многое, те¬
+               <lb facs="#facs_18_r1l17" n="N017"/>рять здоровье и самую жизнь.
+               <lb facs="#facs_18_r1l18" n="N018"/>Должно искать другихъ побужде¬
+               <lb facs="#facs_18_r1l19" n="N019"/>ній и другихъ причинъ къ сему
+               <lb facs="#facs_18_r1l20" n="N020"/>достохвальному дѣйствію.
+               <lb facs="#facs_18_r1l21" n="N021"/>Какія же сіи побудительныя
+               <lb facs="#facs_18_r1l22" n="N022"/>причины, и гдѣ ихъ искать дол¬
+               <lb facs="#facs_18_r1l23" n="N023"/>жно? — Сіи побужденія суть и
+               <lb facs="#facs_18_r1l24" n="N024"/>должны быть внутреннія, а не
+            </ab><pb facs="#facs_19" n="19" xml:id="img_0019"/><ab facs="#facs_19_r1" type="">
+               <lb facs="#facs_19_r1l1" n="N001"/>13
+               <lb facs="#facs_19_r1l2" n="N002"/>внѣшнія, Божественныя, а не чело¬
+               <lb facs="#facs_19_r1l3" n="N003"/>вѣческія, кои сами собою недоволь¬
+               <lb facs="#facs_19_r1l4" n="N004"/>ны обязать человѣка къ порядоч¬
+               <lb facs="#facs_19_r1l5" n="N005"/>ному прохожденію должностей его.
+               <lb facs="#facs_19_r1l6" n="N006"/>И такъ должно ихъ искать въ за¬
+               <lb facs="#facs_19_r1l7" n="N007"/>конъ Божественномъ. Кто не ува¬
+               <lb facs="#facs_19_r1l8" n="N008"/>жаетъ сего закона, тотъ не мо¬
+               <lb facs="#facs_19_r1l9" n="N009"/>жетъ быть добрымъ гражданиномъ.
+               <lb facs="#facs_19_r1l10" n="N010"/>Напротивъ того, сердце гражда¬
+               <lb facs="#facs_19_r1l11" n="N011"/>нина Христіанина, воспитанное въ
+               <lb facs="#facs_19_r1l12" n="N012"/>истинномъ Христіанствѣ, знаетъ,
+               <lb facs="#facs_19_r1l13" n="N013"/>что лицемѣріе проклято уставами
+               <lb facs="#facs_19_r1l14" n="N014"/>Божественнаго благочестія; что
+               <lb facs="#facs_19_r1l15" n="N015"/>служители должны повиноваться
+               <lb facs="#facs_19_r1l16" n="N016"/>и служить благимъ образомъ, не
+               <lb facs="#facs_19_r1l17" n="N017"/>только тогда, какъ глаза господъ
+               <lb facs="#facs_19_r1l18" n="N018"/>ихъ обращены на нихъ, но вездѣ,
+               <lb facs="#facs_19_r1l19" n="N019"/>во всемъ, въ простотѣ сердца, не
+               <lb facs="#facs_19_r1l20" n="N020"/>помышляя о томъ, какъ бы уго¬
+               <lb facs="#facs_19_r1l21" n="N021"/>дить людямъ, но стараясь уго¬
+               <lb facs="#facs_19_r1l22" n="N022"/>дить самому Господу. Колос. Ш.
+               <lb facs="#facs_19_r1l23" n="N023"/>22. — 25. Не токмо изъ страха,
+               <lb facs="#facs_19_r1l24" n="N024"/>но и изъ совѣсти. Римл. ХIII. 5. —8.
+            </ab><pb facs="#facs_20" n="20" xml:id="img_0020"/><ab facs="#facs_20_r1" type="">
+               <lb facs="#facs_20_r1l1" n="N001"/>14
+               <lb facs="#facs_20_r1l2" n="N002"/>Сердце сіе вѣдаетъ должность
+               <lb facs="#facs_20_r1l3" n="N003"/>повиновенія не только благимъ,
+               <lb facs="#facs_20_r1l4" n="N004"/>но и жестокимъ господамъ. 1 Петр.
+               <lb facs="#facs_20_r1l5" n="N005"/>II. 18. 1 Тим. VI. 1. —5. Оно
+               <lb facs="#facs_20_r1l6" n="N006"/>знаетъ, что верьховный Закоyода¬
+               <lb facs="#facs_20_r1l7" n="N007"/>вецъ услугу, оказанную себѣ, рав¬
+               <lb facs="#facs_20_r1l8" n="N008"/>ною почитаетъ съ услугою, ока¬
+               <lb facs="#facs_20_r1l9" n="N009"/>занною Государю, повелѣвая воз¬
+               <lb facs="#facs_20_r1l10" n="N010"/>давать Божія Богови, и Кесарева
+               <lb facs="#facs_20_r1l11" n="N011"/>Кесареви; повелѣніе, приведшее въ
+               <lb facs="#facs_20_r1l12" n="N012"/>удивленіе и недоброжелателей и
+               <lb facs="#facs_20_r1l13" n="N013"/>клеветниковъ! — Сердце, располо¬
+               <lb facs="#facs_20_r1l14" n="N014"/>женное къ служенію обществу
+               <lb facs="#facs_20_r1l15" n="N015"/>Божественною религіею, знаетъ,
+               <lb facs="#facs_20_r1l16" n="N016"/>что служа Государю, или обще¬
+               <lb facs="#facs_20_r1l17" n="N017"/>ству, служитъ не токмо самому
+               <lb facs="#facs_20_r1l18" n="N018"/>себѣ, но и Богу, сему Создателю,
+               <lb facs="#facs_20_r1l19" n="N019"/>который видитъ все, знаетъ все,
+               <lb facs="#facs_20_r1l20" n="N020"/>и пребываетъ всюду; которому
+               <lb facs="#facs_20_r1l21" n="N021"/>повинуется оно въ Государѣ сво¬
+               <lb facs="#facs_20_r1l22" n="N022"/>емъ, зная, что отъ Бога постав¬
+               <lb facs="#facs_20_r1l23" n="N023"/>ленъ онъ правителемъ, и почи¬
+               <lb facs="#facs_20_r1l24" n="N024"/>таетъ въ немъ образъ владыче¬
+            </ab><pb facs="#facs_21" n="21" xml:id="img_0021"/><ab facs="#facs_21_r1" type="">
+               <lb facs="#facs_21_r1l1" n="N001"/>15
+               <lb facs="#facs_21_r1l2" n="N002"/>ства Всемогущаго. — Ефес. IV. 5. — 9.
+               <lb facs="#facs_21_r1l3" n="N003"/>Таковая вѣра свойственна одно¬
+               <lb facs="#facs_21_r1l4" n="N004"/>му лишь сердцу истиннаго Хри¬
+               <lb facs="#facs_21_r1l5" n="N005"/>стіанина, который одинъ можетъ
+               <lb facs="#facs_21_r1l6" n="N006"/>любить Государя своего, слѣдова¬
+               <lb facs="#facs_21_r1l7" n="N007"/>тельно одинъ можетъ быть вѣр¬
+               <lb facs="#facs_21_r1l8" n="N008"/>нымъ подданнымъ. Мирная совѣсть,
+               <lb facs="#facs_21_r1l9" n="N009"/>внутреннее спокойствіе, превос¬
+               <lb facs="#facs_21_r1l10" n="N010"/>ходящее всѣ знанія, суть цѣлію,
+               <lb facs="#facs_21_r1l11" n="N011"/>къ которой стремится гражда¬
+               <lb facs="#facs_21_r1l12" n="N012"/>нинъ, исполняющій симъ образомъ
+               <lb facs="#facs_21_r1l13" n="N013"/>общественныя должности, водимый
+               <lb facs="#facs_21_r1l14" n="N014"/>сими побужденіями. Любить Бога
+               <lb facs="#facs_21_r1l15" n="N015"/>есть безпрерывное побужденіе и.
+               <lb facs="#facs_21_r1l16" n="N016"/>причина его дѣйствій. Существен¬
+               <lb facs="#facs_21_r1l17" n="N017"/>ное, а не мнимое безсмертіе, вѣч¬
+               <lb facs="#facs_21_r1l18" n="N018"/>ность, а не время, есть предметъ
+               <lb facs="#facs_21_r1l19" n="N019"/>трудовъ и подвиговъ его. Степени
+               <lb facs="#facs_21_r1l20" n="N020"/>различныхъ общественныхъ долж¬
+               <lb facs="#facs_21_r1l21" n="N021"/>ностей суть для него лѣствица,
+               <lb facs="#facs_21_r1l22" n="N022"/>по которой надѣется онъ взойти
+               <lb facs="#facs_21_r1l23" n="N023"/>на небо. — Сіи побужденія суть
+               <lb facs="#facs_21_r1l24" n="N024"/>внутреннія, вѣчныя, и не могутъ
+            </ab><pb facs="#facs_22" n="22" xml:id="img_0022"/><ab facs="#facs_22_r1" type="">
+               <lb facs="#facs_22_r1l1" n="N001"/>16
+               <lb facs="#facs_22_r1l2" n="N002"/>престать, хотя бы онъ получилъ
+               <lb facs="#facs_22_r1l3" n="N003"/>всѣ земныя награжденія; сіи по¬
+               <lb facs="#facs_22_r1l4" n="N004"/>бужденія суть вѣчны, и не мо¬
+               <lb facs="#facs_22_r1l5" n="N005"/>гутъ престать, хотя бы онъ не
+               <lb facs="#facs_22_r1l6" n="N006"/>имѣлъ никакого внѣшняго побуж¬
+               <lb facs="#facs_22_r1l7" n="N007"/>денія къ исполненію должностей
+               <lb facs="#facs_22_r1l8" n="N008"/>своихъ.
+               <lb facs="#facs_22_r1l9" n="N009"/>Скажутъ можетъ быть, что
+               <lb facs="#facs_22_r1l10" n="N010"/>правосудный и мудрый Государь,
+               <lb facs="#facs_22_r1l11" n="N011"/>имѣющій опытныхъ Министровъ,
+               <lb facs="#facs_22_r1l12" n="N012"/>можетъ побудить подданныхъ къ
+               <lb facs="#facs_22_r1l13" n="N013"/>исполненію ихъ должностей. Но
+               <lb facs="#facs_22_r1l14" n="N014"/>сей Государь и Министры его чело¬
+               <lb facs="#facs_22_r1l15" n="N015"/>вѣки, или Ангелы? Ежели сей Го¬
+               <lb facs="#facs_22_r1l16" n="N016"/>сударь есть человѣкъ, какъ и про¬
+               <lb facs="#facs_22_r1l17" n="N017"/>чіе, и облеченъ такою же плотію,
+               <lb facs="#facs_22_r1l18" n="N018"/>то скажемъ мы съ благоговѣйною
+               <lb facs="#facs_22_r1l19" n="N019"/>свободою, должною священной осо¬
+               <lb facs="#facs_22_r1l20" n="N020"/>бъ его, что высокія и блистатель¬
+               <lb facs="#facs_22_r1l21" n="N021"/>ныя свойства, украшающія душу
+               <lb facs="#facs_22_r1l22" n="N022"/>Владыки народовъ, иногда также
+               <lb facs="#facs_22_r1l23" n="N023"/>подвержены затмѣнію — Развѣ не
+               <lb facs="#facs_22_r1l24" n="N024"/>можно войти въ сердце и духъ
+            </ab><pb facs="#facs_23" n="23" xml:id="img_0023"/><ab facs="#facs_23_r1" type="">
+               <lb facs="#facs_23_r1l1" n="N001"/>17
+               <lb facs="#facs_23_r1l2" n="N002"/>его слабостямъ, пристрастію и
+               <lb facs="#facs_23_r1l3" n="N003"/>предразсудкамъ? Кромѣ сего дол¬
+               <lb facs="#facs_23_r1l4" n="N004"/>женъ онъ познавать людей чрезъ
+               <lb facs="#facs_23_r1l5" n="N005"/>первыхъ, окружающихъ его Ми¬
+               <lb facs="#facs_23_r1l6" n="N006"/>нистровъ. Но развѣ они новые
+               <lb facs="#facs_23_r1l7" n="N007"/>пришельцы на землѣ сей? Не имѣ¬
+               <lb facs="#facs_23_r1l8" n="N008"/>ютъ ли они родственниковъ? Нѣтъ
+               <lb facs="#facs_23_r1l9" n="N009"/>ли у нихъ людей, которые имъ
+               <lb facs="#facs_23_r1l10" n="N010"/>служатъ, или оказали услуги;
+               <lb facs="#facs_23_r1l11" n="N011"/>которые старались угодить имъ
+               <lb facs="#facs_23_r1l12" n="N012"/>съ потерею того, что ни было у
+               <lb facs="#facs_23_r1l13" n="N013"/>нихъ лучшаго, въ надеждѣ прі¬
+               <lb facs="#facs_23_r1l14" n="N014"/>обрѣсть ихъ благосклонность? По¬
+               <lb facs="#facs_23_r1l15" n="N015"/>желаютъ ли они быть неблагодар¬
+               <lb facs="#facs_23_r1l16" n="N016"/>ными, и не снискать имъ чего
+               <lb facs="#facs_23_r1l17" n="N017"/>нибудь, съ ущербомъ безпристра¬
+               <lb facs="#facs_23_r1l18" n="N018"/>стія, сего столь рѣдкаго въ вели¬
+               <lb facs="#facs_23_r1l19" n="N019"/>кихъ людяхъ качества? Сіи Ми¬
+               <lb facs="#facs_23_r1l20" n="N020"/>нистры имѣютъ людей, окружаю¬
+               <lb facs="#facs_23_r1l21" n="N021"/>щихъ ихъ. Все сіе есть стѣна,
+               <lb facs="#facs_23_r1l22" n="N022"/>раздѣляющая Монарха отъ граж¬
+               <lb facs="#facs_23_r1l23" n="N023"/>данъ, старающихся исполнить свои
+               <lb facs="#facs_23_r1l24" n="N024"/>должности; все сіе есть мракъ,
+               <lb facs="#facs_23_r1l25" n="N025"/>Б
+            </ab><pb facs="#facs_24" n="24" xml:id="img_0024"/><ab facs="#facs_24_r1" type="">
+               <lb facs="#facs_24_r1l1" n="N001"/>18
+               <lb facs="#facs_24_r1l2" n="N002"/>скрывающій отъ очей Государя
+               <lb facs="#facs_24_r1l3" n="N003"/>людей низшаго степени. И ты,
+               <lb facs="#facs_24_r1l4" n="N004"/>смиренномудренная добродѣтель,
+               <lb facs="#facs_24_r1l5" n="N005"/>убѣгающая похвалы, и стыдящая¬
+               <lb facs="#facs_24_r1l6" n="N006"/>ся говорить о себѣ, какъ возне¬
+               <lb facs="#facs_24_r1l7" n="N007"/>сешь гласъ твой до высоты пре¬
+               <lb facs="#facs_24_r1l8" n="N008"/>стола? Гражданинъ, одушевляемый
+               <lb facs="#facs_24_r1l9" n="N009"/>тобою, скорѣе погребется въ зем¬
+               <lb facs="#facs_24_r1l10" n="N010"/>лѣ, нежели пожелаетъ быть знае¬
+               <lb facs="#facs_24_r1l11" n="N011"/>мымъ отъ многихъ. Таковый граж¬
+               <lb facs="#facs_24_r1l12" n="N012"/>данинъ, пребывая въ тоже самое
+               <lb facs="#facs_24_r1l13" n="N013"/>время истиннымъ Христіаниномъ,
+               <lb facs="#facs_24_r1l14" n="N014"/>не токмо довольствуется молчані¬
+               <lb facs="#facs_24_r1l15" n="N015"/>емъ о себѣ, не токмо не ищетъ
+               <lb facs="#facs_24_r1l16" n="N016"/>похвалъ и славы, но и страшит¬
+               <lb facs="#facs_24_r1l17" n="N017"/>ся, убѣгаетъ ихъ, стараясь един¬
+               <lb facs="#facs_24_r1l18" n="N018"/>ственно угодить вездѣсущему Богу,
+               <lb facs="#facs_24_r1l19" n="N019"/>коего престолъ любви стоитъ
+               <lb facs="#facs_24_r1l20" n="N020"/>внутрь сердца любящаго Его Хри¬
+               <lb facs="#facs_24_r1l21" n="N021"/>стіанина. Лук. ХVII. 21.
+               <lb facs="#facs_24_r1l22" n="N022"/>Разсмотримъ далѣе награжде¬
+               <lb facs="#facs_24_r1l23" n="N023"/>нія, ожидаемыя отъ высочайшей
+               <lb facs="#facs_24_r1l24" n="N024"/>власти; увидимъ, что онѣ не
+            </ab><pb facs="#facs_25" n="25" xml:id="img_0025"/><ab facs="#facs_25_r1" type="">
+               <lb facs="#facs_25_r1l1" n="N001"/>19
+               <lb facs="#facs_25_r1l2" n="N002"/>всегда, да и никогда не бываютъ
+               <lb facs="#facs_25_r1l3" n="N003"/>соразмѣрны ревности, жару и усер¬
+               <lb facs="#facs_25_r1l4" n="N004"/>дію гражданина-Христіанина, такъ
+               <lb facs="#facs_25_r1l5" n="N005"/>что награда мирной совѣсти есть
+               <lb facs="#facs_25_r1l6" n="N006"/>единое награжденіе, коимъ удовле¬
+               <lb facs="#facs_25_r1l7" n="N007"/>творяется таковый членъ обще¬
+               <lb facs="#facs_25_r1l8" n="N008"/>ства. Но сіе внутренно пріобрѣ¬
+               <lb facs="#facs_25_r1l9" n="N009"/>тается чрезъ Божественную благо¬
+               <lb facs="#facs_25_r1l10" n="N010"/>дать Iисуса Христа; а по тому
+               <lb facs="#facs_25_r1l11" n="N011"/>одинъ Христіанинъ можетъ симъ
+               <lb facs="#facs_25_r1l12" n="N012"/>наслаждаться.
+               <lb facs="#facs_25_r1l13" n="N013"/>Награжденіе получаемое отъ
+               <lb facs="#facs_25_r1l14" n="N014"/>Государей, состоитъ въ уваженіи
+               <lb facs="#facs_25_r1l15" n="N015"/>людей съ достоинствами, отличаю¬
+               <lb facs="#facs_25_r1l16" n="N016"/>щемъ ихъ отъ тѣхъ, которые
+               <lb facs="#facs_25_r1l17" n="N017"/>ихъ не имѣютъ. — Но какъ могутъ
+               <lb facs="#facs_25_r1l18" n="N018"/>они награждать, жертвующихъ
+               <lb facs="#facs_25_r1l19" n="N019"/>здоровьемъ своимъ и самою жизнію?
+               <lb facs="#facs_25_r1l20" n="N020"/>Какъ могутъ вознаградить ихъ за
+               <lb facs="#facs_25_r1l21" n="N021"/>неусыпные ихъ труды, чрезъ силь¬
+               <lb facs="#facs_25_r1l22" n="N022"/>ное напряженіе силъ душевныхъ
+               <lb facs="#facs_25_r1l23" n="N023"/>измождающіе составъ тѣлесный?
+               <lb facs="#facs_25_r1l24" n="N024"/>за умную твердость, за непоколе¬
+               <lb facs="#facs_25_r1l25" n="N025"/>Б 9
+            </ab><pb facs="#facs_26" n="26" xml:id="img_0026"/><ab facs="#facs_26_r1" type="">
+               <lb facs="#facs_26_r1l1" n="N001"/>20
+               <lb facs="#facs_26_r1l2" n="N002"/>бимую, а не минутную смѣлость
+               <lb facs="#facs_26_r1l3" n="N003"/>государственнаго человѣка, съ ка¬
+               <lb facs="#facs_26_r1l4" n="N004"/>ковою защищаетъ онъ слабаго не¬
+               <lb facs="#facs_26_r1l5" n="N005"/>виннаго отъ угнѣтенія великаго и
+               <lb facs="#facs_26_r1l6" n="N006"/>мощнаго человѣка, и противобор¬
+               <lb facs="#facs_26_r1l7" n="N007"/>ствуетъ угрозамъ и пронырству; —
+               <lb facs="#facs_26_r1l8" n="N008"/>онъ не взираетъ на покровитель¬
+               <lb facs="#facs_26_r1l9" n="N009"/>ство которое представляетъ ему
+               <lb facs="#facs_26_r1l10" n="N010"/>тысячи выгодныхъ предложеній,
+               <lb facs="#facs_26_r1l11" n="N011"/>и проситъ сего поборника истин¬
+               <lb facs="#facs_26_r1l12" n="N012"/>ны лишь о томъ, чтобъ онѣ мол¬
+               <lb facs="#facs_26_r1l13" n="N013"/>чалъ, и не мѣшалъ ему слабо¬
+               <lb facs="#facs_26_r1l14" n="N014"/>сильнаго лишить имѣнія, чести,
+               <lb facs="#facs_26_r1l15" n="N015"/>и проч. — Гражданинъ, исполняю¬
+               <lb facs="#facs_26_r1l16" n="N016"/>щій непорочно общественныя дол¬
+               <lb facs="#facs_26_r1l17" n="N017"/>жности, истинный Христіанинъ,
+               <lb facs="#facs_26_r1l18" n="N018"/>не соглашающійся въ таковомъ слу¬
+               <lb facs="#facs_26_r1l19" n="N019"/>чаѣ на дѣлаемыя ему предложенія,
+               <lb facs="#facs_26_r1l20" n="N020"/>теряетъ видимое богатство, но
+               <lb facs="#facs_26_r1l21" n="N021"/>пріобрѣтаетъ невидимое сокрови¬
+               <lb facs="#facs_26_r1l22" n="N022"/>ще, которое одному лишь ему из¬
+               <lb facs="#facs_26_r1l23" n="N023"/>вѣстно. И какой награды можетъ
+               <lb facs="#facs_26_r1l24" n="N024"/>онъ ожидать отъ правительства?
+            </ab><pb facs="#facs_27" n="27" xml:id="img_0027"/><ab facs="#facs_27_r1" type="">
+               <lb facs="#facs_27_r1l1" n="N001"/>21
+               <lb facs="#facs_27_r1l2" n="N002"/>Положимъ, что онъ ее получаетъ.
+               <lb facs="#facs_27_r1l3" n="N003"/>Но въ чемъ будетъ состоять на¬
+               <lb facs="#facs_27_r1l4" n="N004"/>града сія? Можетъ ли она возна¬
+               <lb facs="#facs_27_r1l5" n="N005"/>градить его по мѣрѣ трудовъ его,
+               <lb facs="#facs_27_r1l6" n="N006"/>то есть, можетъ ли возвратить
+               <lb facs="#facs_27_r1l7" n="N007"/>ему все здоровье его, которое онъ
+               <lb facs="#facs_27_r1l8" n="N008"/>утратилъ, не могши спать спокой¬
+               <lb facs="#facs_27_r1l9" n="N009"/>но многія ночи? Государь, или
+               <lb facs="#facs_27_r1l10" n="N010"/>низшее правительство, можетъ
+               <lb facs="#facs_27_r1l11" n="N011"/>ли дать ему то, что предлагала
+               <lb facs="#facs_27_r1l12" n="N012"/>ему сторона, недержавшаяся право¬
+               <lb facs="#facs_27_r1l13" n="N013"/>судія? Можетъ ли онъ съ семей¬
+               <lb facs="#facs_27_r1l14" n="N014"/>ствомъ своимѣ быть навсегда охра¬
+               <lb facs="#facs_27_r1l15" n="N015"/>ненъ отъ мщенія той стороны,
+               <lb facs="#facs_27_r1l16" n="N016"/>которая бы потеряла свой искъ
+               <lb facs="#facs_27_r1l17" n="N017"/>отъ безкорыстнаго его рѣшенія?
+               <lb facs="#facs_27_r1l18" n="N018"/>Ежели мнѣ скажутъ, что из¬
+               <lb facs="#facs_27_r1l19" n="N019"/>ображеніе такого поборника истин¬
+               <lb facs="#facs_27_r1l20" n="N020"/>ны не существуетъ, на сіе отвѣт¬
+               <lb facs="#facs_27_r1l21" n="N021"/>ствую: слѣдовательно нѣтъ болѣе
+               <lb facs="#facs_27_r1l22" n="N022"/>честнаго и праводушнаго гражда¬
+               <lb facs="#facs_27_r1l23" n="N023"/>нина, и хвалящіеся своими заслу¬
+               <lb facs="#facs_27_r1l24" n="N024"/>гами и гражданскими добродѣте¬
+            </ab><pb facs="#facs_28" n="28" xml:id="img_0028"/><ab facs="#facs_28_r1" type="">
+               <lb facs="#facs_28_r1l1" n="N001"/>22
+               <lb facs="#facs_28_r1l2" n="N002"/>лями должны перестать хвалить¬
+               <lb facs="#facs_28_r1l3" n="N003"/>ся ими; потому что онѣ одна
+               <lb facs="#facs_28_r1l4" n="N004"/>лишь тѣнь.
+               <lb facs="#facs_28_r1l5" n="N005"/>По дабы возвратиться къ на¬
+               <lb facs="#facs_28_r1l6" n="N006"/>шему предложенію, скажемъ, что
+               <lb facs="#facs_28_r1l7" n="N007"/>награжденія человѣческія очень
+               <lb facs="#facs_28_r1l8" n="N008"/>слабы въ сравненіи съ трудами и
+               <lb facs="#facs_28_r1l9" n="N009"/>безпокойствами, которыя должны
+               <lb facs="#facs_28_r1l10" n="N010"/>нести исполняющіе съ ревностію
+               <lb facs="#facs_28_r1l11" n="N011"/>гражданскія должности. Единъ
+               <lb facs="#facs_28_r1l12" n="N012"/>Богъ, а не мнимая любовь къ
+               <lb facs="#facs_28_r1l13" n="N013"/>благоустройству, можетъ быть
+               <lb facs="#facs_28_r1l14" n="N014"/>ихъ наградою, сей Богъ, который
+               <lb facs="#facs_28_r1l15" n="N015"/>повелѣваетъ творить правый судъ,
+               <lb facs="#facs_28_r1l16" n="N016"/>не взирая на лица; Богъ, который
+               <lb facs="#facs_28_r1l17" n="N017"/>заповѣдаетъ каждому пребывать
+               <lb facs="#facs_28_r1l18" n="N018"/>въ томъ званіи, въ немъ же при¬
+               <lb facs="#facs_28_r1l19" n="N019"/>званъ есть ко спасенію. Одно лишъ
+               <lb facs="#facs_28_r1l20" n="N020"/>чувствованіе живое, возбуждаемое
+               <lb facs="#facs_28_r1l21" n="N021"/>и сохраняемое духомъ истиннаго
+               <lb facs="#facs_28_r1l22" n="N022"/>Христіанства въ сердцахъ ревно¬
+               <lb facs="#facs_28_r1l23" n="N023"/>стныхъ исполнителей государст¬
+               <lb facs="#facs_28_r1l24" n="N024"/>венныхъ законовъ, — чувствова¬
+            </ab><pb facs="#facs_29" n="29" xml:id="img_0029"/><ab facs="#facs_29_r1" type="">
+               <lb facs="#facs_29_r1l1" n="N001"/>23
+               <lb facs="#facs_29_r1l2" n="N002"/>ніе, что вездѣсущій и всевидящій
+               <lb facs="#facs_29_r1l3" n="N003"/>Богъ видитъ и усердіе и желаніе
+               <lb facs="#facs_29_r1l4" n="N004"/>мое служить Государю, отечеству,
+               <lb facs="#facs_29_r1l5" n="N005"/>и помогать моему ближнему —
+               <lb facs="#facs_29_r1l6" n="N006"/>чувствованіе, исполнить чрезъ сіе
+               <lb facs="#facs_29_r1l7" n="N007"/>волю единаго благаго Бога, —
+               <lb facs="#facs_29_r1l8" n="N008"/>способно обязать ревностнаго граж¬
+               <lb facs="#facs_29_r1l9" n="N009"/>данина пещись о выгодахъ госу¬
+               <lb facs="#facs_29_r1l10" n="N010"/>дарственныхъ, или, лучше сказать,
+               <lb facs="#facs_29_r1l11" n="N011"/>что все равно, истиннаго гражда¬
+               <lb facs="#facs_29_r1l12" n="N012"/>нина-Христіанина и вѣрнаго под¬
+               <lb facs="#facs_29_r1l13" n="N013"/>даннаго, который вѣритъ и упо¬
+               <lb facs="#facs_29_r1l14" n="N014"/>ваетъ, что Господь и Богъ его
+               <lb facs="#facs_29_r1l15" n="N015"/>подкрѣпитъ ослабѣвающія силы
+               <lb facs="#facs_29_r1l16" n="N016"/>его къ преодолѣнію въ дѣлахъ
+               <lb facs="#facs_29_r1l17" n="N017"/>трудностей. Единъ Богъ спасетъ
+               <lb facs="#facs_29_r1l18" n="N018"/>меня, говоритъ рабъ Его, отъ
+               <lb facs="#facs_29_r1l19" n="N019"/>грома гоненія, возгремѣть грозя¬
+               <lb facs="#facs_29_r1l20" n="N020"/>щаго, пріуготовленнаго мощными
+               <lb facs="#facs_29_r1l21" n="N021"/>притѣснителями невинности, мною
+               <lb facs="#facs_29_r1l22" n="N022"/>защищаемой; и хотя бы я и палъ
+               <lb facs="#facs_29_r1l23" n="N023"/>подъ его ударами, сіе бѣдствіе,
+               <lb facs="#facs_29_r1l24" n="N024"/>претерпѣваемое за правосудіе и
+            </ab><pb facs="#facs_30" n="30" xml:id="img_0030"/><ab facs="#facs_30_r1" type="">
+               <lb facs="#facs_30_r1l1" n="N001"/>24
+               <lb facs="#facs_30_r1l2" n="N002"/>за доставленіе блага человѣкамъ,
+               <lb facs="#facs_30_r1l3" n="N003"/>за спасеніе коихъ Божественный
+               <lb facs="#facs_30_r1l4" n="N004"/>начальникъ истинныхъ Христіанъ
+               <lb facs="#facs_30_r1l5" n="N005"/>претерпѣлъ смерть крестную, бу¬
+               <lb facs="#facs_30_r1l6" n="N006"/>детъ мнѣ гораздо драгоцѣннѣе
+               <lb facs="#facs_30_r1l7" n="N007"/>нежели всѣ земныя награжденія.
+               <lb facs="#facs_30_r1l8" n="N008"/>О любезное семейство мое! ежели
+               <lb facs="#facs_30_r1l9" n="N009"/>сдѣлаюсь я несчастнымъ по внѣш¬
+               <lb facs="#facs_30_r1l10" n="N010"/>ности моей, ежели окончу вре¬
+               <lb facs="#facs_30_r1l11" n="N011"/>менное теченіе мое въ разлукѣ съ
+               <lb facs="#facs_30_r1l12" n="N012"/>тобою, не преставай и въ самое
+               <lb facs="#facs_30_r1l13" n="N013"/>отсутствіе мое быть орудіемъ
+               <lb facs="#facs_30_r1l14" n="N014"/>предстательства за невинность;
+               <lb facs="#facs_30_r1l15" n="N015"/>утѣшься тѣмъ, что у тебя есть
+               <lb facs="#facs_30_r1l16" n="N016"/>живый Богъ, который можетъ на¬
+               <lb facs="#facs_30_r1l17" n="N017"/>градить тебя въ вѣчности за то,
+               <lb facs="#facs_30_r1l18" n="N018"/>что ты претерпишь во времени. —
+               <lb facs="#facs_30_r1l19" n="N019"/>Такъ, единый Iисусъ Христосъ,
+               <lb facs="#facs_30_r1l20" n="N020"/>воплотившійся Богъ нашъ, а не
+               <lb facs="#facs_30_r1l21" n="N021"/>иныя какія либо награды, иногда
+               <lb facs="#facs_30_r1l22" n="N022"/>неправедно даемыя, можетъ на¬
+               <lb facs="#facs_30_r1l23" n="N023"/>градить довольно за лишеніе спо¬
+               <lb facs="#facs_30_r1l24" n="N024"/>койствія, за потерю здравія и жизни.
+            </ab><pb facs="#facs_31" n="31" xml:id="img_0031"/><ab facs="#facs_31_r1" type="">
+               <lb facs="#facs_31_r1l1" n="N001"/>25
+               <lb facs="#facs_31_r1l2" n="N002"/>Служеніе само по себѣ испол¬
+               <lb facs="#facs_31_r1l3" n="N003"/>нено трудовъ, огорченій, без¬
+               <lb facs="#facs_31_r1l4" n="N004"/>успѣшностей, и самой скорби для
+               <lb facs="#facs_31_r1l5" n="N005"/>чувствительной души. На примѣръ,
+               <lb facs="#facs_31_r1l6" n="N006"/>не одобрили плана, по которому бы
+               <lb facs="#facs_31_r1l7" n="N007"/>можно было получить чрезъ удоб¬
+               <lb facs="#facs_31_r1l8" n="N008"/>нѣйшія средства равныя или и
+               <lb facs="#facs_31_r1l9" n="N009"/>большія выгоды, не отягощая жи¬
+               <lb facs="#facs_31_r1l10" n="N010"/>телей. — Сей планъ дорого стоилъ
+               <lb facs="#facs_31_r1l11" n="N011"/>моему здоровью, говоритъ трудо¬
+               <lb facs="#facs_31_r1l12" n="N012"/>любивый гражданинъ. — Онъ не
+               <lb facs="#facs_31_r1l13" n="N013"/>успѣлъ привести въ дѣйство сіе
+               <lb facs="#facs_31_r1l14" n="N014"/>предпріятіе, не уважили тогда
+               <lb facs="#facs_31_r1l15" n="N015"/>гласа усердія и опытности; а те¬
+               <lb facs="#facs_31_r1l16" n="N016"/>перь послѣдовало за симъ зло и
+               <lb facs="#facs_31_r1l17" n="N017"/>другія сему подобныя вещи. Что
+               <lb facs="#facs_31_r1l18" n="N018"/>же дѣлать? Должноли ему мол¬
+               <lb facs="#facs_31_r1l19" n="N019"/>чать впередъ, и не предлагать
+               <lb facs="#facs_31_r1l20" n="N020"/>ничего для блага Государствен¬
+               <lb facs="#facs_31_r1l21" n="N021"/>наго, и мстить за особу свою
+               <lb facs="#facs_31_r1l22" n="N022"/>и за оскорбленное самолюбіе? Но
+               <lb facs="#facs_31_r1l23" n="N023"/>кому мстить? Своему отечеству,
+               <lb facs="#facs_31_r1l24" n="N024"/>которое иногда и не знаетъ, что
+               <lb facs="#facs_31_r1l25" n="N025"/>В
+            </ab><pb facs="#facs_32" n="32" xml:id="img_0032"/><ab facs="#facs_32_r1" type="">
+               <lb facs="#facs_32_r1l1" n="N001"/>26
+               <lb facs="#facs_32_r1l2" n="N002"/>его не выслушали? Кромѣ того
+               <lb facs="#facs_32_r1l3" n="N003"/>сіе не можетъ быть сообразно
+               <lb facs="#facs_32_r1l4" n="N004"/>благоразумію и усердїю граждани¬
+               <lb facs="#facs_32_r1l5" n="N005"/>на, но и противно его чувство¬
+               <lb facs="#facs_32_r1l6" n="N006"/>ваніямъ, или, лучше сказать,
+               <lb facs="#facs_32_r1l7" n="N007"/>чувствованіямъ духа любви Хри¬
+               <lb facs="#facs_32_r1l8" n="N008"/>стіанскія, которая есть духъ
+               <lb facs="#facs_32_r1l9" n="N009"/>гражданина Христіанина. Утѣ¬
+               <lb facs="#facs_32_r1l10" n="N010"/>шиться тѣмъ, что на его сторо¬
+               <lb facs="#facs_32_r1l11" n="N011"/>нѣ правосудїе? Но гдѣ найти утѣ¬
+               <lb facs="#facs_32_r1l12" n="N012"/>шеній? Какъ поступить, чтобъ
+               <lb facs="#facs_32_r1l13" n="N013"/>не охладѣла ревность? Чѣмъ же
+               <lb facs="#facs_32_r1l14" n="N014"/>побудить того, кто служитъ безъ
+               <lb facs="#facs_32_r1l15" n="N015"/>награды, приноситъ безполезные
+               <lb facs="#facs_32_r1l16" n="N016"/>плоды? безполезвые не по тому,
+               <lb facs="#facs_32_r1l17" n="N017"/>чтобъ они сами по себѣ были без¬
+               <lb facs="#facs_32_r1l18" n="N018"/>полезны, но поелику не хотятъ
+               <lb facs="#facs_32_r1l19" n="N019"/>ими пользоваться. — Ежели бы не
+               <lb facs="#facs_32_r1l20" n="N020"/>было у тебя религіи, ничто бы
+               <lb facs="#facs_32_r1l21" n="N021"/>не могло утѣшить тебя, гражда¬
+               <lb facs="#facs_32_r1l22" n="N022"/>нинъ достопочтенный! ничто бы
+               <lb facs="#facs_32_r1l23" n="N023"/>не принудило тебя говорить впредь
+               <lb facs="#facs_32_r1l24" n="N024"/>относительно до блага обществен¬
+            </ab><pb facs="#facs_33" n="33" xml:id="img_0033"/><ab facs="#facs_33_r1" type="">
+               <lb facs="#facs_33_r1l1" n="N001"/>27
+               <lb facs="#facs_33_r1l2" n="N002"/>наго, сдѣлать что нибудь для не¬
+               <lb facs="#facs_33_r1l3" n="N003"/>го полезное, продолжать служеніе
+               <lb facs="#facs_33_r1l4" n="N004"/>твое, ежели бы не имѣлъ ты ду¬
+               <lb facs="#facs_33_r1l5" n="N005"/>ха религіи. Она одна можетъ утѣ¬
+               <lb facs="#facs_33_r1l6" n="N006"/>шить, ободрить и обязать тебя
+               <lb facs="#facs_33_r1l7" n="N007"/>къ продолженію служенія твоего
+               <lb facs="#facs_33_r1l8" n="N008"/>Государю и отечеству; поелику
+               <lb facs="#facs_33_r1l9" n="N009"/>служа Государю, служишь ты са¬
+               <lb facs="#facs_33_r1l10" n="N010"/>мому Богу. Сія мысль, сіе увѣ¬
+               <lb facs="#facs_33_r1l11" n="N011"/>реніе можетъ обязать тебя слу¬
+               <lb facs="#facs_33_r1l12" n="N012"/>жить всегда съ ревностію и съ
+               <lb facs="#facs_33_r1l13" n="N013"/>одинакимъ усердіемъ.
+               <lb facs="#facs_33_r1l14" n="N014"/>Теперь касаюсь я главнаго
+               <lb facs="#facs_33_r1l15" n="N015"/>нункта общественнаго служенія;
+               <lb facs="#facs_33_r1l16" n="N016"/>пункта, который служитъ осно¬
+               <lb facs="#facs_33_r1l17" n="N017"/>ваніемъ служенію всѣхъ вообще,
+               <lb facs="#facs_33_r1l18" n="N018"/>и каждаго въ особенности, отъ
+               <lb facs="#facs_33_r1l19" n="N019"/>котораго зависятъ безропотное
+               <lb facs="#facs_33_r1l20" n="N020"/>исполненіе должностей, соединен¬
+               <lb facs="#facs_33_r1l21" n="N021"/>ное съ благомъ общества. Я не
+               <lb facs="#facs_33_r1l22" n="N022"/>думаю, чтобъ кто нибудь изъ
+               <lb facs="#facs_33_r1l23" n="N023"/>тѣхъ, которые служатъ един¬
+               <lb facs="#facs_33_r1l24" n="N024"/>ственно изъ чиновъ и изъ прира¬
+               <lb facs="#facs_33_r1l25" n="N025"/>В 9
+            </ab><pb facs="#facs_34" n="34" xml:id="img_0034"/><ab facs="#facs_34_r1" type="">
+               <lb facs="#facs_34_r1l1" n="N001"/>28
+               <lb facs="#facs_34_r1l2" n="N002"/>щенія собственнаго своего щастія,
+               <lb facs="#facs_34_r1l3" n="N003"/>помышлялъ когда нибудь о семъ
+               <lb facs="#facs_34_r1l4" n="N004"/>пунктѣ. Одна мысль о сей мате¬
+               <lb facs="#facs_34_r1l5" n="N005"/>ріи не сходствуетъ съ образомъ
+               <lb facs="#facs_34_r1l6" n="N006"/>мыслей того духа, который не
+               <lb facs="#facs_34_r1l7" n="N007"/>очищенъ правилами Христіанства.
+               <lb facs="#facs_34_r1l8" n="N008"/>И здѣсь—то бываетъ ощутитель¬
+               <lb facs="#facs_34_r1l9" n="N009"/>но преимущество гражданина Хри¬
+               <lb facs="#facs_34_r1l10" n="N010"/>стіанина предъ тѣмъ, который
+               <lb facs="#facs_34_r1l11" n="N011"/>не таковъ, который не слѣдуетъ
+               <lb facs="#facs_34_r1l12" n="N012"/>заповѣдямъ закона Божественнаго,
+               <lb facs="#facs_34_r1l13" n="N013"/>но правиламъ, кои самъ изобрѣлъ,
+               <lb facs="#facs_34_r1l14" n="N014"/>и коихъ имѣть можно столько,
+               <lb facs="#facs_34_r1l15" n="N015"/>сколько головъ въ государствѣ. —
+               <lb facs="#facs_34_r1l16" n="N016"/>Богобоязненное служеніе, служеніе
+               <lb facs="#facs_34_r1l17" n="N017"/>не матеріяльное, но, такъ ска¬
+               <lb facs="#facs_34_r1l18" n="N018"/>зать, духовное, предполагаетъ и
+               <lb facs="#facs_34_r1l19" n="N019"/>требуетъ покорности собственной
+               <lb facs="#facs_34_r1l20" n="N020"/>воли волѣ законовъ. Сіе покоре¬
+               <lb facs="#facs_34_r1l21" n="N021"/>ніе моей воли можетъ иначе быть
+               <lb facs="#facs_34_r1l22" n="N022"/>названо лишеніемъ моей свободы,
+               <lb facs="#facs_34_r1l23" n="N023"/>которая весьма драгоцѣнна для
+               <lb facs="#facs_34_r1l24" n="N024"/>человѣка, и въ естественномъ и
+            </ab><pb facs="#facs_35" n="35" xml:id="img_0035"/><ab facs="#facs_35_r1" type="">
+               <lb facs="#facs_35_r1l1" n="N001"/>29
+               <lb facs="#facs_35_r1l2" n="N002"/>политическомъ состояніи находя¬
+               <lb facs="#facs_35_r1l3" n="N003"/>щагося; и гражданинъ не Хри¬
+               <lb facs="#facs_35_r1l4" n="N004"/>стіанинъ не съ удовольствіемъ ее
+               <lb facs="#facs_35_r1l5" n="N005"/>лишается; таковый гражданинъ
+               <lb facs="#facs_35_r1l6" n="N006"/>исполняетъ должность свою съ
+               <lb facs="#facs_35_r1l7" n="N007"/>ревностію только тогда, когда не
+               <lb facs="#facs_35_r1l8" n="N008"/>почитаетъ исполненіе ея против¬
+               <lb facs="#facs_35_r1l9" n="N009"/>нымъ своей волѣ. Самые труды
+               <lb facs="#facs_35_r1l10" n="N010"/>и безпокойства сноситъ по одному
+               <lb facs="#facs_35_r1l11" n="N011"/>лишь собственному своему произ¬
+               <lb facs="#facs_35_r1l12" n="N012"/>воленію, и тамъ, гдѣ надѣется
+               <lb facs="#facs_35_r1l13" n="N013"/>чрезъ покорность свою умножить
+               <lb facs="#facs_35_r1l14" n="N014"/>свои выгоды. И когда случается,
+               <lb facs="#facs_35_r1l15" n="N015"/>что волю законовъ противополага¬
+               <lb facs="#facs_35_r1l16" n="N016"/>ютъ волѣ его, и требуютъ, чтобъ
+               <lb facs="#facs_35_r1l17" n="N017"/>пожертвовалъ собственною своею
+               <lb facs="#facs_35_r1l18" n="N018"/>волею и своими интересами, то¬
+               <lb facs="#facs_35_r1l19" n="N019"/>гда онъ ропщетъ и не хочетъ
+               <lb facs="#facs_35_r1l20" n="N020"/>оставить ее. — Ктожъ можетъ
+               <lb facs="#facs_35_r1l21" n="N021"/>оставить ее? — Никто, кромѣ
+               <lb facs="#facs_35_r1l22" n="N022"/>истиннаго Христіанина, который
+               <lb facs="#facs_35_r1l23" n="N023"/>обязанъ сіе сдѣлать не столько
+               <lb facs="#facs_35_r1l24" n="N024"/>по обязанности покоренія частныхъ
+            </ab><pb facs="#facs_36" n="36" xml:id="img_0036"/><ab facs="#facs_36_r1" type="">
+               <lb facs="#facs_36_r1l1" n="N001"/>30
+               <lb facs="#facs_36_r1l2" n="N002"/>или раздѣльныхъ воль общей волѣ,
+               <lb facs="#facs_36_r1l3" n="N003"/>сколько по точному повелѣнію
+               <lb facs="#facs_36_r1l4" n="N004"/>своего Господа, открывшаго ему
+               <lb facs="#facs_36_r1l5" n="N005"/>Себя въ Священномъ Писаніи. I.
+               <lb facs="#facs_36_r1l6" n="N006"/>Петр. II. 13. 14. Будучи руково¬
+               <lb facs="#facs_36_r1l7" n="N007"/>димъ сими Божественными на¬
+               <lb facs="#facs_36_r1l8" n="N008"/>чалами, онъ можетъ оставить
+               <lb facs="#facs_36_r1l9" n="N009"/>собственное свое хотѣніе. Кто мо¬
+               <lb facs="#facs_36_r1l10" n="N010"/>жетъ отрещись собственной своей
+               <lb facs="#facs_36_r1l11" n="N011"/>воли, кромѣ Христіанина, кото¬
+               <lb facs="#facs_36_r1l12" n="N012"/>рый долженъ ее ненавидѣть, какъ
+               <lb facs="#facs_36_r1l13" n="N013"/>источникъ паденія человѣческаго и
+               <lb facs="#facs_36_r1l14" n="N014"/>всякаго зла? Кто можетъ вѣрить
+               <lb facs="#facs_36_r1l15" n="N015"/>сему, чувствовать и познавать
+               <lb facs="#facs_36_r1l16" n="N016"/>сіе ясно, ежели не тотъ, кото¬
+               <lb facs="#facs_36_r1l17" n="N017"/>рый одушевленъ и просвѣщенъ
+               <lb facs="#facs_36_r1l18" n="N018"/>святымъ Христіанства духомъ?
+               <lb facs="#facs_36_r1l19" n="N019"/>Не возможно человѣку, въ есте¬
+               <lb facs="#facs_36_r1l20" n="N020"/>ственномъ состояніи находящему¬
+               <lb facs="#facs_36_r1l21" n="N021"/>ся, у коего идолъ собственность,
+               <lb facs="#facs_36_r1l22" n="N022"/>къ пренебреженію собственныхъ
+               <lb facs="#facs_36_r1l23" n="N023"/>своихъ и физическихъ и нрав¬
+               <lb facs="#facs_36_r1l24" n="N024"/>ственныхъ интересовъ, любить
+            </ab><pb facs="#facs_37" n="37" xml:id="img_0037"/><ab facs="#facs_37_r1" type="">
+               <lb facs="#facs_37_r1l1" n="N001"/>31
+               <lb facs="#facs_37_r1l2" n="N002"/>начальство надъ собою, и не ста¬
+               <lb facs="#facs_37_r1l3" n="N003"/>раться отъ него избавиться, во
+               <lb facs="#facs_37_r1l4" n="N004"/>что бы то ни стало, только бы
+               <lb facs="#facs_37_r1l5" n="N005"/>собственность его была въ хоро¬
+               <lb facs="#facs_37_r1l6" n="N006"/>шемъ состояніи — Такъ, против¬
+               <lb facs="#facs_37_r1l7" n="N007"/>ное сему возможно одному, лишь
+               <lb facs="#facs_37_r1l8" n="N008"/>Христіанину. — О ежели бы истин¬
+               <lb facs="#facs_37_r1l9" n="N009"/>ное Христіанство болѣе господ¬
+               <lb facs="#facs_37_r1l10" n="N010"/>ствовало во Франціи, не предста¬
+               <lb facs="#facs_37_r1l11" n="N011"/>вила бы она плачевнаго позорища,
+               <lb facs="#facs_37_r1l12" n="N012"/>которое должно вселить скорбь и
+               <lb facs="#facs_37_r1l13" n="N013"/>ужасъ во всѣ сердца человѣколюб¬
+               <lb facs="#facs_37_r1l14" n="N014"/>ныя и Богобоязливыя! Боже! Вели¬
+               <lb facs="#facs_37_r1l15" n="N015"/>кій Боже! не видно ли еще и те¬
+               <lb facs="#facs_37_r1l16" n="N016"/>перь, что должно искать корень
+               <lb facs="#facs_37_r1l17" n="N017"/>всѣхъ золъ, истребляющихъ Фран¬
+               <lb facs="#facs_37_r1l18" n="N018"/>цію, въ пренебреженіи существен¬
+               <lb facs="#facs_37_r1l19" n="N019"/>ныхъ законовъ святыя Вѣры Iису¬
+               <lb facs="#facs_37_r1l20" n="N020"/>совой? по крайней мѣръ нѣтъ ни¬
+               <lb facs="#facs_37_r1l21" n="N021"/>какого инаго источника ея злопо¬
+               <lb facs="#facs_37_r1l22" n="N022"/>лучія; поелику все прочее есть
+               <lb facs="#facs_37_r1l23" n="N023"/>одно послѣдствіе сего. — Нѣтъ
+               <lb facs="#facs_37_r1l24" n="N024"/>сомнѣнія, что одинъ Христіанинъ
+            </ab><pb facs="#facs_38" n="38" xml:id="img_0038"/><ab facs="#facs_38_r1" type="">
+               <lb facs="#facs_38_r1l1" n="N001"/>32
+               <lb facs="#facs_38_r1l2" n="N002"/>можетъ истинно и безъ лицемѣр¬
+               <lb facs="#facs_38_r1l3" n="N003"/>ства покорить собственную волю
+               <lb facs="#facs_38_r1l4" n="N004"/>свою волѣ Государя. Тотъ, кто
+               <lb facs="#facs_38_r1l5" n="N005"/>глубоко размыслитъ о благости
+               <lb facs="#facs_38_r1l6" n="N006"/>служенія, какого бы рода оно ни
+               <lb facs="#facs_38_r1l7" n="N007"/>было, одинъ можетъ видѣть поль¬
+               <lb facs="#facs_38_r1l8" n="N008"/>зу и нужду пожертвованія воли
+               <lb facs="#facs_38_r1l9" n="N009"/>своей волѣ и требованію законовъ.
+               <lb facs="#facs_38_r1l10" n="N010"/>Не возможно Государю или прави¬
+               <lb facs="#facs_38_r1l11" n="N011"/>тельству всегда давать точный
+               <lb facs="#facs_38_r1l12" n="N012"/>отчетъ въ своихъ дѣйствіяхъ. Не
+               <lb facs="#facs_38_r1l13" n="N013"/>возможно имъ не требовать отче¬
+               <lb facs="#facs_38_r1l14" n="N014"/>та, когда не исполняютъ воли
+               <lb facs="#facs_38_r1l15" n="N015"/>ихъ, и въ тѣхъ самыхъ случа¬
+               <lb facs="#facs_38_r1l16" n="N016"/>яхъ, когда, кажется, всѣ внѣш¬
+               <lb facs="#facs_38_r1l17" n="N017"/>нія обстоятельства, моглибъ осво¬
+               <lb facs="#facs_38_r1l18" n="N018"/>бодить отъ строгаго исполне¬
+               <lb facs="#facs_38_r1l19" n="N019"/>нія воли законовъ, или облегчить
+               <lb facs="#facs_38_r1l20" n="N020"/>бремя наказанія за упущеніе бук¬
+               <lb facs="#facs_38_r1l21" n="N021"/>веннаго предписанія.
+               <lb facs="#facs_38_r1l22" n="N022"/>Успѣшное исполненіе должно¬
+               <lb facs="#facs_38_r1l23" n="N023"/>стей въ государствѣ, а особенно
+               <lb facs="#facs_38_r1l24" n="N024"/>видныхъ, предполагаетъ безъ со¬
+            </ab><pb facs="#facs_39" n="39" xml:id="img_0039"/><ab facs="#facs_39_r1" type="">
+               <lb facs="#facs_39_r1l1" n="N001"/>33
+               <lb facs="#facs_39_r1l2" n="N002"/>мнѣнія знаніе сердца человѣческаго.
+               <lb facs="#facs_39_r1l3" n="N003"/>Имѣя сіе познаніе, можно опре¬
+               <lb facs="#facs_39_r1l4" n="N004"/>дѣлить къ дѣламъ людей способ¬
+               <lb facs="#facs_39_r1l5" n="N005"/>ныхъ; а безъ сего невозможно ис¬
+               <lb facs="#facs_39_r1l6" n="N006"/>полнять вѣрно и совѣстно долж¬
+               <lb facs="#facs_39_r1l7" n="N007"/>ность того, кто близокъ къ осо¬
+               <lb facs="#facs_39_r1l8" n="N008"/>бъ Государя. Гдѣжъ должно Ми¬
+               <lb facs="#facs_39_r1l9" n="N009"/>нистрамъ, главнымъ Судіямъ и
+               <lb facs="#facs_39_r1l10" n="N010"/>прочимъ окружающимъ Государя,
+               <lb facs="#facs_39_r1l11" n="N011"/>почерпать сіе глубокое знаніе,
+               <lb facs="#facs_39_r1l12" n="N012"/>ежели они не поищутъ его въ кла¬
+               <lb facs="#facs_39_r1l13" n="N013"/>дезяхъ премудрости, въ откро¬
+               <lb facs="#facs_39_r1l14" n="N014"/>венномъ словѣ Божiемъ, которое
+               <lb facs="#facs_39_r1l15" n="N015"/>содержитъ въ себѣ совершенное
+               <lb facs="#facs_39_r1l16" n="N016"/>познаніе человѣка и всего сотво¬
+               <lb facs="#facs_39_r1l17" n="N017"/>реннаго? Но кто будетъ имѣть
+               <lb facs="#facs_39_r1l18" n="N018"/>прибѣжище къ симъ источникамъ
+               <lb facs="#facs_39_r1l19" n="N019"/>Израилевымъ, и обратитъ ихъ въ
+               <lb facs="#facs_39_r1l20" n="N020"/>пользу свою, какъ не тотъ, кто
+               <lb facs="#facs_39_r1l21" n="N021"/>почитаетъ написанное слово, кто
+               <lb facs="#facs_39_r1l22" n="N022"/>уважаетъ Божеское откровеніе? —
+               <lb facs="#facs_39_r1l23" n="N023"/>Ежели бы опытъ премудрости,
+               <lb facs="#facs_39_r1l24" n="N024"/>господствующей во всѣхъ книгахъ
+            </ab><pb facs="#facs_40" n="40" xml:id="img_0040"/><ab facs="#facs_40_r1" type="">
+               <lb facs="#facs_40_r1l1" n="N001"/>34
+               <lb facs="#facs_40_r1l2" n="N002"/>Священнаго Писанія, въ семъ
+               <lb facs="#facs_40_r1l3" n="N003"/>остаткѣ древнихъ Божескихъ благо¬
+               <lb facs="#facs_40_r1l4" n="N004"/>твореній къ роду человѣческому,
+               <lb facs="#facs_40_r1l5" n="N005"/>могъ имѣть мѣсто въ семъ раз¬
+               <lb facs="#facs_40_r1l6" n="N006"/>сужденіи, я бы осмѣлился нѣсколь¬
+               <lb facs="#facs_40_r1l7" n="N007"/>ко итти по сему пути, который
+               <lb facs="#facs_40_r1l8" n="N008"/>каждый разъ не можетъ быть ви¬
+               <lb facs="#facs_40_r1l9" n="N009"/>дѣнъ. Нъкоторыя описанія различ¬
+               <lb facs="#facs_40_r1l10" n="N010"/>ныхъ произшествій, случившихся
+               <lb facs="#facs_40_r1l11" n="N011"/>съ человѣками; безпристрастныя
+               <lb facs="#facs_40_r1l12" n="N012"/>и почерпнутыя въ глубинѣ чело¬
+               <lb facs="#facs_40_r1l13" n="N013"/>вѣко знанія, повѣствованія; изобра¬
+               <lb facs="#facs_40_r1l14" n="N014"/>женія Бога, Христіанской религіи,
+               <lb facs="#facs_40_r1l15" n="N015"/>и многія другія вещи, высокiе
+               <lb facs="#facs_40_r1l16" n="N016"/>суть свидѣтели премудрости Бо¬
+               <lb facs="#facs_40_r1l17" n="N017"/>жіей, съ каковою написано Свя¬
+               <lb facs="#facs_40_r1l18" n="N018"/>щенное Писаніе. Впрочемъ тотъ
+               <lb facs="#facs_40_r1l19" n="N019"/>лишь, кто старается быть истин¬
+               <lb facs="#facs_40_r1l20" n="N020"/>нымъ Христіаниномъ, можетъ ува¬
+               <lb facs="#facs_40_r1l21" n="N021"/>жать правила сея вдохновенныя
+               <lb facs="#facs_40_r1l22" n="N022"/>Богомъ книги, вѣрить ей и по¬
+               <lb facs="#facs_40_r1l23" n="N023"/>ступать по ней. Излишнобъ было
+               <lb facs="#facs_40_r1l24" n="N024"/>хотѣть доказывать его сердцу
+            </ab><pb facs="#facs_41" n="41" xml:id="img_0041"/><ab facs="#facs_41_r1" type="">
+               <lb facs="#facs_41_r1l1" n="N001"/>35
+               <lb facs="#facs_41_r1l2" n="N002"/>Божество его; чтожъ касается до
+               <lb facs="#facs_41_r1l3" n="N003"/>того, кто не можетъ ни видѣть,
+               <lb facs="#facs_41_r1l4" n="N004"/>ни чувствовать, безполезнобѣ бы¬
+               <lb facs="#facs_41_r1l5" n="N005"/>ло, да и самой грѣхъ, сіе пред¬
+               <lb facs="#facs_41_r1l6" n="N006"/>пріятіе.
+               <lb facs="#facs_41_r1l7" n="N007"/>Разсуждая о всемъ томъ, что
+               <lb facs="#facs_41_r1l8" n="N008"/>до сихъ поръ сказано, и размыш¬
+               <lb facs="#facs_41_r1l9" n="N009"/>ляя о томъ, что было выше, то
+               <lb facs="#facs_41_r1l10" n="N010"/>есть: о побужденіяхъ къ испол¬
+               <lb facs="#facs_41_r1l11" n="N011"/>ненію общественныхъ должностей,
+               <lb facs="#facs_41_r1l12" n="N012"/>о послѣдующихъ за ними награ¬
+               <lb facs="#facs_41_r1l13" n="N013"/>дахъ, о служеніи, о успѣшномъ
+               <lb facs="#facs_41_r1l14" n="N014"/>исполненіи знаменитѣйшихъ долж¬
+               <lb facs="#facs_41_r1l15" n="N015"/>ностей государственныхъ, не долж¬
+               <lb facs="#facs_41_r1l16" n="N016"/>но ли заключить, что одинъ истин¬
+               <lb facs="#facs_41_r1l17" n="N017"/>ный Христіанинъ, или, по край¬
+               <lb facs="#facs_41_r1l18" n="N018"/>ней мѣрѣ, желающій имъ быть,
+               <lb facs="#facs_41_r1l19" n="N019"/>есть и не можетъ не быть доб¬
+               <lb facs="#facs_41_r1l20" n="N020"/>рый гражданинъ, то есть по¬
+               <lb facs="#facs_41_r1l21" n="N021"/>лезенъ не себѣ, и вѣренъ не сво¬
+               <lb facs="#facs_41_r1l22" n="N022"/>имъ выгодамъ, но Государю и го¬
+               <lb facs="#facs_41_r1l23" n="N023"/>сударству? Кто пожелаетъ утвер¬
+               <lb facs="#facs_41_r1l24" n="N024"/>ждать противное, какъ не предан¬
+            </ab><pb facs="#facs_42" n="42" xml:id="img_0042"/><ab facs="#facs_42_r1" type="">
+               <lb facs="#facs_42_r1l1" n="N001"/>36
+               <lb facs="#facs_42_r1l2" n="N002"/>ный духу развратности? Римл. I.
+               <lb facs="#facs_42_r1l3" n="N003"/>28. — 32. — Кому, какъ не сему
+               <lb facs="#facs_42_r1l4" n="N004"/>несчастному, можетъ прійти
+               <lb facs="#facs_42_r1l5" n="N005"/>мысль, якобы Христіанство не
+               <lb facs="#facs_42_r1l6" n="N006"/>вмѣстимо съ учрежденіемъ граж¬
+               <lb facs="#facs_42_r1l7" n="N007"/>данскимъ? — — Самые опыты
+               <lb facs="#facs_42_r1l8" n="N008"/>Христіанъ двухъ первыхъ вѣковъ,
+               <lb facs="#facs_42_r1l9" n="N009"/>сихъ покорныхъ членовъ государ¬
+               <lb facs="#facs_42_r1l10" n="N010"/>ства, не довольно ли сіе подтверж¬
+               <lb facs="#facs_42_r1l11" n="N011"/>даютъ? Чувствованія, вдохновен¬
+               <lb facs="#facs_42_r1l12" n="N012"/>ныя духомъ Христіанства, и ны¬
+               <lb facs="#facs_42_r1l13" n="N013"/>нѣ еще подаютъ къ сему надеж¬
+               <lb facs="#facs_42_r1l14" n="N014"/>ду. — О ты, древній и блажен¬
+               <lb facs="#facs_42_r1l15" n="N015"/>ный духъ Христіанства! благово¬
+               <lb facs="#facs_42_r1l16" n="N016"/>ли еще одушевлять и нынѣ сы¬
+               <lb facs="#facs_42_r1l17" n="N017"/>новъ отечества, да невѣрующіе
+               <lb facs="#facs_42_r1l18" n="N018"/>сему узрятъ сіе на самомъ дѣлѣ,
+               <lb facs="#facs_42_r1l19" n="N019"/>и узрѣвъ, устыдятся. О желаніе
+               <lb facs="#facs_42_r1l20" n="N020"/>несовмѣстное, а можетъ быть и
+               <lb facs="#facs_42_r1l21" n="N021"/>противное всеобщему смотренію
+               <lb facs="#facs_42_r1l22" n="N022"/>Божескаго провидѣнія, по намѣре¬
+               <lb facs="#facs_42_r1l23" n="N023"/>ніямъ коего управляются роды
+               <lb facs="#facs_42_r1l24" n="N024"/>смертныхъ! одна любовь извиняетъ
+            </ab><pb facs="#facs_43" n="43" xml:id="img_0043"/><ab facs="#facs_43_r1" type="">
+               <lb facs="#facs_43_r1l1" n="N001"/>37
+               <lb facs="#facs_43_r1l2" n="N002"/>тебя. — — Пусть вѣрятъ, или
+               <lb facs="#facs_43_r1l3" n="N003"/>не вѣрятъ здѣсь сказанному: не
+               <lb facs="#facs_43_r1l4" n="N004"/>уменьшится тѣмъ его истинна;
+               <lb facs="#facs_43_r1l5" n="N005"/>пусть уважатъ, или не ува¬
+               <lb facs="#facs_43_r1l6" n="N006"/>жатъ его, не меньше чрезъ то
+               <lb facs="#facs_43_r1l7" n="N007"/>будетъ послѣдователей ему изъ
+               <lb facs="#facs_43_r1l8" n="N008"/>любящихъ законъ Божій, посту¬
+               <lb facs="#facs_43_r1l9" n="N009"/>пающихъ не по временнымъ, но
+               <lb facs="#facs_43_r1l10" n="N010"/>лучшимъ сихъ побужденіямъ, и
+               <lb facs="#facs_43_r1l11" n="N011"/>утверждающихся на твердѣйшемъ
+               <lb facs="#facs_43_r1l12" n="N012"/>основаніи, нежели каковы суть
+               <lb facs="#facs_43_r1l13" n="N013"/>изобрѣтенія человѣческія. Лук. VI.
+               <lb facs="#facs_43_r1l14" n="N014"/>47. — 4.
+               <lb facs="#facs_43_r1l15" n="N015"/>Кто же можетъ быть добрымъ
+               <lb facs="#facs_43_r1l16" n="N016"/>гражданиномъ и вѣрнымъ поддан¬
+               <lb facs="#facs_43_r1l17" n="N017"/>нымъ? „Тотъ, кто, бояся Бога,
+               <lb facs="#facs_43_r1l18" n="N018"/>„почитаетъ Государя, повинует¬
+               <lb facs="#facs_43_r1l19" n="N019"/>„ся Властемъ; который не толь¬
+               <lb facs="#facs_43_r1l20" n="N020"/>„ко не убиваетъ, но и въ гнѣвъ
+               <lb facs="#facs_43_r1l21" n="N021"/>„не приводитъ; который любитъ
+               <lb facs="#facs_43_r1l22" n="N022"/>„враговъ своихъ, благотворитъ
+               <lb facs="#facs_43_r1l23" n="N023"/>„тѣмъ, кои его ненавидятъ, благо¬
+               <lb facs="#facs_43_r1l24" n="N024"/>„словляетъ тѣхъ, кои его зло¬
+               <lb facs="#facs_43_line_1670593041689_698" n="N025"/>Г
+            </ab><pb facs="#facs_44" n="44" xml:id="img_0044"/><ab facs="#facs_44_r1" type="">
+               <lb facs="#facs_44_r1l1" n="N001"/>38
+               <lb facs="#facs_44_r1l2" n="N002"/>„словятъ и ввергаютъ въ бѣд¬
+               <lb facs="#facs_44_r1l3" n="N003"/>„ствіе; даетъ требующему, не
+               <lb facs="#facs_44_r1l4" n="N004"/>„отвращается отъ того, кто въ
+               <lb facs="#facs_44_r1l5" n="N005"/>„заимъ проситъ; отдаетъ и сра¬
+               <lb facs="#facs_44_r1l6" n="N006"/>„чицу свою тому, кто желаетъ
+               <lb facs="#facs_44_r1l7" n="N007"/>„вступить съ нимъ въ судъ, и
+               <lb facs="#facs_44_r1l8" n="N008"/>„отнять у него одежду; стра¬
+               <lb facs="#facs_44_r1l9" n="N009"/>„шится сдѣлать порокъ и тайно,
+               <lb facs="#facs_44_r1l10" n="N010"/>„и старается быть сокровенъ въ
+               <lb facs="#facs_44_r1l11" n="N011"/>„самыхъ добродѣтеляхъ; считаетъ
+               <lb facs="#facs_44_r1l12" n="N012"/>„претерпѣнное бѣдствіе за благо¬
+               <lb facs="#facs_44_r1l13" n="N013"/>„получіе; который терпѣливъ,
+               <lb facs="#facs_44_r1l14" n="N014"/>„кротокъ и благотворителенъ, не
+               <lb facs="#facs_44_r1l15" n="N015"/>„завистливъ, не безразсуденъ, не
+               <lb facs="#facs_44_r1l16" n="N016"/>„опрометчивъ, не презритель, ко¬
+               <lb facs="#facs_44_r1l17" n="N017"/>„торый не ищетъ собственныхъ
+               <lb facs="#facs_44_r1l18" n="N018"/>„своихъ выгодъ, не оскорбляется
+               <lb facs="#facs_44_r1l19" n="N019"/>„ничѣмъ, не имѣетъ худыхъ по¬
+               <lb facs="#facs_44_r1l20" n="N020"/>„дозрѣній, не веселится о неправ¬
+               <lb facs="#facs_44_r1l21" n="N021"/>„дѣ, но радуется истиннѣ; кото¬
+               <lb facs="#facs_44_r1l22" n="N022"/>„рый сноситъ все, надїется на
+               <lb facs="#facs_44_r1l23" n="N023"/>„все, и терпитъ все: тотъ, ко¬
+               <lb facs="#facs_44_r1l24" n="N024"/>„торый не почитаетъ за выгоду
+            </ab><pb facs="#facs_45" n="45" xml:id="img_0045"/><ab facs="#facs_45_region_1654634076338_373" type="">
+               <lb facs="#facs_45_line_1654634082418_376" n="N001"/>39
+               <lb facs="#facs_45_line_1654634137336_386" n="N002"/>„пріобрѣтеніе всего міра, ежели
+               <lb facs="#facs_45_line_1654634144769_389" n="N003"/>„оно дѣлаетъ душу его против¬
+               <lb facs="#facs_45_line_1654634150712_392" n="N004"/>„ною Богу; коего все богатство
+               <lb facs="#facs_45_line_1654634176366_396" n="N005"/>„состоитъ въ благодати Бога его
+               <lb facs="#facs_45_line_1654634183759_399" n="N006"/>„и Спасителя.“ — Ктожъ все сіе
+               <lb facs="#facs_45_line_1654634192622_402" n="N007"/>можетъ сдѣлать? — Истинный
+               <lb facs="#facs_45_line_1654634197319_405" n="N008"/>Христіанинъ.
+               <lb facs="#facs_45_line_1654634290268_430" n="N009"/>Одна мысль о златомъ вѣкѣ
+               <lb facs="#facs_45_line_1654634296866_433" n="N010"/>можетъ представить черты истин¬
+               <lb facs="#facs_45_line_1654634302481_436" n="N011"/>наго и Божественнаго блаженства
+               <lb facs="#facs_45_line_1654634310898_439" n="N012"/>общественнаго. Чѣмъ болѣе его
+               <lb facs="#facs_45_line_1654634369720_456" n="N013"/>въ обществѣ, тѣмѣ оно благополуч¬
+               <lb facs="#facs_45_line_1654634374688_459" n="N014"/>нѣе; чѣмъ менѣе его, тѣмъ оно
+               <lb facs="#facs_45_line_1654634378855_462" n="N015"/>несчастнѣе.
+               <lb facs="#facs_45_line_1654634395792_467" n="N016"/>КОНЕЦЪ.
+            </ab><pb facs="#facs_46" n="46" xml:id="img_0046"/><pb facs="#facs_47" n="47" xml:id="img_0047"/><pb facs="#facs_48" n="48" xml:id="img_0048"/>
+         </div>
+      </body>
+   </text>
+</TEI>

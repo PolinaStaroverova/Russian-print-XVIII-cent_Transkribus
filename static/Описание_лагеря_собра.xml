@@ -1,0 +1,1776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Описание_лагеря_собра.pdf</title>
+         </titleStmt>
+         <seriesStmt>
+            <title>Типография Академии наук СПб</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">Описание_лагеря_собра.pdf</title><idno type="Transkribus">952418</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="2550" lry="3300" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="3300px" url="p001.jpg" width="2550px"/>
+         <graphic height="3300px" url="https://files.transkribus.eu/Get?id=KKSJQTEYLDHQUKMCRIOGKYZB&amp;fileType=view" width="2550px"/>
+      </surface>
+      <surface lrx="2209" lry="2818" ulx="0" uly="0" xml:id="facs_2">
+         <graphic height="2818px" url="p002.jpg" width="2209px"/>
+         <graphic height="2818px" url="https://files.transkribus.eu/Get?id=QJIPMNNDGBEVACZHTULTROFC&amp;fileType=view" width="2209px"/>
+      </surface>
+      <surface lrx="2169" lry="2753" ulx="0" uly="0" xml:id="facs_3">
+         <graphic height="2753px" url="p003.jpg" width="2169px"/>
+         <graphic height="2753px" url="https://files.transkribus.eu/Get?id=LBEKDTIFHDRBDGXHQZZJJLRV&amp;fileType=view" width="2169px"/>
+      </surface>
+      <surface lrx="1996" lry="2710" ulx="0" uly="0" xml:id="facs_4">
+         <graphic height="2710px" url="p004.jpg" width="1996px"/>
+         <graphic height="2710px" url="https://files.transkribus.eu/Get?id=UCGKXPCKTJBXVJXKQMIMANTJ&amp;fileType=view" width="1996px"/>
+      </surface>
+      <surface lrx="2004" lry="2772" ulx="0" uly="0" xml:id="facs_5">
+         <graphic height="2772px" url="p005.jpg" width="2004px"/>
+         <graphic height="2772px" url="https://files.transkribus.eu/Get?id=IHYECUNMGIMIJRZGGFVKUQFG&amp;fileType=view" width="2004px"/>
+      </surface>
+      <surface lrx="2028" lry="2708" ulx="0" uly="0" xml:id="facs_6">
+         <graphic height="2708px" url="p006.jpg" width="2028px"/>--
+         <graphic height="2708px" url="https://files.transkribus.eu/Get?id=RLNNTAEHVDLOAEOQUVAWGGAB&amp;fileType=view" width="2028px"/>
+      </surface>
+      <surface lrx="2053" lry="2710" ulx="0" uly="0" xml:id="facs_7">
+         <graphic height="2710px" url="p007.jpg" width="2053px"/>
+         <graphic height="2710px" url="https://files.transkribus.eu/Get?id=QJMDKACERFFHHCSEWJTQZJTU&amp;fileType=view" width="2053px"/>
+      </surface>
+      <surface lrx="2028" lry="2716" ulx="0" uly="0" xml:id="facs_8">
+         <graphic height="2716px" url="p008.jpg" width="2028px"/>
+         <graphic height="2716px" url="https://files.transkribus.eu/Get?id=RUNWNSBFOTICLXXZUEJBELFE&amp;fileType=view" width="2028px"/>
+      </surface>
+      <surface lrx="2042" lry="2702" ulx="0" uly="0" xml:id="facs_9">
+         <graphic height="2702px" url="p009.jpg" width="2042px"/>
+         <graphic height="2702px" url="https://files.transkribus.eu/Get?id=JFPOEWMINOVBJAXDEHOBEBKY&amp;fileType=view" width="2042px"/>
+      </surface>
+      <surface lrx="2047" lry="2720" ulx="0" uly="0" xml:id="facs_10">
+         <graphic height="2720px" url="p010.jpg" width="2047px"/>
+         <graphic height="2720px" url="https://files.transkribus.eu/Get?id=EUKABHATFRHCMOSLYHSEAESR&amp;fileType=view" width="2047px"/>
+      </surface>
+      <surface lrx="2053" lry="2708" ulx="0" uly="0" xml:id="facs_11">
+         <graphic height="2708px" url="p011.jpg" width="2053px"/>
+         <graphic height="2708px" url="https://files.transkribus.eu/Get?id=VJZVVPAVIEDLTLSVZNCJWBCA&amp;fileType=view" width="2053px"/>
+      </surface>
+      <surface lrx="2061" lry="2710" ulx="0" uly="0" xml:id="facs_12">
+         <graphic height="2710px" url="p012.jpg" width="2061px"/>
+         <graphic height="2710px" url="https://files.transkribus.eu/Get?id=WRNGRMPNNDKLMZKOECODJOGV&amp;fileType=view" width="2061px"/>
+      </surface>
+      <surface lrx="2027" lry="2696" ulx="0" uly="0" xml:id="facs_13">
+         <graphic height="2696px" url="p013.jpg" width="2027px"/>
+         <graphic height="2696px" url="https://files.transkribus.eu/Get?id=NWRZRGZFQVPOKECMHCIEQUWA&amp;fileType=view" width="2027px"/>
+      </surface>
+      <surface lrx="1992" lry="2676" ulx="0" uly="0" xml:id="facs_14">
+         <graphic height="2676px" url="p014.jpg" width="1992px"/>
+         <graphic height="2676px" url="https://files.transkribus.eu/Get?id=LXYHXUVFMFRACZVHWOKLBDIM&amp;fileType=view" width="1992px"/>
+      </surface>
+      <surface lrx="2058" lry="2717" ulx="0" uly="0" xml:id="facs_15">
+         <graphic height="2717px" url="p015.jpg" width="2058px"/>
+         <graphic height="2717px" url="https://files.transkribus.eu/Get?id=HOVNVXLISEZWGSRXCBMLDVDR&amp;fileType=view" width="2058px"/>
+      </surface>
+      <surface lrx="2009" lry="2680" ulx="0" uly="0" xml:id="facs_16">
+         <graphic height="2680px" url="p016.jpg" width="2009px"/>
+         <graphic height="2680px" url="https://files.transkribus.eu/Get?id=LCQESJXXYSGSQNRXVTOOJGPM&amp;fileType=view" width="2009px"/>
+      </surface>
+      <surface lrx="2048" lry="2713" ulx="0" uly="0" xml:id="facs_17">
+         <graphic height="2713px" url="p017.jpg" width="2048px"/>
+         <graphic height="2713px" url="https://files.transkribus.eu/Get?id=YOMNHBBAWMISKWYZSYCSELTN&amp;fileType=view" width="2048px"/>
+      </surface>
+      <surface lrx="2085" lry="2722" ulx="0" uly="0" xml:id="facs_18">
+         <graphic height="2722px" url="p018.jpg" width="2085px"/>
+         <graphic height="2722px" url="https://files.transkribus.eu/Get?id=FRYOMSCQAGAYUMDDXQDQKCRM&amp;fileType=view" width="2085px"/>
+      </surface>
+      <surface lrx="2043" lry="2713" ulx="0" uly="0" xml:id="facs_19">
+         <graphic height="2713px" url="p019.jpg" width="2043px"/>
+         <graphic height="2713px" url="https://files.transkribus.eu/Get?id=PNXZOYLJTZNAZQPPZOCGBPSZ&amp;fileType=view" width="2043px"/>
+      </surface>
+      <surface lrx="2028" lry="2736" ulx="0" uly="0" xml:id="facs_20">
+         <graphic height="2736px" url="p020.jpg" width="2028px"/>
+         <graphic height="2736px" url="https://files.transkribus.eu/Get?id=BTVSYBVVVJVJCUTRTGMBRYYC&amp;fileType=view" width="2028px"/>
+      </surface>
+      <surface lrx="2031" lry="2720" ulx="0" uly="0" xml:id="facs_21">
+         <graphic height="2720px" url="p021.jpg" width="2031px"/>
+         <graphic height="2720px" url="https://files.transkribus.eu/Get?id=DMYQREIXCAKWXBLPNLIGTNZM&amp;fileType=view" width="2031px"/>
+      </surface>
+      <surface lrx="2052" lry="2723" ulx="0" uly="0" xml:id="facs_22">
+         <graphic height="2723px" url="p022.jpg" width="2052px"/>
+         <graphic height="2723px" url="https://files.transkribus.eu/Get?id=AHNQEQRANABRQCMSOSGBLFWP&amp;fileType=view" width="2052px"/>
+      </surface>
+      <surface lrx="2037" lry="2718" ulx="0" uly="0" xml:id="facs_23">
+         <graphic height="2718px" url="p023.jpg" width="2037px"/>
+         <graphic height="2718px" url="https://files.transkribus.eu/Get?id=WBTAECUZLPMOQAEMHWVQXHLB&amp;fileType=view" width="2037px"/>
+      </surface>
+      <surface lrx="2077" lry="2715" ulx="0" uly="0" xml:id="facs_24">
+         <graphic height="2715px" url="p024.jpg" width="2077px"/>
+         <graphic height="2715px" url="https://files.transkribus.eu/Get?id=IFZFKGDRHDJHSIXBYFGUYJHO&amp;fileType=view" width="2077px"/>
+      </surface>
+      <surface lrx="2061" lry="2713" ulx="0" uly="0" xml:id="facs_25">
+         <graphic height="2713px" url="p025.jpg" width="2061px"/>
+         <graphic height="2713px" url="https://files.transkribus.eu/Get?id=KPFGLJMHRUYFCWUCUFOGFVEZ&amp;fileType=view" width="2061px"/>
+      </surface>
+      <surface lrx="2081" lry="2721" ulx="0" uly="0" xml:id="facs_26">
+         <graphic height="2721px" url="p026.jpg" width="2081px"/>
+         <graphic height="2721px" url="https://files.transkribus.eu/Get?id=ZYQIVFVOGUGYRVYIYDMSRQAL&amp;fileType=view" width="2081px"/>
+      </surface>
+      <surface lrx="2049" lry="2705" ulx="0" uly="0" xml:id="facs_27">
+         <graphic height="2705px" url="p027.jpg" width="2049px"/>
+         <graphic height="2705px" url="https://files.transkribus.eu/Get?id=ZXFVDJHHXQFAWZAQAXKQWMMJ&amp;fileType=view" width="2049px"/>
+      </surface>
+      <surface lrx="1979" lry="2707" ulx="0" uly="0" xml:id="facs_28">
+         <graphic height="2707px" url="p028.jpg" width="1979px"/>
+         <graphic height="2707px" url="https://files.transkribus.eu/Get?id=GETGEFKLXBFSYOBCNHVBVCJT&amp;fileType=view" width="1979px"/>
+      </surface>
+      <surface lrx="2042" lry="2717" ulx="0" uly="0" xml:id="facs_29">
+         <graphic height="2717px" url="p029.jpg" width="2042px"/>
+         <graphic height="2717px" url="https://files.transkribus.eu/Get?id=YZEVGZDLOYJDDXACSLGBEPFB&amp;fileType=view" width="2042px"/>
+      </surface>
+      <surface lrx="2068" lry="2722" ulx="0" uly="0" xml:id="facs_30">
+         <graphic height="2722px" url="p030.jpg" width="2068px"/>
+         <graphic height="2722px" url="https://files.transkribus.eu/Get?id=OQSZBERZAFVJDRNEAOUAAFOF&amp;fileType=view" width="2068px"/>
+      </surface>
+      <surface lrx="2050" lry="2713" ulx="0" uly="0" xml:id="facs_31">
+         <graphic height="2713px" url="p031.jpg" width="2050px"/>
+         <graphic height="2713px" url="https://files.transkribus.eu/Get?id=XSKPIAMFWQLTNSNHAOQKXEXM&amp;fileType=view" width="2050px"/>
+      </surface>
+      <surface lrx="2080" lry="2720" ulx="0" uly="0" xml:id="facs_32">
+         <graphic height="2720px" url="p032.jpg" width="2080px"/>
+         <graphic height="2720px" url="https://files.transkribus.eu/Get?id=ZASGGIGKKGTUOQGMXLKDQYSA&amp;fileType=view" width="2080px"/>
+      </surface>
+      <surface lrx="2045" lry="2716" ulx="0" uly="0" xml:id="facs_33">
+         <graphic height="2716px" url="p033.jpg" width="2045px"/>
+         <graphic height="2716px" url="https://files.transkribus.eu/Get?id=HTHXBKPOHJGKYFBVUQSVIPPK&amp;fileType=view" width="2045px"/>
+      </surface>
+      <surface lrx="1975" lry="2671" ulx="0" uly="0" xml:id="facs_34">
+         <graphic height="2671px" url="p034.jpg" width="1975px"/>
+         <graphic height="2671px" url="https://files.transkribus.eu/Get?id=DJIPKXXODIOWDPHFMAWULRGH&amp;fileType=view" width="1975px"/>
+      </surface>
+      <surface lrx="2044" lry="2691" ulx="0" uly="0" xml:id="facs_35">
+         <graphic height="2691px" url="p035.jpg" width="2044px"/>
+         <graphic height="2691px" url="https://files.transkribus.eu/Get?id=ARDACNVBYHVVBVUEDMTFTVPS&amp;fileType=view" width="2044px"/>
+      </surface>
+      <surface lrx="1984" lry="2672" ulx="0" uly="0" xml:id="facs_36">
+         <graphic height="2672px" url="p036.jpg" width="1984px"/>
+         <graphic height="2672px" url="https://files.transkribus.eu/Get?id=FQBNJGJSAKANCKBJSPEWQXTU&amp;fileType=view" width="1984px"/>
+      </surface>
+      <surface lrx="2128" lry="2736" ulx="0" uly="0" xml:id="facs_37">
+         <graphic height="2736px" url="p037.jpg" width="2128px"/>
+         <graphic height="2736px" url="https://files.transkribus.eu/Get?id=RFZELRFBAKMFKGFVRCCKNTHS&amp;fileType=view" width="2128px"/>
+      </surface>
+      <surface lrx="1994" lry="2717" ulx="0" uly="0" xml:id="facs_38">
+         <graphic height="2717px" url="p038.jpg" width="1994px"/>
+         <graphic height="2717px" url="https://files.transkribus.eu/Get?id=ZQJEIMMNWKTEBQJSZPWQLLQY&amp;fileType=view" width="1994px"/>
+      </surface>
+      <surface lrx="2019" lry="2706" ulx="0" uly="0" xml:id="facs_39">
+         <graphic height="2706px" url="p039.jpg" width="2019px"/>
+         <graphic height="2706px" url="https://files.transkribus.eu/Get?id=RJDIXMOPHKHKVFSPVDLCMUOB&amp;fileType=view" width="2019px"/>
+      </surface>
+      <surface lrx="2041" lry="2713" ulx="0" uly="0" xml:id="facs_40">
+         <graphic height="2713px" url="p040.jpg" width="2041px"/>
+         <graphic height="2713px" url="https://files.transkribus.eu/Get?id=CWYLOJZEBVTAQDFJHWMMXCZZ&amp;fileType=view" width="2041px"/>
+      </surface>
+      <surface lrx="2006" lry="2709" ulx="0" uly="0" xml:id="facs_41">
+         <graphic height="2709px" url="p041.jpg" width="2006px"/>
+         <graphic height="2709px" url="https://files.transkribus.eu/Get?id=QXWISCWEBWILLRZWFXFEUJZI&amp;fileType=view" width="2006px"/>
+      </surface>
+      <surface lrx="1920" lry="2719" ulx="0" uly="0" xml:id="facs_42">
+         <graphic height="2719px" url="p042.jpg" width="1920px"/>
+         <graphic height="2719px" url="https://files.transkribus.eu/Get?id=LWZEZJPSIVNFBMRHEMHYAUAU&amp;fileType=view" width="1920px"/>
+      </surface>
+      <surface lrx="1928" lry="2696" ulx="0" uly="0" xml:id="facs_43">
+         <graphic height="2696px" url="p043.jpg" width="1928px"/>
+         <graphic height="2696px" url="https://files.transkribus.eu/Get?id=BOVODSNAVPEUQXRUUZQLGLQA&amp;fileType=view" width="1928px"/>
+      </surface>
+      <surface lrx="1996" lry="2716" ulx="0" uly="0" xml:id="facs_44">
+         <graphic height="2716px" url="p044.jpg" width="1996px"/>
+         <graphic height="2716px" url="https://files.transkribus.eu/Get?id=YUINYHUFJDNYXMBZTEOOPTJS&amp;fileType=view" width="1996px"/>
+      </surface>
+      <surface lrx="2173" lry="2837" ulx="0" uly="0" xml:id="facs_45">
+         <graphic height="2837px" url="p045.jpg" width="2173px"/>
+         <graphic height="2837px" url="https://files.transkribus.eu/Get?id=IKMTRPNFQLZCXAUAYEPHCJJC&amp;fileType=view" width="2173px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+           <pb facs="#facs_1" n="1" xml:id="img_0001"/><pb facs="#facs_2" n="2" xml:id="img_0002"/><pb facs="#facs_3" n="3" xml:id="img_0003"/><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_r2" type="">
+               <lb facs="#facs_4_r2l5" n="N001"/>Описаніе лагеря,
+               <lb facs="#facs_4_r2l6" n="N002"/>собраннаго
+               <lb facs="#facs_4_r2l8" n="N003"/>подъ высочайшею
+               <lb facs="#facs_4_r2l9" n="N004"/>Ея Императорскаго Величества
+               <lb facs="#facs_4_r2l10" n="N005"/>собственною командою
+               <lb facs="#facs_4_r2l11" n="N006"/>при
+               <lb facs="#facs_4_r2l12" n="N007"/>Красномъ селѣ,
+               <lb facs="#facs_4_r2l13" n="N008"/>со объясненіемъ, какія при томъ были намѣренія,
+               <lb facs="#facs_4_r2l14" n="N009"/>и
+               <lb facs="#facs_4_r2l15" n="N010"/>что по тому каждаго дня достопамятнаго происходило
+               <lb facs="#facs_4_r2l16" n="N011"/>1765 году.
+               <lb facs="#facs_4_r2l34" n="N012"/>При Императорской Академіи Наукъ.
+            </ab><pb facs="#facs_5" n="5" xml:id="img_0005"/><pb facs="#facs_6" n="6" xml:id="img_0006"/><ab facs="#facs_6_r1" type="">
+               <lb facs="#facs_6_r1l10" n="N001"/>Сколько ни прославилось Россїйское оружїе во многихъ пре¬
+               <lb facs="#facs_6_r1l11" n="N002"/>жде бывшихъ войнахъ, никогда однакожъ столь само¬
+               <lb facs="#facs_6_r1l12" n="N003"/>любиво чаемо не было, яко бы военное здѣсь искусство,
+               <lb facs="#facs_6_r1l13" n="N004"/>уже до самаго совершенства доведено. Ея Императорское
+               <lb facs="#facs_6_r1l14" n="N005"/>Величество, наша всемилостивѣйшая Государыня, из¬
+               <lb facs="#facs_6_line_1652625478328_191" n="N006"/>волила вѣдать особливо, что въ послѣднюю войну, за
+               <lb facs="#facs_6_r1l17" n="N007"/>прїобрѣтенную вновь славу оружїя, справедливая честь
+               <lb facs="#facs_6_r1l18" n="N008"/>принадлежитъ сколько непремѣнной и врожденной храб¬
+               <lb facs="#facs_6_r1l19" n="N009"/>рости Россїйскаго народа, столькожъ и можетъ быть
+               <lb facs="#facs_6_line_1652625506979_211" n="N010"/>болѣе тому, что среди жесточайшей войны не по¬
+               <lb facs="#facs_6_r1l23" n="N011"/>чтено было за невозможное, то поправлять, что въ
+               <lb facs="#facs_6_r1l24" n="N012"/>прежнихъ учрежденїяхъ требовало поправленїя, и такїя
+               <lb facs="#facs_6_r1l25" n="N013"/>новыя учрежденїя вводить, кои съ перемѣною времянъ и
+               <lb facs="#facs_6_r1l26" n="N014"/>съ приращенїемъ военнаго искусства нужными здѣлались,
+               <lb facs="#facs_6_r1l27" n="N015"/>и что наконецъ не вмѣняемо было за стыдъ полезные
+               <lb facs="#facs_6_r1l28" n="N016"/>примѣры принимать не токмо у прїятелей, но и у самихъ
+               <lb facs="#facs_6_r1l29" n="N017"/>непрїятелей. Достойная и праведная останется на все¬
+               <lb facs="#facs_6_r1l30" n="N018"/>гда здѣшнему Генералитету похвала, что все искусство,
+               <lb facs="#facs_6_r1l31" n="N019"/>мужество, жизнь и самое честолюбїе къ тому соединили,
+               <lb facs="#facs_6_r1l32" n="N020"/>чтобъ не полученными только прославляться побѣдами,
+               <lb facs="#facs_6_r1l33" n="N021"/>кои могли зависить отъ удачи, но чтобъ вѣчную по¬
+               <lb facs="#facs_6_r1l34" n="N022"/>казать Отечеству услугу, приведенїемъ въ большее совер¬
+               <lb facs="#facs_6_r1l35" n="N023"/>шенство военнаго дѣла.
+               <lb facs="#facs_6_r1l36" n="N024"/>Но какъ въ тогдашнее время и того довольно было,
+               <lb facs="#facs_6_r1l37" n="N025"/>чтобъ прїобрѣтенными вновь знанїями тотчасъ и слу¬
+               <lb facs="#facs_6_r1l38" n="N026"/>чайно пользоваться, а чтобъ порядочную изъ того си¬
+               <lb facs="#facs_6_r1l39" n="N027"/>стему здѣлать и согласно оной все принадлежащее
+               <lb facs="#facs_6_r1l40" n="N028"/>разпорядить, тому препятствовали и время и тогда¬
+               <lb facs="#facs_6_r1l41" n="N029"/>шнія обстоятельства. Не всякому подлинно и дано, во
+               <lb facs="#facs_6_r1l42" n="N030"/>всѣхъ
+               <lb facs="#facs_6_r1l43" n="N031"/>а 2
+            </ab><pb facs="#facs_7" n="7" xml:id="img_0007"/><ab facs="#facs_7_r1" type="">
+               <lb facs="#facs_7_line_1652627595558_543" n="N001"/>4
+               <lb facs="#facs_7_r1l3" n="N002"/>всѣхъ частяхъ, составляющихъ силу, богатство и честь
+               <lb facs="#facs_7_r1l4" n="N003"/>великаго государства, быть равно знающимъ, и въ каждой
+               <lb facs="#facs_7_r1l5" n="N004"/>части ничего того не пропустить, чѣмъ крѣпится и
+               <lb facs="#facs_7_r1l6" n="N005"/>возрастаетъ, и небреженїемъ чего все въ разстройку и
+               <lb facs="#facs_7_r1l7" n="N006"/>самой упадокъ приходитъ. Такой Государь прославился
+               <lb facs="#facs_7_r1l8" n="N007"/>войною, которой не рача о внутреннемъ благосостоянїи
+               <lb facs="#facs_7_r1l9" n="N008"/>своей Монархїи, не кажется великимъ въ очахъ человѣко¬
+               <lb facs="#facs_7_r1l10" n="N009"/>любїя. Таковъ былъ чадолюбивымъ отцомъ къ сво¬
+               <lb facs="#facs_7_r1l11" n="N010"/>имъ подданнымъ, но не умѣя ихъ защищать отъ про¬
+               <lb facs="#facs_7_r1l12" n="N011"/>тивныхъ нападенїй, является паче малодушнымъ,
+               <lb facs="#facs_7_r1l13" n="N012"/>нежели миролюбивымъ. Таковъ былъ великой начинатель
+               <lb facs="#facs_7_r1l14" n="N013"/>новыхъ и часто полезныхъ узаконенїй и учрежденїй, но
+               <lb facs="#facs_7_r1l15" n="N014"/>не имѣлъ довольно или силъ или твердости къ произве¬
+               <lb facs="#facs_7_r1l16" n="N015"/>денїю оныхъ въ дѣйство. Таковъ часто не рачилъ о самыхъ
+               <lb facs="#facs_7_r1l17" n="N016"/>великихъ дѣлахъ, единственно для того, что оныя не
+               <lb facs="#facs_7_r1l18" n="N017"/>имъ начаты, и что онъ славѣ своего предка завиство¬
+               <lb facs="#facs_7_r1l19" n="N018"/>валъ. Не таковъ былъ Петръ Перьвый. Великъ во брани,
+               <lb facs="#facs_7_r1l20" n="N019"/>величайшїй въ разпоряженїяхъ споспѣшествующихъ вну¬
+               <lb facs="#facs_7_r1l21" n="N020"/>треннему благосостоянїю государства: просвѣщенъ и пред¬
+               <lb facs="#facs_7_r1l22" n="N021"/>усмотрителенъ въ начинанїяхъ, твердъ и великодушенъ
+               <lb facs="#facs_7_r1l23" n="N022"/>въ медлительномъ иногда исполненїи оныхъ. Каковъ былъ
+               <lb facs="#facs_7_r1l24" n="N023"/>Петръ Перьвый въ тогдашнее время, такова Екатерина
+               <lb facs="#facs_7_r1l25" n="N024"/>Вторая въ нынѣшнее но несравненно больше просвѣщен¬
+               <lb facs="#facs_7_r1l26" n="N025"/>ное время. Самые вѣки имѣютъ свой возрастъ. Здѣсь
+               <lb facs="#facs_7_r1l27" n="N026"/>не мѣсто вычислять великїя Ея дарованїя, непрестанно
+               <lb facs="#facs_7_r1l28" n="N027"/>новое и твердое намъ блаженство промышляющїя.
+               <lb facs="#facs_7_r1l29" n="N028"/>Перьвымъ свидѣтель цѣлой свѣтъ, а второе чув¬
+               <lb facs="#facs_7_r1l30" n="N029"/>ствуетъ и прославляетъ усердная благодарность все¬
+               <lb facs="#facs_7_r1l31" n="N030"/>го Отечества. Вѣками называться будутъ нескон¬
+               <lb facs="#facs_7_r1l32" n="N031"/>чаваемыя, дай Боже! годы славнаго Ея государство¬
+               <lb facs="#facs_7_r1l33" n="N032"/>ванїя, не по числу дней, но по мѣрѣ невѣроятно
+               <lb facs="#facs_7_r1l34" n="N033"/>подъемлемыхъ Ею трудовъ, и по числу предусмотри¬
+               <lb facs="#facs_7_r1l35" n="N034"/>тельно предпринимаемыхъ, а съ непобѣдимою твердо¬
+               <lb facs="#facs_7_r1l36" n="N035"/>стїю, и великодушнымъ терпѣнїемъ производимыхъ ве¬
+               <lb facs="#facs_7_r1l37" n="N036"/>ликихъ дѣлъ. Вѣкамъ и принадлежитъ, справедливую
+               <lb facs="#facs_7_r1l38" n="N037"/>воздать славу сей великой Героинѣ. Мы едва имѣя до¬
+               <lb facs="#facs_7_r1l39" n="N038"/>вольно силы чувствовать всю великость блаженства на¬
+               <lb facs="#facs_7_line_1652626536349_381" n="N039"/>шего, чудимся токмо съ восхищенїемъ, видя, какъ
+               <lb facs="#facs_7_r1l42" n="N040"/>вдругъ безмѣрное пространство подверженныхъ скипетру
+               <lb facs="#facs_7_r1l43" n="N041"/>Ея Императорскаго Величества областей объемлется
+               <lb facs="#facs_7_r1l44" n="N042"/>великїя
+            </ab><pb facs="#facs_8" n="8" xml:id="img_0008"/><ab facs="#facs_8_r1" type="">
+               <lb facs="#facs_8_line_1652627747054_575" n="N001"/>5
+               <lb facs="#facs_8_r1l2" n="N002"/>великїя души окомъ; съ какимъ просвѣщенїемъ позна¬
+               <lb facs="#facs_8_r1l3" n="N003"/>ваются и сокровенныя наши недостатки и желанїя;
+               <lb facs="#facs_8_r1l4" n="N004"/>съ какою скоростїю получаемъ наше утѣшенїе, и съ ка¬
+               <lb facs="#facs_8_r1l5" n="N005"/>кимъ искусствомъ насаждаются науки, новое воспитанїе,
+               <lb facs="#facs_8_r1l6" n="N006"/>слѣдовательно и самая жизнь и другїя полезныя учре¬
+               <lb facs="#facs_8_r1l7" n="N007"/>жденїя, и какъ подъ благодѣющимъ назиранїемъ текутъ
+               <lb facs="#facs_8_r1l8" n="N008"/>къ своему созрѣнїю, и какъ наконецъ для всѣхъ другихъ
+               <lb facs="#facs_8_r1l9" n="N009"/>краткое и скоротечное время достаетъ раздѣляться на
+               <lb facs="#facs_8_r1l10" n="N010"/>толикїя упражненїя Ея Императорскаго Величества.
+               <lb facs="#facs_8_r1l11" n="N011"/>Въ новое состоянїе приведенная военная сила Россїй¬
+               <lb facs="#facs_8_r1l12" n="N012"/>ской Имперїи, между множествомъ другихъ важныхъ
+               <lb facs="#facs_8_r1l13" n="N013"/>дѣлъ, служитъ яснымъ доказательствомъ всего выше¬
+               <lb facs="#facs_8_r1l14" n="N014"/>изображеннаго.
+               <lb facs="#facs_8_line_1652627484611_488" n="N015"/>Ея Императорское Величество, любуясь гром¬
+               <lb facs="#facs_8_r1l18" n="N016"/>кою Россїйскаго оружїя славою, не удовольствовалась вѣ¬
+               <lb facs="#facs_8_r1l19" n="N017"/>дать, что самое миролюбїе требуетъ непрестанно пе¬
+               <lb facs="#facs_8_r1l20" n="N018"/>щись о всегдашнемъ благосостоянїи армеи: тотчасъ
+               <lb facs="#facs_8_r1l21" n="N019"/>промысломъ Божїимъ видимо на престолъ возведенная,
+               <lb facs="#facs_8_r1l22" n="N020"/>повелѣла нарочно учрежденной воинской коммисїи, какъ
+               <lb facs="#facs_8_r1l23" n="N021"/>прежнїя воинскїя установленїя, такъ новыя во время
+               <lb facs="#facs_8_r1l24" n="N022"/>войны случайно введенныя, но по большей части зако¬
+               <lb facs="#facs_8_r1l25" n="N023"/>нами еще неутвержденныя собрать, и присоединяя къ
+               <lb facs="#facs_8_r1l26" n="N024"/>тому прїобрѣтенное вновь искусство, здѣлать о всѣхъ
+               <lb facs="#facs_8_r1l27" n="N025"/>частяхъ Россїйской силы такое распоряженїе, которое
+               <lb facs="#facs_8_r1l28" n="N026"/>бы возростшему повсюду военному знанїю, временамъ и
+               <lb facs="#facs_8_r1l29" n="N027"/>обстоятельствамъ, славѣ Имперїи и пользѣ въ разсуж¬
+               <lb facs="#facs_8_r1l30" n="N028"/>денїи внутренняго ея состоянїя, болѣе согласовано. Успѣ—
+               <lb facs="#facs_8_r1l31" n="N029"/>шно было трудиться, подъ руководствомъ и наставленї¬
+               <lb facs="#facs_8_line_1652627515035_509" n="N030"/>ями толь великой Государыни. Скоро вышли новые
+               <lb facs="#facs_8_r1l34" n="N031"/>штаты и учрежденїя. Но Ея Императорское Ве¬
+               <lb facs="#facs_8_r1l35" n="N032"/>личество и паки не удовольствовалась видѣть пре¬
+               <lb facs="#facs_8_r1l36" n="N033"/>имущественную оныхъ пользу подъ прежними, но
+               <lb facs="#facs_8_r1l37" n="N034"/>подъемля новыя на себя труды, росхотѣла и Сама пло¬
+               <lb facs="#facs_8_r1l38" n="N035"/>ды Своихъ попеченїй на дѣлѣ испытать, и Своимъ при¬
+               <lb facs="#facs_8_r1l39" n="N036"/>мѣромъ показать особливо армїи, какъ неоспоримо, что
+               <lb facs="#facs_8_r1l40" n="N037"/>въ военномъ дѣлѣ нѣтъ ничего неважнаго.
+               <lb facs="#facs_8_r1l41" n="N038"/>Сего ради Ея Императорское Величество во
+               <lb facs="#facs_8_r1l42" n="N039"/>время пребыванїя въ Москвѣ, для высочайшей Ея коро¬
+               <lb facs="#facs_8_r1l43" n="N040"/>нацїи, при всемъ стеченїи дѣлъ скораго тогда и силь¬
+               <lb facs="#facs_8_r1l44" n="N041"/>наго
+               <lb facs="#facs_8_r1l45" n="N042"/>а 3
+            </ab><pb facs="#facs_9" n="9" xml:id="img_0009"/><ab facs="#facs_9_r1" type="">
+               <lb facs="#facs_9_r1l2" n="N001"/>6
+               <lb facs="#facs_9_r1l3" n="N002"/>наго поправленїя требовавшихъ, не оставила осмотрѣть,
+               <lb facs="#facs_9_r1l4" n="N003"/>собранные подъ командою Его Сіятельства Генерала
+               <lb facs="#facs_9_r1l5" n="N004"/>Фельдмаршала и Кавалера, Графа Петра Семеновича Сал¬
+               <lb facs="#facs_9_r1l6" n="N005"/>тыкова, въ лагерь полки.
+               <lb facs="#facs_9_r1l7" n="N006"/>Сего ради, въ предпрїятомъ прошлаго лѣта походѣ
+               <lb facs="#facs_9_r1l8" n="N007"/>въ Эстляндїю и Лифляндїю, соизволила Ея Величе¬
+               <lb facs="#facs_9_r1l9" n="N008"/>ство и тамошнїе корпусы въ лагеряхъ смотрѣть. Мо¬
+               <lb facs="#facs_9_r1l10" n="N009"/>наршее посѣщенїе великимъ было для войска обрадованї¬
+               <lb facs="#facs_9_line_1652631106204_697" n="N010"/>емъ и ободренїемъ, а учиненныя Ея Императорскимъ
+               <lb facs="#facs_9_r1l13" n="N011"/>Величествомъ примѣчанїя, ускоряли труды воинской
+               <lb facs="#facs_9_r1l14" n="N012"/>Коммисїи. Толикое о военныхъ дѣлахъ раченїе не оста¬
+               <lb facs="#facs_9_r1l15" n="N013"/>новляло ни на часъ теченїе протчихъ Государственныхъ
+               <lb facs="#facs_9_r1l16" n="N014"/>дѣлъ. Обитатели бреговъ сѣвернаго Океана, съ вѣчною
+               <lb facs="#facs_9_r1l17" n="N015"/>благодарностїю воспоминать будутъ приближенїе Ея
+               <lb facs="#facs_9_r1l18" n="N016"/>Императорскаго Величества къ брегамъ Балтїйскимъ,
+               <lb facs="#facs_9_line_1652631121723_711" n="N017"/>оттуда получили они новое и крайнѣ имъ, а чрезъ
+               <lb facs="#facs_9_r1l21" n="N018"/>нихъ и всему Государству, полезное для Коммерцїи
+               <lb facs="#facs_9_r1l22" n="N019"/>учрежденїе. Начатыя въ Ригѣ по Двинѣ великїя работы,
+               <lb facs="#facs_9_r1l23" n="N020"/>посѣщенїемъ и щедротами Монаршими ободренныя, скоро
+               <lb facs="#facs_9_r1l24" n="N021"/>дадутъ сей великой рѣкѣ новое теченїе, и новую тамо¬
+               <lb facs="#facs_9_r1l25" n="N022"/>шней Коммерцїи способность. Морскїя силы столько при¬
+               <lb facs="#facs_9_r1l26" n="N023"/>томъ незабыты были, что казалося, яко бы сей походъ
+               <lb facs="#facs_9_r1l27" n="N024"/>болѣе для нихъ предпрїятъ былъ. Ея Императорское
+               <lb facs="#facs_9_r1l28" n="N025"/>Величество не довольствовалась тѣмъ, что вскорѣ по
+               <lb facs="#facs_9_r1l29" n="N026"/>возвращенїи изъ Москвы въ 1763 году, Кронштатъ и
+               <lb facs="#facs_9_r1l30" n="N027"/>строящїйся тамо флотъ осмотрѣть, и для поправленїя нуж¬
+               <lb facs="#facs_9_r1l31" n="N028"/>наго нарочную коммисїю учредить изволила, восхотѣла
+               <lb facs="#facs_9_r1l32" n="N029"/>и прошлаго 1764 году предъ самымъ походомъ въ Эстлян¬
+               <lb facs="#facs_9_r1l33" n="N030"/>дїю, паки Кронштатъ посѣтить, флотъ на рейдѣ сто¬
+               <lb facs="#facs_9_r1l34" n="N031"/>явшей осмотрѣть и въ море отпустить, и наконецъ изъ
+               <lb facs="#facs_9_r1l35" n="N032"/>Ревеля до Бальтїйскаго Порта, Еяжъ повелѣнїемъ обновля¬
+               <lb facs="#facs_9_r1l36" n="N033"/>емаго, оному на яхтѣ въ полномъ морѣ спутешествовать,
+               <lb facs="#facs_9_r1l37" n="N034"/>и тамо эксерцированїе онаго видѣть.
+               <lb facs="#facs_9_r1l38" n="N035"/>Сего ради и нынѣшняго лѣта предпрїятъ былъ вто¬
+               <lb facs="#facs_9_r1l39" n="N036"/>ричной походъ въ море за Красную Горку до высоты
+               <lb facs="#facs_9_r1l40" n="N037"/>Гаривалла. Господа Флагманы и протчїе флотскїе Офи¬
+               <lb facs="#facs_9_r1l41" n="N038"/>церы и служители лучше могутъ свидѣтельствовать,
+               <lb facs="#facs_9_r1l42" n="N039"/>колико они обрадованы были симъ посѣщенїемъ. Но сви¬
+               <lb facs="#facs_9_r1l43" n="N040"/>дѣтели упражненїй Ея Императорскаго Величества
+               <lb facs="#facs_9_r1l44" n="N041"/>вѣда¬
+            </ab><pb facs="#facs_10" n="10" xml:id="img_0010"/><ab facs="#facs_10_r1" type="">
+               <lb facs="#facs_10_r1l2" n="N001"/>7
+               <lb facs="#facs_10_line_1652632981587_823" n="N002"/>вѣдаютъ притомъ, что удаленїе отъ престольнаго
+               <lb facs="#facs_10_r1l5" n="N003"/>града и беспокойствїя, съ морскимъ путешествїемъ необхо¬
+               <lb facs="#facs_10_r1l6" n="N004"/>димо соединенныя, непрерывали Матернихъ Ея о пользѣ
+               <lb facs="#facs_10_r1l7" n="N005"/>всего Государства вообще попеченїй, и что напротивъ
+               <lb facs="#facs_10_r1l8" n="N006"/>того попеченїе о всей Имперїи не возпрепятствовало,
+               <lb facs="#facs_10_r1l9" n="N007"/>все то со уваженїемъ примѣтить, что того достойно
+               <lb facs="#facs_10_r1l10" n="N008"/>было, и что требовало поправленїя. Не тѣмъ сей
+               <lb facs="#facs_10_r1l11" n="N009"/>походъ окончился, что Ея Императорское Величе¬
+               <lb facs="#facs_10_line_1652632998707_838" n="N010"/>ство видѣла движенїя флота, какїя по тогдашней
+               <lb facs="#facs_10_r1l14" n="N011"/>погодѣ дѣлаться могли, и бомбардированїе со флотажъ
+               <lb facs="#facs_10_r1l15" n="N012"/>построеннаго городка на островѣ Гариваллѣ, но всемѣрно
+               <lb facs="#facs_10_line_1652633010547_847" n="N013"/>скоро увидимъ мы и почувствуемъ полезные плоды,
+               <lb facs="#facs_10_r1l18" n="N014"/>учиненныхъ Ея Императорскимъ Величествомъ при¬
+               <lb facs="#facs_10_r1l19" n="N015"/>мѣчанїй.
+               <lb facs="#facs_10_r1l20" n="N016"/>Сего ради, возвращаясь къ перьвому, повелѣла Ея
+               <lb facs="#facs_10_r1l21" n="N017"/>Императорское Величество вывесть армею Ея нынѣ¬
+               <lb facs="#facs_10_r1l22" n="N018"/>шнимъ лѣтомъ, въ разные лагери, такими корпусами,
+               <lb facs="#facs_10_r1l23" n="N019"/>въ коихъ бы можно было, не солдатство токмо ружей¬
+               <lb facs="#facs_10_r1l24" n="N020"/>ной эксерцицїи обучать, но пользу установленныхъ Ея
+               <lb facs="#facs_10_r1l25" n="N021"/>Императорскимъ Величествомъ новыхъ учрежденїй ви¬
+               <lb facs="#facs_10_r1l26" n="N022"/>дѣть; Генераламъ подать случай показывать новые опы¬
+               <lb facs="#facs_10_r1l27" n="N023"/>ты доказаннаго уже ими искусства; ревнительнымъ Офи¬
+               <lb facs="#facs_10_r1l28" n="N024"/>церамъ являть частїю свою способность бытъ таковы¬
+               <lb facs="#facs_10_r1l29" n="N025"/>мижъ и частїю обучаться тому чего не вѣдаютъ, и на¬
+               <lb facs="#facs_10_r1l30" n="N026"/>конецъ всѣмъ вообще, воспоминая прежнїя свои подвиги,
+               <lb facs="#facs_10_r1l31" n="N027"/>доказать, елико можно во время глубокой тишины и
+               <lb facs="#facs_10_r1l32" n="N028"/>покоя, колъ охотно и усердно всѣ и каждый понесли бы
+               <lb facs="#facs_10_r1l33" n="N029"/>жизнь свою, за честь и славу великїя своея Самодержи¬
+               <lb facs="#facs_10_r1l34" n="N030"/>цы, и въ оборону своего Отечества.
+               <lb facs="#facs_10_r1l35" n="N031"/>Главной изъ сихъ лагерей велѣно было собрать не¬
+               <lb facs="#facs_10_r1l36" n="N032"/>далеко отъ Краснаго села, въ тритцати верстахъ отъ
+               <lb facs="#facs_10_r1l37" n="N033"/>Санктпетербурга, и состоять оному изъ трехъ дивизїй:
+               <lb facs="#facs_10_r1l38" n="N034"/>Первая дивизїя.
+               <lb facs="#facs_10_r1l39" n="N035"/>Подъ командою Его Сіятельства Генерала Фельдмаршала
+               <lb facs="#facs_10_r1l40" n="N036"/>и Кавалера, Графа Александра Борисовича Бутурлина.
+               <lb facs="#facs_10_r1l41" n="N037"/>Изъ полковъ Лейбгвардїи
+               <lb facs="#facs_10_r1l42" n="N038"/>1. Коннаго.
+               <lb facs="#facs_10_r1l43" n="N039"/>2. Преображенскаго.
+               <lb facs="#facs_10_r1l44" n="N040"/>3. Се¬
+            </ab><pb facs="#facs_11" n="11" xml:id="img_0011"/><ab facs="#facs_11_r1" type="">
+               <lb facs="#facs_11_line_1652634047074_938" n="N001"/>8
+               <lb facs="#facs_11_r1l2" n="N002"/>3. Семеновскаго.
+               <lb facs="#facs_11_r1l3" n="N003"/>4. Измайловскаго.
+               <lb facs="#facs_11_line_1652634109003_959" n="N004"/>Изъ полевыхъ полковъ
+               <lb facs="#facs_11_line_1652634117202_966" n="N005"/>5. Кирасирскаго, Его Императорскаго Высочества.
+               <lb facs="#facs_11_line_1652634120258_970" n="N006"/>6. Кирасирскаго третьяго.
+               <lb facs="#facs_11_r1l10" n="N007"/>Вторая дивизїя.
+               <lb facs="#facs_11_r1l11" n="N008"/>Подъ командою Его Сїятельства, Генерала и Кавалера,
+               <lb facs="#facs_11_r1l12" n="N009"/>Князь Александра Михайловича Голицына.
+               <lb facs="#facs_11_r1l13" n="N010"/>Конные полки
+               <lb facs="#facs_11_line_1652634135612_986" n="N011"/>1. Новогородской Карабинерной.
+               <lb facs="#facs_11_r1l16" n="N012"/>2. Санктпетербургской Карабинерной.
+               <lb facs="#facs_11_r1l17" n="N013"/>Пѣхота.
+               <lb facs="#facs_11_r1l18" n="N014"/>3. Смоленской.
+               <lb facs="#facs_11_r1l19" n="N015"/>4. Ярославской.
+               <lb facs="#facs_11_line_1652634144044_997" n="N016"/>5. Вологоцкой.
+               <lb facs="#facs_11_line_1652634147883_1001" n="N017"/>6. Великолуцкой.
+               <lb facs="#facs_11_r1l24" n="N018"/>7. Нарвской.
+               <lb facs="#facs_11_r1l25" n="N019"/>8. Нашебургской.
+               <lb facs="#facs_11_r1l26" n="N020"/>9 Низовской.
+               <lb facs="#facs_11_r1l27" n="N021"/>10. Суздальской.
+               <lb facs="#facs_11_r1l28" n="N022"/>11. Бомбардирской Артиллерїйской.
+               <lb facs="#facs_11_r1l29" n="N023"/>Третїя дивизїя.
+               <lb facs="#facs_11_r1l30" n="N024"/>Подъ командою Его Превосходительства Генерала и Кава¬
+               <lb facs="#facs_11_r1l31" n="N025"/>лера, Петра Ивановича Панина.
+               <lb facs="#facs_11_r1l32" n="N026"/>Коннные.
+               <lb facs="#facs_11_r1l33" n="N027"/>1. Архангелогородской Карабинерной.
+               <lb facs="#facs_11_r1l34" n="N028"/>2. Нарвской Карабинерной.
+               <lb facs="#facs_11_r1l35" n="N029"/>Пѣхотные.
+               <lb facs="#facs_11_r1l36" n="N030"/>3. Первой Московской.
+               <lb facs="#facs_11_r1l37" n="N031"/>4. Рязанской.
+               <lb facs="#facs_11_r1l38" n="N032"/>5. Тобольской.
+               <lb facs="#facs_11_r1l39" n="N033"/>6. Кабардинской.
+               <lb facs="#facs_11_r1l40" n="N034"/>7. Копорской.
+               <lb facs="#facs_11_r1l41" n="N035"/>8. Псковской.
+               <lb facs="#facs_11_r1l42" n="N036"/>Артил¬
+            </ab><pb facs="#facs_12" n="12" xml:id="img_0012"/><ab facs="#facs_12_r1" type="">
+               <lb facs="#facs_12_line_1652634647834_1075" n="N001"/>9
+               <lb facs="#facs_12_r1l2" n="N002"/>Артиллерїя въ 44 полевыхъ орудей состоящая съ
+               <lb facs="#facs_12_r1l3" n="N003"/>полнымъ числомъ принадлежащихъ чиновъ и служителей,
+               <lb facs="#facs_12_r1l4" n="N004"/>подъ командою Его Сїятельства Генерала Фельдцейгмей¬
+               <lb facs="#facs_12_r1l5" n="N005"/>стера и Кавалера, Графа Григорья Григорьевича Орлова.
+               <lb facs="#facs_12_r1l6" n="N006"/>сверьхъ того легкихъ войскъ
+               <lb facs="#facs_12_r1l7" n="N007"/>Грузинской гусарской полкъ,
+               <lb facs="#facs_12_r1l8" n="N008"/>пятисотная команда Донскихъ Козаковъ и
+               <lb facs="#facs_12_r1l9" n="N009"/>30 человѣкъ Калмыковъ.
+               <lb facs="#facs_12_line_1652634667427_1092" n="N010"/>Протчихъ господъ Генераловъ имяна, и раздѣленїе
+               <lb facs="#facs_12_r1l12" n="N011"/>ихъ по линїямъ и корпусамъ пространнѣе усмотрѣть мо¬
+               <lb facs="#facs_12_r1l13" n="N012"/>жно изъ приложеннаго при семъ ордера баталїи.
+               <lb facs="#facs_12_r1l14" n="N013"/>Ко вступленїю въ назначенный лагерь опредѣлено было
+               <lb facs="#facs_12_r1l15" n="N014"/>15 число Іюня 1765 году.
+               <lb facs="#facs_12_r1l16" n="N015"/>Во исполненїе того, дивизїя Его Превосходительства
+               <lb facs="#facs_12_r1l17" n="N016"/>Генерала и Кавалера, Петра Ивановича Панина, марширо¬
+               <lb facs="#facs_12_r1l18" n="N017"/>вала церемонїею чрезъ городъ идучи изъ Финляндїи, гдѣ
+               <lb facs="#facs_12_r1l19" n="N018"/>оная была на квартирахъ, 13 сегожъ мѣсяца подъ его
+               <lb facs="#facs_12_r1l20" n="N019"/>предводительствомъ. Ея Императорское Величество
+               <lb facs="#facs_12_line_1652634681219_1106" n="N020"/>изволила оную смотрѣть, съ Его Императорскимъ
+               <lb facs="#facs_12_r1l23" n="N021"/>Высочествомъ, изъ покоевъ деревяннаго зимняго дому, и
+               <lb facs="#facs_12_r1l24" n="N022"/>за порядокъ марша и изрядство всего корпуса удостоила
+               <lb facs="#facs_12_r1l25" n="N023"/>объявить Монаршее Свое благоволенїе.
+               <lb facs="#facs_12_r1l26" n="N024"/>Прочїе полки, кои около Санктпетербурга стояли,
+               <lb facs="#facs_12_r1l27" n="N025"/>смотрѣла Ея Императорское Величество частїю на
+               <lb facs="#facs_12_r1l28" n="N026"/>мѣстѣ, частїю же на дорогѣ въ домѣ Его Сїятель¬
+               <lb facs="#facs_12_r1l29" n="N027"/>ства Оберъ-Гофмаршала и Кавалера, Графа Карла Ефи¬
+               <lb facs="#facs_12_r1l30" n="N028"/>мовича Сиверса.
+               <lb facs="#facs_12_r1l31" n="N029"/>Полки Лейбгвардїи 14 Іюня собравшись изъ своихъ
+               <lb facs="#facs_12_r1l32" n="N030"/>мѣстъ около Вологоцкой ямской, маршировали тогожъ
+               <lb facs="#facs_12_r1l33" n="N031"/>дня по полудни до деревни Лиговой въ 16 верстахъ отъ
+               <lb facs="#facs_12_r1l34" n="N032"/>Санктпетербурга, и тамо ночевать лагеремъ стали.
+               <lb facs="#facs_12_r1l35" n="N033"/>Ея Императорское Величество, соизволила ѣздить
+               <lb facs="#facs_12_r1l36" n="N034"/>съ Его Императорскимъ Высочествомъ на приморскую дачу
+               <lb facs="#facs_12_r1l37" n="N035"/>Оберъ-Гофмаршала Графа Сиверса, и смотрѣть подъ ша¬
+               <lb facs="#facs_12_r1l38" n="N036"/>тромъ какъ полки подъ предводительствомъ Его Сїятель¬
+               <lb facs="#facs_12_r1l39" n="N037"/>ства командующаго Генерала-Фельдмаршала, Графа Бу¬
+               <lb facs="#facs_12_r1l40" n="N038"/>турлина, въ полномъ строевомъ порядкѣ проходили.
+               <lb facs="#facs_12_r1l41" n="N039"/>Коли¬
+               <lb facs="#facs_12_line_1652634719639_1132" n="N040"/>6
+            </ab><pb facs="#facs_13" n="13" xml:id="img_0013"/><ab facs="#facs_13_r1" type="">
+               <lb facs="#facs_13_r1l2" n="N001"/>10
+               <lb facs="#facs_13_r1l3" n="N002"/>Колико сїи полки исправностїю своею и поряд¬
+               <lb facs="#facs_13_r1l4" n="N003"/>комъ удостоились высочайшаго Ея Императорскаго
+               <lb facs="#facs_13_line_1652635946812_1241" n="N004"/>Величества благоволенїя, то изъ нижеслѣдующаго
+               <lb facs="#facs_13_r1l7" n="N005"/>усмотрѣть можно.
+               <lb facs="#facs_13_r1l8" n="N006"/>Сообщенїе.
+               <lb facs="#facs_13_r1l9" n="N007"/>Отъ дежурнаго Ея Императорскаго Величества Генерала
+               <lb facs="#facs_13_r1l10" n="N008"/>Адъютанта, Графа Григорья Григорьевича Орлова, къ
+               <lb facs="#facs_13_r1l11" n="N009"/>командующему Дивизїею полковъ Лейбгвардїи, Гене¬
+               <lb facs="#facs_13_r1l12" n="N010"/>ралу Фельдмаршалу и Кавалеру, Графу Александру
+               <lb facs="#facs_13_r1l13" n="N011"/>Борисовичу Бутурлину.
+               <lb facs="#facs_13_r1l14" n="N012"/>«За сугубое щастїе почитаю, что имѣю честь чрезъ
+               <lb facs="#facs_13_r1l15" n="N013"/>«сїе Вашему Сїятельству объявить удовольствїе и благо¬
+               <lb facs="#facs_13_r1l16" n="N014"/>«воленїе всемилостивѣйшей нашей Самодержицы о пол¬
+               <lb facs="#facs_13_r1l17" n="N015"/>«кахъ Лейбгвардїи, которое они вчерашнїй день ше¬
+               <lb facs="#facs_13_r1l18" n="N016"/>«ствїемъ своимъ въ станъ, назначенный подъ Краснымъ
+               <lb facs="#facs_13_r1l19" n="N017"/>«селомъ, въ сердцѣ Ея Императорскаго Величе¬
+               <lb facs="#facs_13_r1l20" n="N018"/>«ства произвели. Премудрая и народъ свой, Богомъ Ей
+               <lb facs="#facs_13_r1l21" n="N019"/>«ввѣренный чрезмѣрно любящая Монархиня, видя полки
+               <lb facs="#facs_13_r1l22" n="N020"/>«Своея Лейбгвардїи въ такомъ состоянїи, какого Она
+               <lb facs="#facs_13_r1l23" n="N021"/>«желала, несказанно радовалася, что они предпринимае¬
+               <lb facs="#facs_13_r1l24" n="N022"/>«мымъ для пользы всего Россїйскаго общества намѣренїямъ
+               <lb facs="#facs_13_r1l25" n="N023"/>«Ея Величества ревностїю своею и усердїемъ точно
+               <lb facs="#facs_13_r1l26" n="N024"/>«соотвѣтствуютъ, и какъ перьвый Россїйскихъ войскъ
+               <lb facs="#facs_13_r1l27" n="N025"/>«корпусъ служатъ похвальнымъ примѣромъ всѣмъ про¬
+               <lb facs="#facs_13_r1l28" n="N026"/>«чимъ. Чего для Ея Императорское Величество
+               <lb facs="#facs_13_r1l29" n="N027"/>«изволила высочайше указать, собравъ всю Гвардїю объ¬
+               <lb facs="#facs_13_r1l30" n="N028"/>«явить имъ сїю Монаршую милость, Штабъ-Офицерамъ
+               <lb facs="#facs_13_r1l31" n="N029"/>«и Оберъ-Офицерамъ за прилѣжное ихъ смотрѣнїе благо¬
+               <lb facs="#facs_13_r1l32" n="N030"/>«дарить, а Ундеръ-Офицерамъ и рядовымъ за послушанїе
+               <lb facs="#facs_13_r1l33" n="N031"/>«и исправность достойную отдать похвалу, и что сей
+               <lb facs="#facs_13_r1l34" n="N032"/>«ихъ поступокъ наивящшее Ея Императорскаго Ве¬
+               <lb facs="#facs_13_line_1652635973708_1274" n="N033"/>«личества благоволенїе заслужилъ, и что впредь Ея
+               <lb facs="#facs_13_r1l37" n="N034"/>«Величество изволитъ надѣяться, ихъ всегда видѣть,
+               <lb facs="#facs_13_r1l38" n="N035"/>«такъ какъ видѣла, съ пламеннымъ желанїемъ исполнять
+               <lb facs="#facs_13_r1l39" n="N036"/>«Ея волю. Сообща сїе имѣю честь поздравить Ваше Сїя¬
+               <lb facs="#facs_13_line_1652635983883_1282" n="N037"/>«тельство съ общею намъ радостїю всѣхъ вѣрныхъ ра¬
+               <lb facs="#facs_13_r1l42" n="N038"/>«бовъ Ея Величества, находящихся въ корпусѣ Лейб¬
+               <lb facs="#facs_13_line_1652635991843_1288" n="N039"/>«гвардїи. Графъ Г. Орловъ.
+               <lb facs="#facs_13_r1l45" n="N040"/>Въ Санктпетербургѣ Іюня 15 дня 1765.
+               <lb facs="#facs_13_r1l46" n="N041"/>Про¬
+            </ab><pb facs="#facs_14" n="14" xml:id="img_0014"/><ab facs="#facs_14_r1" type="">
+               <lb facs="#facs_14_r1l2" n="N001"/>11
+               <lb facs="#facs_14_r1l3" n="N002"/>Произведенную тѣмъ въ полкахъ радость и возженное
+               <lb facs="#facs_14_r1l4" n="N003"/>въ сердцахъ усердїе удобнѣе чувствовать нежели изобра¬
+               <lb facs="#facs_14_r1l5" n="N004"/>зить; и потому всякое описанїе, какъ недостачное,
+               <lb facs="#facs_14_r1l6" n="N005"/>оставляется.
+               <lb facs="#facs_14_r1l7" n="N006"/>15. Число всѣ вышепоказанные полки въ назначенный
+               <lb facs="#facs_14_r1l8" n="N007"/>имъ лагерь вступили.
+               <lb facs="#facs_14_r1l9" n="N008"/>16 и 17 числа упражнялись въ лагерѣ ружейными
+               <lb facs="#facs_14_r1l10" n="N009"/>эксерцицїями. Но сверьхъ того и тогожъ 15 числа Ея
+               <lb facs="#facs_14_r1l11" n="N010"/>Императорское Величество изволила скрытно смо¬
+               <lb facs="#facs_14_r1l12" n="N011"/>трѣть, какъ всѣ полки изъ разныхъ мѣстъ въ лагерь
+               <lb facs="#facs_14_r1l13" n="N012"/>вступали.
+               <lb facs="#facs_14_r1l14" n="N013"/>18. Отправилась Ея Императорское Величество
+               <lb facs="#facs_14_r1l15" n="N014"/>изъ Санктпетербурга въ 8 часу по полудни, въ про¬
+               <lb facs="#facs_14_r1l16" n="N015"/>вожанїи придворнаго штата, и нѣкоторыхъ изъ Волон¬
+               <lb facs="#facs_14_r1l17" n="N016"/>теровъ, кои при свитѣ Ея Величества во время лагеря
+               <lb facs="#facs_14_r1l18" n="N017"/>и при всѣхъ воинскихъ дѣйствїяхъ и движенїяхъ быть
+               <lb facs="#facs_14_r1l19" n="N018"/>удостоены, и коимъ особливой списокъ при семъ при¬
+               <lb facs="#facs_14_r1l20" n="N019"/>лагается; и прибыла въ Красное село въ построенный
+               <lb facs="#facs_14_r1l21" n="N020"/>въ крайней скорости, однакожъ великой и хорошо убран¬
+               <lb facs="#facs_14_r1l22" n="N021"/>ной домъ въ 10 часовъ тогожъ вечера, куда и Его Импе¬
+               <lb facs="#facs_14_r1l23" n="N022"/>раторское Высочество за часъ передъ тѣмъ въ препрово¬
+               <lb facs="#facs_14_r1l24" n="N023"/>жденїи Его Превосходительства тайнаго дѣйствитель¬
+               <lb facs="#facs_14_r1l25" n="N024"/>наго Совѣтника, и Своего Оберъ-Гофмейстера, Ники¬
+               <lb facs="#facs_14_r1l26" n="N025"/>ты Ивановича Панина, съ прочимъ своимъ штатомъ при¬
+               <lb facs="#facs_14_r1l27" n="N026"/>былъ.
+               <lb facs="#facs_14_r1l28" n="N027"/>Прибытїя Ея Императорскаго Величества ожи¬
+               <lb facs="#facs_14_r1l29" n="N028"/>дали командующїе дивизїями господа Генералы, и по¬
+               <lb facs="#facs_14_r1l30" n="N029"/>давъ всеподданнѣйшїе репорты о состоянїи своихъ диви¬
+               <lb facs="#facs_14_r1l31" n="N030"/>зей, допущены были къ рукѣ Ея Величества.
+               <lb facs="#facs_14_r1l32" n="N031"/>19. По утру соизволила Ея Императорское Ве¬
+               <lb facs="#facs_14_r1l33" n="N032"/>личество слушать божественную литургїю въ при¬
+               <lb facs="#facs_14_r1l34" n="N033"/>ходской Краснаго села церьквѣ, а по окончанїи службы
+               <lb facs="#facs_14_r1l35" n="N034"/>и по возвращенїи въ покои, соизволила принимать отъ
+               <lb facs="#facs_14_r1l36" n="N035"/>собравшагося ко двору Генералитета репорты и жало¬
+               <lb facs="#facs_14_r1l37" n="N036"/>вать всѣхъ къ рукѣ. При томъ приказъ отданъ:
+               <lb facs="#facs_14_r1l38" n="N037"/>1. Какъ во все время лагеря, и пока Ея Император¬
+               <lb facs="#facs_14_r1l39" n="N038"/>ское Величество онымъ сама командовать изво¬
+               <lb facs="#facs_14_r1l40" n="N039"/>литъ, будетъ безсмѣнно дежурить одинъ Генералъ—
+               <lb facs="#facs_14_r1l41" n="N040"/>Адъю¬
+               <lb facs="#facs_14_r1l42" n="N041"/>б 2
+            </ab><pb facs="#facs_15" n="15" xml:id="img_0015"/><ab facs="#facs_15_r2" type="">
+               <lb facs="#facs_15_line_1652638271787_1484" n="N001"/>12
+               <lb facs="#facs_15_r2l2" n="N002"/>Адъютантъ, Его Сїятельство Графъ Григорей Гри¬
+               <lb facs="#facs_15_r2l3" n="N003"/>горьевичь Орловъ, то естьли бы во время отсудствїя
+               <lb facs="#facs_15_r2l4" n="N004"/>его иногда отъ квартиры ЕЯ ВЕЛИЧЕСТВА надобность
+               <lb facs="#facs_15_r2l5" n="N005"/>случилась о чемъ докладывать или испрашивать
+               <lb facs="#facs_15_r2l6" n="N006"/>повелѣнїе и наставленїе, то въ такомъ случаѣ адре¬
+               <lb facs="#facs_15_r2l7" n="N007"/>соваться къ Его Сїятельству Генералу Квартирмей¬
+               <lb facs="#facs_15_r2l8" n="N008"/>стеру и Кавалеру, Князь Александру Алексѣевичу Вя¬
+               <lb facs="#facs_15_r2l9" n="N009"/>земскому, или къ Его Превосходительству Генералу
+               <lb facs="#facs_15_r2l10" n="N010"/>Маїору и Кавалеру, Николаю Ивановичу Чичерину,
+               <lb facs="#facs_15_r2l11" n="N011"/>кои въ такомъ случаѣ должность Генерала Адъютан¬
+               <lb facs="#facs_15_r2l12" n="N012"/>та отправлять имѣютъ.
+               <lb facs="#facs_15_r2l13" n="N013"/>Чтожъ до сей должности принадлежитъ, то хотя
+               <lb facs="#facs_15_r2l14" n="N014"/>и извѣстно содержанїе подписаннаго не давно отъ ЕЯ
+               <lb facs="#facs_15_r2l15" n="N015"/>ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА наставленїя Генералу
+               <lb facs="#facs_15_r2l16" n="N016"/>Адъютанту; однакожъ здѣсь не льзя не повторить, что
+               <lb facs="#facs_15_r2l17" n="N017"/>въ 5 пунктѣ онаго точно изображено: „Когда высочайшее
+               <lb facs="#facs_15_r2l18" n="N018"/>„ЕЯ ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА присудствїе будетъ
+               <lb facs="#facs_15_r2l19" n="N019"/>„въ лагерѣ, въ мирное ли то время или въ военное; тогда
+               <lb facs="#facs_15_r2l20" n="N020"/>„Генералъ Адъютантъ призывается во всѣ военные совѣ¬
+               <lb facs="#facs_15_r2l21" n="N021"/>„ты, и ничто въ лагерѣ важное, ниже какое движенїе
+               <lb facs="#facs_15_r2l22" n="N022"/>„безъ его свѣденїя не произходитъ, а по тому и всѣ диви¬
+               <lb facs="#facs_15_r2l23" n="N023"/>„зїонныя и протчїя при лагерѣ дежурства, исполняютъ
+               <lb facs="#facs_15_r2l24" n="N024"/>„учрежденнымъ порядкомъ по его приказанїямъ; и онъ
+               <lb facs="#facs_15_r2l25" n="N025"/>„наряды и повелѣнїя во всѣ дивизїи посылаетъ за своимъ
+               <lb facs="#facs_15_r2l26" n="N026"/>„подписанїемъ, донося о томъ ЕЯ ИМПЕРАТОРСКОМУ
+               <lb facs="#facs_15_r2l27" n="N027"/>ВЕЛИЧЕСТВУ; и далѣе въ шестомъ пунктѣ; что всѣ от¬
+               <lb facs="#facs_15_r2l28" n="N028"/>„даваемые имъ приказы суть ничто иное, какъ отъ са¬
+               <lb facs="#facs_15_r2l29" n="N029"/>„мой ЕЯ ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА изустно данныя
+               <lb facs="#facs_15_r2l30" n="N030"/>„повелѣнїя.
+               <lb facs="#facs_15_line_1652638451780_1579" n="N031"/>2. При дежурствѣ быть господину Полковнику Кропо¬
+               <lb facs="#facs_15_r2l33" n="N032"/>тову.
+               <lb facs="#facs_15_line_1652638474355_1593" n="N033"/>3. Сигнальную пушку прислать къ ставкѣ ЕЯ ИМПЕРА¬
+               <lb facs="#facs_15_r2l36" n="N034"/>ТОРСКАГО ВЕЛИЧЕСТВА, откуда всѣ сигналы ожидать.
+               <lb facs="#facs_15_line_1652638478554_1597" n="N035"/>4. За паролемъ и приказомъ прїѣжжать къ ставкѣ ЕЯ
+               <lb facs="#facs_15_r2l39" n="N036"/>ИМПЕРТОРСКАГО ВЕЛИЧЕСТВА каждый день по утру
+               <lb facs="#facs_15_r2l40" n="N037"/>въ 10 часовъ.
+               <lb facs="#facs_15_r2l41" n="N038"/>По полудни въ 5 часу соизволила ЕЯ ИМПЕРАТОРСКОЕ
+               <lb facs="#facs_15_r2l42" n="N039"/>ВЕЛИЧЕСТВО въ мундирѣ полку Конной Гвардїи, и въ про¬
+               <lb facs="#facs_15_r2l43" n="N040"/>вожанїи Своей свиты и деташамента Конной Гвардїи,
+               <lb facs="#facs_15_r2l44" n="N041"/>отправиться верьхомъ въ лагерь, гдѣ всѣ полки предъ
+               <lb facs="#facs_15_r2l45" n="N042"/>своими
+            </ab><pb facs="#facs_16" n="16" xml:id="img_0016"/><ab facs="#facs_16_r1" type="">
+               <lb facs="#facs_16_r1l2" n="N001"/>13
+               <lb facs="#facs_16_r1l3" n="N002"/>своими палатками въ двѣ линїи, имѣя полевую артил¬
+               <lb facs="#facs_16_r1l4" n="N003"/>лерїю во второй, дожидались въ парадѣ прибытїя ЕЯ
+               <lb facs="#facs_16_r1l5" n="N004"/>ВЕЛИЧЕСТВА.
+               <lb facs="#facs_16_r1l6" n="N005"/>Сколь скоро ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО къ пра¬
+               <lb facs="#facs_16_r1l7" n="N006"/>вому крылу перьвой линїи приближиться изволила, то
+               <lb facs="#facs_16_r1l8" n="N007"/>Его Сіятельство Генералъ-Фельдмаршалъ и Кавалеръ,
+               <lb facs="#facs_16_r1l9" n="N008"/>Графъ Александръ Борисовичь Бутурлинъ, встрѣтилъ ЕЯ
+               <lb facs="#facs_16_r1l10" n="N009"/>ВЕЛИЧЕСТВО, и отдавъ честь шпагою, ѣхалъ предъ ЕЯ
+               <lb facs="#facs_16_r1l11" n="N010"/>ВЕЛИЧЕСТВОМъ, какъ далеко простиралась его дивизїя.
+               <lb facs="#facs_16_r1l12" n="N011"/>Полки, мимо которыхъ проходила ЕЯ ВЕЛИЧЕСТВО, от¬
+               <lb facs="#facs_16_r1l13" n="N012"/>давали честь со всею церемонїею, начиная отъ полку
+               <lb facs="#facs_16_r1l14" n="N013"/>Его Императорскаго Высочества, которымъ командовалъ
+               <lb facs="#facs_16_r1l15" n="N014"/>Самъ Его Высочество въ полномъ Полковничьемъ убо¬
+               <lb facs="#facs_16_r1l16" n="N015"/>рѣ и въ кирасѣ, и провождалъ ЕЯ ИМПЕРАТОРСКОЕ
+               <lb facs="#facs_16_r1l17" n="N016"/>ВЕЛИЧЕСТВО не токмо чрезъ весь свой полкъ, но и чрезъ весь
+               <lb facs="#facs_16_r1l18" n="N017"/>лагерь, а по обѣимъ линїямъ протчихъ дивизей и бригадъ
+               <lb facs="#facs_16_r1l19" n="N018"/>командующїе Генералы встрѣчали такимъ же образомъ, и
+               <lb facs="#facs_16_r1l20" n="N019"/>ѣхалъ каждой напереди чрезъ все разстоянїе своей команды.
+               <lb facs="#facs_16_r1l21" n="N020"/>Когда ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО такимъ обра¬
+               <lb facs="#facs_16_r1l22" n="N021"/>зомъ мимо обѣихъ линей и стоящаго у главной квартиры
+               <lb facs="#facs_16_r1l23" n="N022"/>для прикрытїя Лейбгвардїи Коннаго полку проѣхать
+               <lb facs="#facs_16_r1l24" n="N023"/>изволила, употребя на то времяни гораздо болѣе двухъ
+               <lb facs="#facs_16_r1l25" n="N024"/>часовъ, не столько по великости разстоянїя, какъ пото¬
+               <lb facs="#facs_16_r1l26" n="N025"/>му, что ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО живо изобра¬
+               <lb facs="#facs_16_r1l27" n="N026"/>женную на лицахъ всего войска радость и усердїе, всегда
+               <lb facs="#facs_16_r1l28" n="N027"/>восхищающимъ взоромъ и примѣчанїемъ удостоивала; та
+               <lb facs="#facs_16_r1l29" n="N028"/>возвратясь на правое паки крыло нѣсколько остановилась,
+               <lb facs="#facs_16_r1l30" n="N029"/>а тѣмъ временемъ произведенъ отъ Армїи бѣглой огонь и
+               <lb facs="#facs_16_r1l31" n="N030"/>отъ Артиллерїи пушечная стрѣльба. Послѣ сего ЕЯ ИМПЕ¬
+               <lb facs="#facs_16_r1l32" n="N031"/>РАТОРСКОЕ ВЕЛИЧЕСТВО въ поставленные для главной
+               <lb facs="#facs_16_r1l33" n="N032"/>квартиры на подошвѣ Дудуровской горы ставки отъ
+               <lb facs="#facs_16_r1l34" n="N033"/>ѣхать и тамо остаться изволила, повелѣвая во всѣ пол¬
+               <lb facs="#facs_16_r1l35" n="N034"/>ки объявить, что ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО все¬
+               <lb facs="#facs_16_r1l36" n="N035"/>милостивѣйше удостоиваетъ высочайшаго Своего благо¬
+               <lb facs="#facs_16_r1l37" n="N036"/>воленїя всѣхъ въ парадѣ того дня бывшихъ, какъ господъ
+               <lb facs="#facs_16_r1l38" n="N037"/>Генераловъ, такъ Штабъ—и Оберѣ-Офицеровъ, и всѣ чины
+               <lb facs="#facs_16_r1l39" n="N038"/>и войско, будучи довольна ихъ исправнымъ состоянїемъ.
+               <lb facs="#facs_16_r1l40" n="N039"/>20 Іюня по утру ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО
+               <lb facs="#facs_16_r1l41" n="N040"/>изволила упражняться, какъ обыкновенно, въ отправленїи
+               <lb facs="#facs_16_r1l42" n="N041"/>государственныхъ дѣлъ до 11 часовъ, а потомъ въ боль¬
+               <lb facs="#facs_16_line_1669812865931_91" n="N042"/>б 3 шой
+            </ab><pb facs="#facs_17" n="17" xml:id="img_0017"/><ab facs="#facs_17_r1" type="">
+               <lb facs="#facs_17_r1l2" n="N001"/>14
+               <lb facs="#facs_17_r1l3" n="N002"/>шой передней ставкѣ собравшихся въ великомъ числѣ отъ
+               <lb facs="#facs_17_r1l4" n="N003"/>Армїи Генераловъ и Штабъ-Офицеровъ жаловать къ рукѣ,
+               <lb facs="#facs_17_r1l5" n="N004"/>повторяя Монаршее Свое удовольствїе о исправномъ пол¬
+               <lb facs="#facs_17_r1l6" n="N005"/>ковъ состоянїи. А между тѣмъ какъ выше изображен¬
+               <lb facs="#facs_17_r1l7" n="N006"/>нымъ образомъ при семъ учрежденїи лагеря намѣренїе въ
+               <lb facs="#facs_17_r1l8" n="N007"/>томъ состояло, чтобъ всѣми по состоянїю время и положе¬
+               <lb facs="#facs_17_r1l9" n="N008"/>нїю мѣста возможными военными движенїями или манев¬
+               <lb facs="#facs_17_r1l10" n="N009"/>рами показать всѣмъ и каждому свое искусство, способ¬
+               <lb facs="#facs_17_r1l11" n="N010"/>ность и усердїе, то при паролѣ приказъ отданъ. 1) Чтобъ
+               <lb facs="#facs_17_r1l12" n="N011"/>Его Превосходительство Генералъ и Кавалеръ Петръ Ива¬
+               <lb facs="#facs_17_r1l13" n="N012"/>новичь Панинъ съ своею дивизїею былъ въ готовости къ
+               <lb facs="#facs_17_r1l14" n="N013"/>походу. 2) Господину Бригадиру Ивану Михайловичу
+               <lb facs="#facs_17_r1l15" n="N014"/>Измайлову съ порученнымъ въ команду его легкимъ кор¬
+               <lb facs="#facs_17_r1l16" n="N015"/>пусомъ состоящимъ изъ баталїона Суздальскаго пѣхот¬
+               <lb facs="#facs_17_r1l17" n="N016"/>наго полку, изъ двухъ гранодерскихъ ротъ тогожъ полку,
+               <lb facs="#facs_17_line_1669813602470_136" n="N017"/>Санктпетербургскаго Карабинернаго полку, четырехъ
+               <lb facs="#facs_17_r1l21" n="N018"/>эскадроновъ Гусаръ и команды Козаковъ, не токмо въ та¬
+               <lb facs="#facs_17_r1l22" n="N019"/>кой же къ походу готовности быть, но сколь скоро кор¬
+               <lb facs="#facs_17_r1l23" n="N020"/>пусъ Генерала Панина въ походъ выступитъ, то въ
+               <lb facs="#facs_17_r1l24" n="N021"/>тожъ время и ему движенїе здѣлавъ, такимъ образомъ
+               <lb facs="#facs_17_r1l25" n="N022"/>стать между мызы Головиной и деревни Тоицкой,
+               <lb facs="#facs_17_r1l26" n="N023"/>чтобъ отъ рѣки Вереви и лѣвой флангъ и фронтъ Армеи
+               <lb facs="#facs_17_r1l27" n="N024"/>легкими войсками прикрывать.
+               <lb facs="#facs_17_r1l28" n="N025"/>По полудни въ 5 часу ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕ¬
+               <lb facs="#facs_17_r1l29" n="N026"/>СТВО, въ препровожденїи Его Императорскаго Высочества,
+               <lb facs="#facs_17_r1l30" n="N027"/>всей свиты и деташамента Конной Гвардїи, и имѣя на
+               <lb facs="#facs_17_r1l31" n="N028"/>Себѣ армейской мундиръ, соизволила отправиться верь¬
+               <lb facs="#facs_17_line_1669813839648_159" n="N029"/>хомъ къ корпусу Генерала Панина, и прибывъ къ пра¬
+               <lb facs="#facs_17_r1l34" n="N030"/>вому флангу онаго встрѣчена была обыкновеннымъ обра¬
+               <lb facs="#facs_17_r1l35" n="N031"/>зомъ со всѣми церемонїями; послѣ чего тотчасъ Его
+               <lb facs="#facs_17_r1l36" n="N032"/>Превосходительству повелѣть соизволила, чтобъ онъ
+               <lb facs="#facs_17_r1l37" n="N033"/>снявъ свой лагерь шелъ для занятїя новаго при рѣкѣ Пу¬
+               <lb facs="#facs_17_r1l38" n="N034"/>дости близъ деревни Пурско, а маршъ свой учредилъ бы
+               <lb facs="#facs_17_r1l39" n="N035"/>такимъ образомъ, какъ бы отъ непрїятеля ни какой види¬
+               <lb facs="#facs_17_r1l40" n="N036"/>мой опасности не было.
+               <lb facs="#facs_17_r1l41" n="N037"/>Сїе повелѣнїе тотчасъ исполняться начало съ такимъ
+               <lb facs="#facs_17_r1l42" n="N038"/>порядкомъ и скоростїю, кои заслужили высочайшую ЕЯ
+               <lb facs="#facs_17_r1l43" n="N039"/>ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА апробацїю и общее отъ
+               <lb facs="#facs_17_r1l44" n="N040"/>всѣхъ зрителей удивленїе. Едва по командѣ Его Пре¬
+               <lb facs="#facs_17_line_1669814001351_174" n="N041"/>восходительства Генерала барабаномъ сигналъ данъ, то
+               <lb facs="#facs_17_r1l47" n="N042"/>всѣ
+            </ab><pb facs="#facs_18" n="18" xml:id="img_0018"/><ab facs="#facs_18_r1" type="">
+               <lb facs="#facs_18_r1l2" n="N001"/>15
+               <lb facs="#facs_18_r1l3" n="N002"/>всѣ палатки не токмо такъ сказать во мгновенїи ока
+               <lb facs="#facs_18_r1l4" n="N003"/>повалились, но чрезъ 5 минутъ ужѐ на возахъ всѣ укла¬
+               <lb facs="#facs_18_r1l5" n="N004"/>дены были, а авангардъ и выступать началъ, такъ что
+               <lb facs="#facs_18_r1l6" n="N005"/>и паки чрезъ нѣсколько минутъ двѣ колонны формиро¬
+               <lb facs="#facs_18_r1l7" n="N006"/>вались, и дефилировать начали. ЕЯ ИМПЕРАТОРСКОЕ ВЕ¬
+               <lb facs="#facs_18_r1l8" n="N007"/>ЛИЧЕСТВО и Его Императорское Высочество будучи
+               <lb facs="#facs_18_r1l9" n="N008"/>всегда на конѣ многократно отъ одной колонны къ дру¬
+               <lb facs="#facs_18_r1l10" n="N009"/>гой переѣжжали, смотря со многимъ удовольствїемъ,
+               <lb facs="#facs_18_r1l11" n="N010"/>что не взирая на весьма неровныя, каменистыя и по¬
+               <lb facs="#facs_18_r1l12" n="N011"/>большой части кустарникомъ поростшїя мѣста̀, колонны
+               <lb facs="#facs_18_r1l13" n="N012"/>маршировали не токмо съ крайнимъ порядкомъ и нигдѣ
+               <lb facs="#facs_18_r1l14" n="N013"/>не перерывались, но солдатство притомъ еще превеликую
+               <lb facs="#facs_18_r1l15" n="N014"/>радость и неутомленную бодрость непрестанно оказывало.
+               <lb facs="#facs_18_r1l16" n="N015"/>Наконецъ ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО изволила
+               <lb facs="#facs_18_line_1669931291523_41" n="N016"/>отправиться впередъ на то мѣсто, гдѣ сему корпусу
+               <lb facs="#facs_18_line_1669931356701_46" n="N017"/>лагерь назначенъ и тутъ прибытїя онаго ожидала. И
+               <lb facs="#facs_18_r1l22" n="N018"/>хотя маршу было 9 верстъ, и какъ выше сказано по
+               <lb facs="#facs_18_r1l23" n="N019"/>весьма неровнымъ и кустарникомъ поростшимъ мѣстамъ,
+               <lb facs="#facs_18_r1l24" n="N020"/>однакожъ корпусъ не замедлилъ, такъ что въ девять ча¬
+               <lb facs="#facs_18_r1l25" n="N021"/>совъ весъ на свое мѣсто прибылъ, и въ двѣ линїи по¬
+               <lb facs="#facs_18_r1l26" n="N022"/>строился.
+               <lb facs="#facs_18_r1l27" n="N023"/>Тогда ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО указала,
+               <lb facs="#facs_18_r1l28" n="N024"/>чтобъ оной палатки свои разбилъ. Сїе повелѣнїе испол¬
+               <lb facs="#facs_18_r1l29" n="N025"/>нено съ такоюжъ, какъ выше писано, скоростїю и поряд¬
+               <lb facs="#facs_18_r1l30" n="N026"/>комъ, и съ такоюжъ апробацїею и удивленїемъ.
+               <lb facs="#facs_18_r1l31" n="N027"/>По окончанїи сего удостоила ЕЯ ИМПЕРАТОРСКОЕ
+               <lb facs="#facs_18_line_1669931671838_116" n="N028"/>ВЕЛИЧЕСТВО, съ Его Императорскимъ Высочествомъ и
+               <lb facs="#facs_18_r1l34" n="N029"/>всею свитою посѣтить главную квартиру Его Прево¬
+               <lb facs="#facs_18_r1l35" n="N030"/>сходительства командующаго Генерала, и тамо остаться
+               <lb facs="#facs_18_r1l36" n="N031"/>при вечернемъ кушаньѣ. А между тѣмъ повелѣла ему,
+               <lb facs="#facs_18_r1l37" n="N032"/>чтобъ онъ свой корпусъ почиталъ какъ насупротивной,
+               <lb facs="#facs_18_r1l38" n="N033"/>въ разсужденїи оставшагося, и дѣлалъ противу онаго
+               <lb facs="#facs_18_r1l39" n="N034"/>всѣ тѣ поиски, какїе онъ по его искусству найдетъ
+               <lb facs="#facs_18_r1l40" n="N035"/>удобными къ достиженїю выше изображенныхъ намѣренїй;
+               <lb facs="#facs_18_r1l41" n="N036"/>по чему и паки приказано, что сколь скоро ЕЯ ИМПЕ¬
+               <lb facs="#facs_18_r1l42" n="N037"/>РАТОРСКОЕ ВЕЛИЧЕСТВО въ свой лагерь возвратиться
+               <lb facs="#facs_18_r1l43" n="N038"/>изволитъ, то тотчасъ въ обоихъ корпусахъ и въ отдѣ¬
+               <lb facs="#facs_18_r1l44" n="N039"/>ленномъ Бригадира Измайлова, всѣ тѣ предосторожности
+               <lb facs="#facs_18_r1l45" n="N040"/>приняты быть имѣютъ, кои обыкновенно въ близости
+               <lb facs="#facs_18_r1l46" n="N041"/>отъ дѣйствительнаго непрїятеля прїемлются; что въ
+               <lb facs="#facs_18_line_1669931889100_159" n="N042"/>назначенное время исполнено. Чтожъ
+            </ab><pb facs="#facs_19" n="19" xml:id="img_0019"/><ab facs="#facs_19_r1" type="">
+               <lb facs="#facs_19_r1l1" n="N001"/>16
+               <lb facs="#facs_19_r1l3" n="N002"/>Чтожъ до помянутаго корпуса Бригадира Измайлова
+               <lb facs="#facs_19_r1l4" n="N003"/>принадлежитъ, то и оной къ общей апробацїи поспѣ¬
+               <lb facs="#facs_19_r1l5" n="N004"/>шно исполнилъ данное ему повелѣнїе.
+               <lb facs="#facs_19_r1l6" n="N005"/>21 Iюня поутру ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО,
+               <lb facs="#facs_19_r1l7" n="N006"/>обыкновеннымъ образомъ изволила упражняться въ отпра¬
+               <lb facs="#facs_19_r1l8" n="N007"/>вленіи государственныхъ дѣлъ до одиннатцати часовъ;
+               <lb facs="#facs_19_r1l9" n="N008"/>потомъ отъ командующихъ корпусами принимать рапор¬
+               <lb facs="#facs_19_r1l10" n="N009"/>ты и всѣхъ жаловать къ рукѣ, и между тѣмъ при паролѣ
+               <lb facs="#facs_19_line_1670088968668_34" n="N010"/>кому надлежало приказъ отданъ, что тогожъ дня по
+               <lb facs="#facs_19_r1l13" n="N011"/>полудни въ пятомъ часу соизволитъ ЕЯ ИМПЕРАТОРСКОЕ
+               <lb facs="#facs_19_r1l14" n="N012"/>ВЕЛИЧЕСТВО предпрїять рекогносцированїе лагеря насу¬
+               <lb facs="#facs_19_r1l15" n="N013"/>противнымъ почитаемаго.
+               <lb facs="#facs_19_r1l16" n="N014"/>Въ слѣдствїе того по полудни въ пять часовъ ЕЯ
+               <lb facs="#facs_19_line_1670089085596_56" n="N015"/>ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО, въ препровожденїи Его
+               <lb facs="#facs_19_r1l19" n="N016"/>Императорскаго Высочества, Своей свиты, великаго чи¬
+               <lb facs="#facs_19_r1l20" n="N017"/>сла здѣшнихъ и иностранныхъ Волонтеровъ, и дета¬
+               <lb facs="#facs_19_r1l21" n="N018"/>шамента Кавалергардскаго корпуса, на конѣ и въ мун¬
+               <lb facs="#facs_19_r1l22" n="N019"/>дирѣ пѣхотной Гвардїи изволила подняться изъ лаге¬
+               <lb facs="#facs_19_r1l23" n="N020"/>ря для помянутаго рекогносцированїя.
+               <lb facs="#facs_19_r1l24" n="N021"/>Подобныхъ движенїй и слѣдующихъ за тѣмъ сраже¬
+               <lb facs="#facs_19_r1l25" n="N022"/>нїй подробное описанїе крайнѣ трудно. Въ военномъ дѣ¬
+               <lb facs="#facs_19_r1l26" n="N023"/>лѣ искусные люди подъ словомъ рекогносцированїя не¬
+               <lb facs="#facs_19_r1l27" n="N024"/>прїятельскаго лагеря довольно уже разумѣютъ, что при
+               <lb facs="#facs_19_r1l28" n="N025"/>такихъ случаяхъ наблюдаемо быть имѣетъ, и что слу¬
+               <lb facs="#facs_19_r1l29" n="N026"/>читься можетъ. Но понеже ЕЯ ИМПЕРАТОРСКОЕЕ ВЕЛИ¬
+               <lb facs="#facs_19_r1l30" n="N027"/>ЧЕСТВО толикой на себя трудъ принимать изволитъ, не
+               <lb facs="#facs_19_r1l31" n="N028"/>для любопытнаго токмо зрѣнїя, но въ такомъ полезномъ
+               <lb facs="#facs_19_r1l32" n="N029"/>для государства намѣренїи, какъ выше сказано, чтобъ
+               <lb facs="#facs_19_r1l33" n="N030"/>однимъ драгоцѣнно прїобрѣтенное искусство оказы¬
+               <lb facs="#facs_19_r1l34" n="N031"/>вать, а другимъ оное вновь прїобрѣтать, и такъ искус¬
+               <lb facs="#facs_19_r1l35" n="N032"/>ство къ искусству прилагая сею единою готовностїю и
+               <lb facs="#facs_19_r1l36" n="N033"/>исправностїю столькожъ служить знатности и безопас¬
+               <lb facs="#facs_19_r1l37" n="N034"/>ности Отечества, сколько прїобрѣтено славы Россїйскому
+               <lb facs="#facs_19_r1l38" n="N035"/>мужеству дѣйствительнымъ пролитїемъ крови; то и
+               <lb facs="#facs_19_r1l39" n="N036"/>кажется должностїю, всѣ собранныхъ въ лагерь корпу¬
+               <lb facs="#facs_19_r1l40" n="N037"/>совъ движенїя, сколько можно обстоятельнѣе описывать,
+               <lb facs="#facs_19_r1l41" n="N038"/>и существительныя каждаго движенїя намѣренїя озна¬
+               <lb facs="#facs_19_r1l42" n="N039"/>чивать, дабы и тѣ, кои сего лагеря не видали, или и
+               <lb facs="#facs_19_r1l43" n="N040"/>бывъ въ самыхъ движенїяхъ и дѣйствїяхъ но каждой не
+               <lb facs="#facs_19_r1l44" n="N041"/>отлучно при своемъ мѣстѣ, всего видѣть и обо всемъ
+               <lb facs="#facs_19_r1l45" n="N042"/>собою
+            </ab><pb facs="#facs_20" n="20" xml:id="img_0020"/><ab facs="#facs_20_r1" type="">
+               <lb facs="#facs_20_r1l2" n="N001"/>17
+               <lb facs="#facs_20_r1l3" n="N002"/>собою соображенїе здѣлать не могли, награждали то по¬
+               <lb facs="#facs_20_r1l4" n="N003"/>средствомъ слѣдующихъ описанїй.
+               <lb facs="#facs_20_r1l5" n="N004"/>Главное намѣренїе сего рекогносированїя состояло въ
+               <lb facs="#facs_20_line_1670089485300_102" n="N005"/>томъ, чтобъ токмо видѣть, какимъ образомъ такъ
+               <lb facs="#facs_20_line_1670089512612_108" n="N006"/>названной насупротивной корпусъ расположилъ свой ла¬
+               <lb facs="#facs_20_r1l10" n="N007"/>герь, и какїя принялъ предосторожности; ибо что до
+               <lb facs="#facs_20_r1l11" n="N008"/>положенїя мѣста принадлежитъ, то оное уже извѣстно
+               <lb facs="#facs_20_r1l12" n="N009"/>было.
+               <lb facs="#facs_20_r1l13" n="N010"/>Сего ради ЕЯ ИМПЕРАТОСКОЕ ВЕЛИЧЕСТВО, выступая
+               <lb facs="#facs_20_r1l14" n="N011"/>изъ лагеря, указала полку Конной Гвардїи, прикрывать
+               <lb facs="#facs_20_r1l15" n="N012"/>походъ Ея съ правой стороны до находящейся по дорогѣ
+               <lb facs="#facs_20_r1l16" n="N013"/>въ 4 верстахъ деревни Техвиной, а двумъ стамъ чело¬
+               <lb facs="#facs_20_r1l17" n="N014"/>вѣкамъ гусаръ и командѣ Козаковъ составляя авангардѣ
+               <lb facs="#facs_20_r1l18" n="N015"/>слѣдовать впереди въ полуверстѣ, Бригадиру же Измайлову
+               <lb facs="#facs_20_r1l19" n="N016"/>съ его отдѣленнымъ легкимъ корпусомъ приказано было
+               <lb facs="#facs_20_r1l20" n="N017"/>прибытїя ЕЯ ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА въ упомяну¬
+               <lb facs="#facs_20_r1l21" n="N018"/>той деревнѣ Техвиной ожидать, не высылая однакожъ
+               <lb facs="#facs_20_line_1670089662636_125" n="N019"/>никакихъ впередъ патрулинговъ, дабы форпосты на¬
+               <lb facs="#facs_20_r1l24" n="N020"/>супротивнаго корпуса прежде времяни не встревожить; а
+               <lb facs="#facs_20_r1l25" n="N021"/>только въ стороны небольшїя разъѣзды дѣлать, и все раз¬
+               <lb facs="#facs_20_r1l26" n="N022"/>стоянїе отъ насупротивныхъ разъѣздовъ очищать.
+               <lb facs="#facs_20_r1l27" n="N023"/>Господинъ Бригадиръ Измайловъ исполнилъ сїе прика¬
+               <lb facs="#facs_20_r1l28" n="N024"/>занїе со всею скоростїю и точностїю. ЕЯ ИМПЕРАТОР¬
+               <lb facs="#facs_20_r1l29" n="N025"/>СКОЕ ВЕЛИЧЕСТВО, нашедъ сей корпусъ достаточнымъ ко
+               <lb facs="#facs_20_r1l30" n="N026"/>исполненїю принятаго намѣренїя, повелѣла полку Конной
+               <lb facs="#facs_20_r1l31" n="N027"/>Гвардїи при деревнѣ Техвиной остаться, дабы обратной
+               <lb facs="#facs_20_r1l32" n="N028"/>путь въ безопасности содержать, а сама съ помянутымъ
+               <lb facs="#facs_20_r1l33" n="N029"/>легкимъ корпусомъ немедлѣнно къ правому насупротив¬
+               <lb facs="#facs_20_r1l34" n="N030"/>наго корпуса крылу поспѣшать изволила.
+               <lb facs="#facs_20_r1l35" n="N031"/>При перьвомъ наступленїи нашихъ Козаковъ и Гусаръ
+               <lb facs="#facs_20_r1l36" n="N032"/>скоро понуждены были насупротивные ведеты, соеди¬
+               <lb facs="#facs_20_r1l37" n="N033"/>нясь съ своими пикетами отступать ближе къ своему
+               <lb facs="#facs_20_r1l38" n="N034"/>лагерю, непрестанно перестрѣливаясь. И хотя оные
+               <lb facs="#facs_20_r1l39" n="N035"/>при отступленїи своемъ подкрѣплены были самимъ
+               <lb facs="#facs_20_r1l40" n="N036"/>командующимъ Генераломъ Его Превосходительствомъ
+               <lb facs="#facs_20_r1l41" n="N037"/>Петромъ Ивановичемъ Панинымъ, но и онъ за потребно
+               <lb facs="#facs_20_r1l42" n="N038"/>разсудилъ, соединить ихъ съ главными своими пикета¬
+               <lb facs="#facs_20_r1l43" n="N039"/>ми, поставленною на вышинахъ артиллерїею снабдѣн¬
+               <lb facs="#facs_20_r1l44" n="N040"/>ными.
+               <lb facs="#facs_20_r1l45" n="N041"/>Между
+            </ab><pb facs="#facs_21" n="21" xml:id="img_0021"/><ab facs="#facs_21_r1" type="">
+               <lb facs="#facs_21_r1l2" n="N001"/>18
+               <lb facs="#facs_21_r1l3" n="N002"/>Между тѣмъ какъ наши Гусары и Козаки непрестан¬
+               <lb facs="#facs_21_r1l4" n="N003"/>но нападенїя чинили, команда Суздальскаго пѣхотнаго
+               <lb facs="#facs_21_r1l5" n="N004"/>полку, подъ предводительствомъ господина Полковника
+               <lb facs="#facs_21_r1l6" n="N005"/>Суворова, раздѣлясь на части ведущїя къ насупроти¬
+               <lb facs="#facs_21_r1l7" n="N006"/>вному лагерю вышины одну за другою съ артиллерїею
+               <lb facs="#facs_21_r1l8" n="N007"/>занимала, очищая ЕЯ ИМПЕРАТОРСКОМУ ВЕЛИЧЕСТВУ
+               <lb facs="#facs_21_r1l9" n="N008"/>путь, ближе насупротивнаго лагеря положенїе видѣть,
+               <lb facs="#facs_21_r1l10" n="N009"/>а кавалерїя раздѣляясь по обѣимъ сторонамъ сихъ высотъ
+               <lb facs="#facs_21_line_1670090334308_170" n="N010"/>всегда такъ строилась, что была для легкихъ войскъ
+               <lb facs="#facs_21_r1l13" n="N011"/>ближнимъ и сильнымъ подкрѣпленїемъ, а пѣхотѣ флан¬
+               <lb facs="#facs_21_r1l14" n="N012"/>ги составляла.
+               <lb facs="#facs_21_line_1670090388836_186" n="N013"/>Должно здѣсь отдатъ справедливость. 1) что при
+               <lb facs="#facs_21_r1l18" n="N014"/>сей атакѣ, высочайшїя ЕЯ ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА
+               <lb facs="#facs_21_r1l19" n="N015"/>повелѣнїя, такимъ образомъ приводилъ Его Сїятельство
+               <lb facs="#facs_21_r1l20" n="N016"/>Генералъ—Адъютантъ во исполненїе, что не пропущено
+               <lb facs="#facs_21_r1l21" n="N017"/>ни одного насупротивнаго движенїя, которое бы тот¬
+               <lb facs="#facs_21_r1l22" n="N018"/>часъ и въ прямомъ его видѣ не примѣчено, и противу ко¬
+               <lb facs="#facs_21_r1l23" n="N019"/>тораго не остановляя нимало толь порядочно начатой
+               <lb facs="#facs_21_r1l24" n="N020"/>атаки, достаточныхъ мѣръ не принято быловъ, такъ
+               <lb facs="#facs_21_r1l25" n="N021"/>что наконецъ усмотря сильнѣйшее супротивленїе, учи¬
+               <lb facs="#facs_21_r1l26" n="N022"/>нена была насупротивному корпусу диверсїя и на лѣвомъ
+               <lb facs="#facs_21_r1l27" n="N023"/>его лагеря флангѣ. При благоразумномъ распоряженїи и
+               <lb facs="#facs_21_r1l28" n="N024"/>малой корпусъ казался ко всему достаточнымъ. И 2)
+               <lb facs="#facs_21_r1l29" n="N025"/>что легкїя наши войска сколь порядочно наступали,
+               <lb facs="#facs_21_r1l30" n="N026"/>такъ всегда сколь скоро пѣхота за ними какую вышину
+               <lb facs="#facs_21_r1l31" n="N027"/>съ артиллерїею занимала, тотчасъ по перьвому приказа¬
+               <lb facs="#facs_21_r1l32" n="N028"/>нїю на правъ и на лѣво раздѣлялись, и построенному
+               <lb facs="#facs_21_r1l33" n="N029"/>фронту свободу оставляли, какъ изъ мѣлкаго ружья, такъ
+               <lb facs="#facs_21_r1l34" n="N030"/>и изъ артиллерїи дѣйствовать.
+               <lb facs="#facs_21_r1l35" n="N031"/>Не меньше надлежитъ справедливость отдать и учи¬
+               <lb facs="#facs_21_r1l36" n="N032"/>неннымъ съ стороны Его Превосходительства Генерала
+               <lb facs="#facs_21_r1l37" n="N033"/>и Кавалера Петра Ивановича Панина распоряженїямъ. При
+               <lb facs="#facs_21_r1l38" n="N034"/>семъ рекогносированїи и произшедшемъ отъ того сра¬
+               <lb facs="#facs_21_r1l39" n="N035"/>женїи примѣчено:
+               <lb facs="#facs_21_r1l40" n="N036"/>1. Что онъ стараясь показать себя сильнѣйшимъ, неже¬
+               <lb facs="#facs_21_r1l41" n="N037"/>ли въ самомъ дѣлѣ былъ, занялъ лагеремъ своимъ и
+               <lb facs="#facs_21_line_1670090659211_221" n="N038"/>форпостами большее пространство мѣста, нежели
+               <lb facs="#facs_21_r1l44" n="N039"/>учинилъ бы въ другомъ случаѣ; однакожъ такимъ
+               <lb facs="#facs_21_r1l45" n="N040"/>образомъ, что безъ ослабленїя своего все то простран¬
+               <lb facs="#facs_21_line_1670090690772_228" n="N041"/>ство обнять могъ. 2.
+            </ab><pb facs="#facs_22" n="22" xml:id="img_0022"/><ab facs="#facs_22_r2" type="">
+               <lb facs="#facs_22_r2l2" n="N001"/>19
+               <lb facs="#facs_22_r2l3" n="N002"/>2. Что онъ весьма искусно пользовался къ укрѣпленїю
+               <lb facs="#facs_22_r2l4" n="N003"/>своего лагеря случившимися около его высотами, и
+               <lb facs="#facs_22_r2l5" n="N004"/>такъ снабдилъ ихъ пѣхотою и артиллерїею, что хо¬
+               <lb facs="#facs_22_r2l6" n="N005"/>тя лагерь его и можно было видѣть, но формально
+               <lb facs="#facs_22_r2l7" n="N006"/>оной атаковать отнюдъ инако не льзя было, какъ ста¬
+               <lb facs="#facs_22_r2l8" n="N007"/>раясь овладѣть сими весьма важными и укрѣпленными
+               <lb facs="#facs_22_r2l9" n="N008"/>высотами.
+               <lb facs="#facs_22_r2l10" n="N009"/>3. Что по мѣрѣ нашего наступленїя и усиливанїя, онъ
+               <lb facs="#facs_22_r2l11" n="N010"/>не токмо поспѣшное повсюду поставлялъ супротивле¬
+               <lb facs="#facs_22_line_1670090868687_266" n="N011"/>нїе, но и къ тому распоряженїя здѣлалъ, чтобъ
+               <lb facs="#facs_22_r2l14" n="N012"/>оборонительное сперьва съ его стороны дѣйство претво¬
+               <lb facs="#facs_22_line_1670090900676_272" n="N013"/>рить въ наступательное, потому что онъ находясь
+               <lb facs="#facs_22_r2l17" n="N014"/>въ своемъ лагерѣ имѣлъ великое превосходство силы, и
+               <lb facs="#facs_22_r2l18" n="N015"/>для того не токмо великую часть своей кавалерїи, но и
+               <lb facs="#facs_22_r2l19" n="N016"/>пѣхоты выводить началъ.
+               <lb facs="#facs_22_r2l20" n="N017"/>Но какъ выше изображенное намѣренїе, а имянно ви¬
+               <lb facs="#facs_22_r2l21" n="N018"/>дѣть прямое расположенїе насупротивнаго лагеря, уже
+               <lb facs="#facs_22_r2l22" n="N019"/>совершенно достигнуто было, а чтобъ принудить ко¬
+               <lb facs="#facs_22_r2l23" n="N020"/>торую либо сторону къ скоропостижному отступленїю
+               <lb facs="#facs_22_r2l24" n="N021"/>или и совершенному разсѣянїю, о томъ и думано быть
+               <lb facs="#facs_22_r2l25" n="N022"/>не могло, въ такомъ справедливомъ рузсужденїи, что
+               <lb facs="#facs_22_r2l26" n="N023"/>здѣсь ищется искусство, а не испытанїе храбрости и
+               <lb facs="#facs_22_r2l27" n="N024"/>мужества, послѣдняя война на самомъ дѣлѣ лучше до¬
+               <lb facs="#facs_22_r2l28" n="N025"/>казала, что есть ли и претерпѣвала иногда армѣя наша
+               <lb facs="#facs_22_r2l29" n="N026"/>знатной уронъ, однакожъ ни превосходствомъ иногда
+               <lb facs="#facs_22_line_1670091034611_290" n="N027"/>непрїятельской силы, ни выгоднымъ для него, а без¬
+               <lb facs="#facs_22_line_1670091061939_297" n="N028"/>полезнымъ для насъ положенїемъ никогда побѣждена,
+               <lb facs="#facs_22_line_1670091087195_302" n="N029"/>и къ отступленїю понуждена быть не могла: То ЕЯ
+               <lb facs="#facs_22_line_1670091138580_310" n="N030"/>ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО указать соизволила, чтобъ
+               <lb facs="#facs_22_r2l38" n="N031"/>легкой корпусъ отступая въ прежней свой лагерь воз¬
+               <lb facs="#facs_22_r2l39" n="N032"/>вратился, что немедлѣнно со всякимъ порядкомъ и учи¬
+               <lb facs="#facs_22_r2l40" n="N033"/>нено, и Лейбгвардїи Конной полкъ паки ЕЯ ИМПЕРАТОР¬
+               <lb facs="#facs_22_r2l41" n="N034"/>СКОЕ ВЕЛИЧЕСТВО отъ деревни Техвиной препровождалъ.
+               <lb facs="#facs_22_r2l42" n="N035"/>А между тѣмъ Гусары, Егеры и Козаки еще около часа
+               <lb facs="#facs_22_r2l43" n="N036"/>перестрѣливаться продолжали.
+               <lb facs="#facs_22_r2l44" n="N037"/>Новоучрежденные Егеры, при семъ самомъ первомъ для
+               <lb facs="#facs_22_r2l45" n="N038"/>нихъ случаѣ, съ обѣихъ сторонъ столько оказали про¬
+               <lb facs="#facs_22_line_1670091263779_329" n="N039"/>ворства и способности, что заслужили пробацїю ЕЯ
+               <lb facs="#facs_22_r2l49" n="N040"/>ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА.
+               <lb facs="#facs_22_line_1670091304067_334" n="N041"/>в 2 Къ
+            </ab><pb facs="#facs_23" n="23" xml:id="img_0023"/><ab facs="#facs_23_r1" type="">
+               <lb facs="#facs_23_r1l2" n="N001"/>20
+               <lb facs="#facs_23_r1l3" n="N002"/>Къ ставкамъ Своимъ возвратилась ЕЯ ВЕЛИЧЕСТВО въ
+               <lb facs="#facs_23_r1l4" n="N003"/>десятомъ часу вечера, и легкой господина Бригадира Измай¬
+               <lb facs="#facs_23_r1l5" n="N004"/>лова корпусъ почти въ тожъ время прежнее свое мѣсто
+               <lb facs="#facs_23_r1l6" n="N005"/>занялъ и форпосты разставилъ.
+               <lb facs="#facs_23_r1l7" n="N006"/>22. Iюня былъ день отдохновенїя для обоихъ корпу¬
+               <lb facs="#facs_23_r1l8" n="N007"/>совъ армѣй, по причинѣ великаго дождя, которой всю
+               <lb facs="#facs_23_r1l9" n="N008"/>ночь и утро непрестанно продолжался. По утру соиз¬
+               <lb facs="#facs_23_r1l10" n="N009"/>волила ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВ какъ обыкно¬
+               <lb facs="#facs_23_line_1670091468484_365" n="N010"/>венно упражняться въ государственныхъ дѣлахъ, а
+               <lb facs="#facs_23_r1l13" n="N011"/>предъ кушаньемъ принимать отъ Генераловъ рапорты,
+               <lb facs="#facs_23_r1l14" n="N012"/>и всѣхъ въ главную квартиру собравшихся жаловать къ
+               <lb facs="#facs_23_r1l15" n="N013"/>рукѣ, удостоивая оказывать особливое Свое удовольствїе
+               <lb facs="#facs_23_r1l16" n="N014"/>о произходившемъ вчерашняго дня.
+               <lb facs="#facs_23_r1l17" n="N015"/>23. Iюня по утру до двенатцатаго часа упражня¬
+               <lb facs="#facs_23_r1l18" n="N016"/>лась ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО отправленїемъ
+               <lb facs="#facs_23_r1l19" n="N017"/>государственныхъ дѣлъ, а потомъ соизволила прини¬
+               <lb facs="#facs_23_r1l20" n="N018"/>мать отъ Генераловъ рапорты и жаловать къ рукѣ.
+               <lb facs="#facs_23_r1l21" n="N019"/>Между тѣмъ получены извѣстїя, что разъѣздами
+               <lb facs="#facs_23_r1l22" n="N020"/>отъ легкаго корпуса примѣчены великїя движенїя въ ла¬
+               <lb facs="#facs_23_r1l23" n="N021"/>герѣ насупротивной армѣи. И понеже часто помянутой
+               <lb facs="#facs_23_r1l24" n="N022"/>легкой корпусъ въ такомъ мѣстѣ и намѣренїи на лѣвомъ
+               <lb facs="#facs_23_r1l25" n="N023"/>здѣшней армѣи крылѣ поставленъ былъ, что естьлибъ
+               <lb facs="#facs_23_r1l26" n="N024"/>насупротивной корпусъ предпрїялъ атаковать главную
+               <lb facs="#facs_23_r1l27" n="N025"/>армѣю, то удобно можно былобъ не токмо во флагъ
+               <lb facs="#facs_23_r1l28" n="N026"/>ему нападенїе учинить, но и со всѣмъ его отъ лагеря и
+               <lb facs="#facs_23_r1l29" n="N027"/>своихъ магазейновъ отрѣзать; то и не оставалось сум¬
+               <lb facs="#facs_23_r1l30" n="N028"/>нѣнїя, что Его Превосходительство Генералъ Панинъ,
+               <lb facs="#facs_23_line_1670091685378_397" n="N029"/>слѣдуя своему искусству, намѣренїе принялъ легкой
+               <lb facs="#facs_23_r1l34" n="N030"/>корпусъ атаковать и вытѣснить изъ такого положенїя,
+               <lb facs="#facs_23_r1l35" n="N031"/>которое ему столь много заботы причиняло. Сего ради
+               <lb facs="#facs_23_r1l36" n="N032"/>тотчасъ при паролѣ приказъ отданъ:
+               <lb facs="#facs_23_line_1670091733005_404" n="N033"/>1. Есть ли будетъ нападенїе на корпусъ Бригадира Измай¬
+               <lb facs="#facs_23_r1l39" n="N034"/>лова, то для подкрѣпленїя онаго быть въ готовности
+               <lb facs="#facs_23_r1l40" n="N035"/>Конному полку Лейбгвардїи, и брегадѣ пѣхоты изъ
+               <lb facs="#facs_23_r1l41" n="N036"/>дивизїи Его Сїятельства Генерала и Кавалера, Князь
+               <lb facs="#facs_23_r1l42" n="N037"/>Александра Михайловича Голицына, съ двумя двенат¬
+               <lb facs="#facs_23_r1l43" n="N038"/>цатью фунтовыми пушками. Самомужъ Бригадиру
+               <lb facs="#facs_23_r1l44" n="N039"/>Измайлову въ случаѣ насупротивнаго приближенїя съ
+               <lb facs="#facs_23_r1l45" n="N040"/>великою силою, снявъ свой лагерь и отправя обозы
+               <lb facs="#facs_23_r1l46" n="N041"/>къ
+            </ab><pb facs="#facs_24" n="24" xml:id="img_0024"/><ab facs="#facs_24_r5" type="">
+               <lb facs="#facs_24_r5l2" n="N001"/>21
+               <lb facs="#facs_24_r5l3" n="N002"/>къ горамъ, ожидать подкрѣпленїя, рапортуя о про¬
+               <lb facs="#facs_24_r5l4" n="N003"/>изходящемъ къ Генералу Адъютанту.
+               <lb facs="#facs_24_r5l5" n="N004"/>2. Емужъ Бригадиру Измайлову отправить отъ себя 100
+               <lb facs="#facs_24_r5l6" n="N005"/>человѣкъ Гусаръ и 100 человѣкъ Козаковъ къ деревнѣ
+               <lb facs="#facs_24_r5l7" n="N006"/>Новой, находящейся въ двухъ верстахъ передъ фрун¬
+               <lb facs="#facs_24_r5l8" n="N007"/>томъ лѣваго крыла нашей армѣи, и велѣть, занявъ
+               <lb facs="#facs_24_r5l9" n="N008"/>тамо постъ, прилѣжно примѣчать за движенїями на¬
+               <lb facs="#facs_24_line_1670345054247_480" n="N009"/>супротивнаго корпуса, и обовсемъ къ Генералу Адъ¬
+               <lb facs="#facs_24_r5l12" n="N010"/>ютанту рапортовать.
+               <lb facs="#facs_24_r5l13" n="N011"/>3. Есть ли дѣйствительно корпусъ Бригадира Измайлова
+               <lb facs="#facs_24_r5l14" n="N012"/>атакованъ будетъ; то съ праваго крыла армѣи Лейб¬
+               <lb facs="#facs_24_r5l15" n="N013"/>гвардїи Измайловской и два Кирасирскїя полка должен¬
+               <lb facs="#facs_24_r5l16" n="N014"/>ствуютъ немедлѣнно до помянутой деревни Новой по¬
+               <lb facs="#facs_24_r5l17" n="N015"/>двинуться, дабы стоя тамо стараться, или весь
+               <lb facs="#facs_24_r5l18" n="N016"/>фрунтъ армѣи отъ всякаго потревоженїя прикрывать,
+               <lb facs="#facs_24_r5l19" n="N017"/>или насупротивной корпусъ отрѣзать, или же паки въ
+               <lb facs="#facs_24_r5l20" n="N018"/>случаѣ его отступленїя Гусаровъ и Козаковъ въ преслѣ¬
+               <lb facs="#facs_24_r5l21" n="N019"/>дованїе за нимъ отправить.
+               <lb facs="#facs_24_r5l22" n="N020"/>4. Въ тожъ время какъ Измайловской и два Кирасирскїе
+               <lb facs="#facs_24_line_1670345303015_510" n="N021"/>полки выступать станутъ, резервы отъ всѣхъ пол¬
+               <lb facs="#facs_24_line_1670345330571_517" n="N022"/>ковъ выступя и соединясь построятся на лѣвомъ
+               <lb facs="#facs_24_r5l28" n="N023"/>крылѣ своихъ дивизей, а Карабинерной Новгородской
+               <lb facs="#facs_24_r5l29" n="N024"/>полкъ предъ своими палатками.
+               <lb facs="#facs_24_r5l30" n="N025"/>5. По выступленїи резервовъ, гранадерскїе роты должен¬
+               <lb facs="#facs_24_r5l31" n="N026"/>ствуютъ быть въ готовности, итти на подкрѣпленїе
+               <lb facs="#facs_24_r5l32" n="N027"/>куда повелѣно будетъ, и для того какъ скоро резервы
+               <lb facs="#facs_24_r5l33" n="N028"/>тронутся, то и имъ, выступя изъ лагеря, подвинуться
+               <lb facs="#facs_24_r5l34" n="N029"/>до своихъ пикетовъ.
+               <lb facs="#facs_24_line_1670345465353_532" n="N030"/>Въ началѣ четвертаго часа по полудни Бригадиръ
+               <lb facs="#facs_24_line_1670345491102_541" n="N031"/>Измайловъ рапортовать началъ, что насупротивной
+               <lb facs="#facs_24_r5l40" n="N032"/>корпусъ въ великомъ числѣ выступилъ, и раздѣлясь на
+               <lb facs="#facs_24_r5l41" n="N033"/>три колонны, маршъ свой такимъ образомъ учреждаетъ,
+               <lb facs="#facs_24_r5l42" n="N034"/>что кажется не токмо на его корпусъ главное устремле¬
+               <lb facs="#facs_24_r5l43" n="N035"/>нїе здѣлать, но оной съ лѣваго крыла обойтить и за¬
+               <lb facs="#facs_24_r5l44" n="N036"/>хватить намѣренъ.
+               <lb facs="#facs_24_line_1670345567147_553" n="N037"/>Въ слѣдствїе того тотчасъ указала ЕЯ ИМПЕРАТОР¬
+               <lb facs="#facs_24_line_1670345604636_560" n="N038"/>СКОЕ ВЕЛИЧЕСТВО Его Сїятельству Генералу Адъю¬
+               <lb facs="#facs_24_line_1670345616978_568" n="N039"/>танту впередъ отправиться, дабы разсмотря ближе
+               <lb facs="#facs_24_r5l52" n="N040"/>насупротивнаго корпуса движенїя, слѣдовательно и намѣ¬
+               <lb facs="#facs_24_r5l53" n="N041"/>ренїя, точнѣйшїя противу того мѣры взять.
+               <lb facs="#facs_24_line_1670345670312_576" n="N042"/>в 3 Но
+            </ab><pb facs="#facs_25" n="25" xml:id="img_0025"/><ab facs="#facs_25_r1" type="">
+               <lb facs="#facs_25_r1l1" n="N001"/>22
+               <lb facs="#facs_25_r1l3" n="N002"/>Но какъ на встрѣчу рапорты одинъ за другимъ дохо¬
+               <lb facs="#facs_25_r1l4" n="N003"/>дили, что насупротивной корпусъ весьма поспѣшно при¬
+               <lb facs="#facs_25_r1l5" n="N004"/>ближается, то Его Сїятельство тотчасъ и приказалъ,
+               <lb facs="#facs_25_r1l6" n="N005"/>чтобъ Конной полкъ Лейбгвардїи и брегада пѣхоты подъ
+               <lb facs="#facs_25_r1l7" n="N006"/>командою господина Генерала-Маїора Бенкендорфа шли
+               <lb facs="#facs_25_r1l8" n="N007"/>съ возможнымъ поспѣшенїемъ на подкрѣпленїе легкому
+               <lb facs="#facs_25_r1l9" n="N008"/>корпусу, потому что оные къ тому и назначены были.
+               <lb facs="#facs_25_r1l10" n="N009"/>Прискакавъ къ оному нашелъ Его Сїятельство Гене¬
+               <lb facs="#facs_25_r1l11" n="N010"/>ралъ Адъютантъ, что господинъ Бригадиръ Измайловъ
+               <lb facs="#facs_25_r1l12" n="N011"/>не токмо лагерь свой уже снялъ, обозъ въ повелѣнное
+               <lb facs="#facs_25_r1l13" n="N012"/>мѣсто отправилъ, но и корпусъ свой такъ расположилъ,
+               <lb facs="#facs_25_r1l14" n="N013"/>что оставалось токмо похвалить его распоряженїе. Гу¬
+               <lb facs="#facs_25_r1l15" n="N014"/>сары и Козаки высланы были впередъ замѣдлять насу¬
+               <lb facs="#facs_25_r1l16" n="N015"/>противной походъ. Плоское мѣсто отъ мызы Тоецкой
+               <lb facs="#facs_25_r1l17" n="N016"/>до бугра и рощи на право и вѣтреная мѣльница заняты
+               <lb facs="#facs_25_r1l18" n="N017"/>были пѣхотою съ нѣсколькими пушками подъ командою
+               <lb facs="#facs_25_r1l19" n="N018"/>Полковника Суворова, правѣе оттуда деревня и дорога
+               <lb facs="#facs_25_line_1670346267076_615" n="N019"/>между оною и близь находящимся озеркомъ пѣхотою,
+               <lb facs="#facs_25_r1l22" n="N020"/>а кустарьникъ егерами, равномѣрно и прочїя высоты
+               <lb facs="#facs_25_line_1670346302473_621" n="N021"/>заняты были пѣхотою съ пушками, а кавалерїя по
+               <lb facs="#facs_25_r1l25" n="N022"/>эскадронно такъ за высотами разставлена была, что
+               <lb facs="#facs_25_r1l26" n="N023"/>отвсюду скоро на помощь поспѣвать насупротивноюжъ
+               <lb facs="#facs_25_r1l27" n="N024"/>артиллерїею невредима быть могла.
+               <lb facs="#facs_25_r1l28" n="N025"/>Осмотря все сїе, и назнача мѣста для Коннаго полку
+               <lb facs="#facs_25_r1l29" n="N026"/>Лейбгвардїи, и для брегады господина Генерала-Маїора
+               <lb facs="#facs_25_r1l30" n="N027"/>Бенкендорфа, кои еще прибыть не могли, отправился
+               <lb facs="#facs_25_r1l31" n="N028"/>Его Сїятельство Генералъ Адъютантъ далѣе впередъ
+               <lb facs="#facs_25_r1l32" n="N029"/>къ легкимъ войскамъ, чтобъ ближе видѣть насупро¬
+               <lb facs="#facs_25_r1l33" n="N030"/>тивныя движенїя.
+               <lb facs="#facs_25_r1l34" n="N031"/>Тутъ примѣчено, что Его Превосходительство Ге¬
+               <lb facs="#facs_25_r1l35" n="N032"/>нералъ Панинъ, не смотря на лѣсистую, ускую и нѣ¬
+               <lb facs="#facs_25_r1l36" n="N033"/>сколько болотную дорогу, съ немалою и тяжелою поле¬
+               <lb facs="#facs_25_r1l37" n="N034"/>вою артиллерїею, въ такомъ однакожъ порядкѣ, и съ
+               <lb facs="#facs_25_r1l38" n="N035"/>такимъ поспѣшенїемъ приближился, что безъ засвидѣтель¬
+               <lb facs="#facs_25_r1l39" n="N036"/>ствованїя достойной похвалы здѣсь обойтись не можно.
+               <lb facs="#facs_25_r1l40" n="N037"/>Равнымъ образомъ и выступая на ровное предъ помя¬
+               <lb facs="#facs_25_r1l41" n="N038"/>нутою мызою Тоецкою и рощею мѣсто, такъ хорошо
+               <lb facs="#facs_25_r1l42" n="N039"/>то легкими войсками, то кавалерїею прикрывалъ строю¬
+               <lb facs="#facs_25_r1l43" n="N040"/>щуюся пѣхоту, и такъ паки казисто открывалъ по¬
+               <lb facs="#facs_25_r1l44" n="N041"/>строенную пѣхоту, а пушечную пальбу производилъ
+               <lb facs="#facs_25_r1l45" n="N042"/>въ
+            </ab><pb facs="#facs_26" n="26" xml:id="img_0026"/><ab facs="#facs_26_r1" type="">
+               <lb facs="#facs_26_r1l2" n="N001"/>23
+               <lb facs="#facs_26_r1l3" n="N002"/>въ прямое время, что ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО
+               <lb facs="#facs_26_r1l4" n="N003"/>прибывъ въ то самое время верьхохъ, имѣя на себѣ мун¬
+               <lb facs="#facs_26_r1l5" n="N004"/>диръ Артиллерїи, и въ препровожденїи Его Император¬
+               <lb facs="#facs_26_r1l6" n="N005"/>скаго Высочества деташамента Кавалергардовъ и всей
+               <lb facs="#facs_26_r1l7" n="N006"/>свиты, и ставъ на занятыхъ пѣхотою высотахъ удо¬
+               <lb facs="#facs_26_r1l8" n="N007"/>стоила оное Своей пробацїи, такъ какъ равномѣрно и
+               <lb facs="#facs_26_r1l9" n="N008"/>всѣ здѣшнїя распоряженїя, такой же великолѣпной и
+               <lb facs="#facs_26_r1l10" n="N009"/>грозной проспектъ насупротиному корпусу представ¬
+               <lb facs="#facs_26_r1l11" n="N010"/>ляющїя.
+               <lb facs="#facs_26_r1l12" n="N011"/>Когда ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО къ сему кор¬
+               <lb facs="#facs_26_r1l13" n="N012"/>пусу поспѣшать изволила, то усмотря, что третья ко¬
+               <lb facs="#facs_26_r1l14" n="N013"/>лонна насупротивнаго корпуса учреждаетъ походъ къ
+               <lb facs="#facs_26_line_1670347154391_666" n="N014"/>правому крылу главной нашей армїи, тотчасъ ука¬
+               <lb facs="#facs_26_r1l17" n="N015"/>зала, вышепомянутымъ резервамъ выступить и ста¬
+               <lb facs="#facs_26_r1l18" n="N016"/>раться, чтобъ насупротивное войско не предускорило
+               <lb facs="#facs_26_r1l19" n="N017"/>занять нѣкоторыя тамо находящїяся высоты, что го¬
+               <lb facs="#facs_26_r1l20" n="N018"/>сподиномъ Генераломъ Маїоромъ Философовымъ, весьма
+               <lb facs="#facs_26_r1l21" n="N019"/>изрядно и скоро исполнено.
+               <lb facs="#facs_26_r1l22" n="N020"/>Переднїе посты какъ легкаго войска, такъ и поста¬
+               <lb facs="#facs_26_r1l23" n="N021"/>вленной пѣхоты превосходствомъ силы насупротивнаго
+               <lb facs="#facs_26_r1l24" n="N022"/>корпуса вытѣснены были, и Генералъ Панинъ занявъ
+               <lb facs="#facs_26_r1l25" n="N023"/>весьма выгодную ему около рощи высоту, и поставя
+               <lb facs="#facs_26_r1l26" n="N024"/>на оной пушки, подъ сильною изъ нихъ стрѣльбою вы¬
+               <lb facs="#facs_26_r1l27" n="N025"/>водилъ всегда впередъ сперьва легкое свое войско, а по¬
+               <lb facs="#facs_26_line_1670347276946_683" n="N026"/>томъ пѣхоту, твердо предпрїявъ корпусъ господина
+               <lb facs="#facs_26_r1l30" n="N027"/>Бригадира Измайлова, изъ его положенїя вытѣснить.
+               <lb facs="#facs_26_r1l31" n="N028"/>Но какъ третьему Кирасирскому полку приказано было
+               <lb facs="#facs_26_r1l32" n="N029"/>на лѣвое крыло насупротивной атаки диверзїю здѣлать,
+               <lb facs="#facs_26_r1l33" n="N030"/>и въ тожъ время резервы отъ брегады Генерала Маїора
+               <lb facs="#facs_26_r1l34" n="N031"/>Бенкендорфа впередъ выступили, то сперьва стрем¬
+               <lb facs="#facs_26_r1l35" n="N032"/>ленїе легкаго войска остановлено, а потомъ какъ оное
+               <lb facs="#facs_26_r1l36" n="N033"/>такъ и насупротивная кавалерїя утѣсняема быть начала.
+               <lb facs="#facs_26_line_1670347421270_700" n="N034"/>Въ то самое время Генералъ Панинъ получа рапортъ,
+               <lb facs="#facs_26_r1l39" n="N035"/>что его третья колонна, о которой ниже объявлено бу¬
+               <lb facs="#facs_26_r1l40" n="N036"/>детъ, сильно атакована, запотребно разсудилъ, свое
+               <lb facs="#facs_26_line_1670347521994_728" n="N037"/>намѣренїе на корпусъ Бригадира Измайлова отставить,
+               <lb facs="#facs_26_r1l43" n="N038"/>и для того отступить, чтобъ и своей колоннѣ под¬
+               <lb facs="#facs_26_r1l44" n="N039"/>крѣпленїе здѣлать, и до своего лагеря, хотя всѣми
+               <lb facs="#facs_26_r1l45" n="N040"/>отъ искусства зависящими предосторожностьми ограж¬
+               <lb facs="#facs_26_r1l46" n="N041"/>деннаго никакой опасности не допустить; и для того
+               <lb facs="#facs_26_r1l47" n="N042"/>съ
+            </ab><pb facs="#facs_27" n="27" xml:id="img_0027"/><ab facs="#facs_27_r1" type="">
+               <lb facs="#facs_27_r1l2" n="N001"/>24
+               <lb facs="#facs_27_r1l3" n="N002"/>съ такимъ же порядкомъ, съ какимъ наступалъ, пѣхоту
+               <lb facs="#facs_27_r1l4" n="N003"/>свою обратно въ лѣсъ отвелъ и отступленїе ея кавале¬
+               <lb facs="#facs_27_r1l5" n="N004"/>рїею прикрывалъ.
+               <lb facs="#facs_27_r1l6" n="N005"/>ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО, поспѣша на то
+               <lb facs="#facs_27_r1l7" n="N006"/>мѣсто, гдѣ кавалерїя у кавалерїи скоростїю и искус¬
+               <lb facs="#facs_27_r1l8" n="N007"/>ствомъ мѣсто отнимала и атаку вела, и удостоя все
+               <lb facs="#facs_27_r1l9" n="N008"/>оное Монаршей апробацїи, указала далѣе не преслѣдовать,
+               <lb facs="#facs_27_r1l10" n="N009"/>что тогожъ часу и исполнено.
+               <lb facs="#facs_27_r1l11" n="N010"/>Одною изъ двухъ колоннъ предводительствовалъ онъ
+               <lb facs="#facs_27_r1l12" n="N011"/>самъ, а другою Его Превосходительство господинъ Ге¬
+               <lb facs="#facs_27_r1l13" n="N012"/>нералъ-Порутчикъ Баронъ Дицъ. Впрочемъ при Кавалерїи
+               <lb facs="#facs_27_r1l14" n="N013"/>его корпуса находился господинъ Генералъ-Маїоръ Опочи¬
+               <lb facs="#facs_27_r1l15" n="N014"/>нинъ, при пѣхотѣ, господинъ Генералъ-Маїоръ Князь
+               <lb facs="#facs_27_r1l16" n="N015"/>Шербатовъ, а при артиллерїи господинъ Полковникъ
+               <lb facs="#facs_27_r1l17" n="N016"/>Артиллерїи Мордвиновъ.
+               <lb facs="#facs_27_r1l18" n="N017"/>Но не тщетно было и данное Лейбгвардїи Измайловскому
+               <lb facs="#facs_27_r1l19" n="N018"/>и Кирасирскимъ полкамъ, также и о приготовленїи отъ
+               <lb facs="#facs_27_r1l20" n="N019"/>прочихъ полковъ резервовъ приказанїе; ибо хотя Его
+               <lb facs="#facs_27_r1l21" n="N020"/>Превосходительство Генералъ Панинъ только то главнѣй¬
+               <lb facs="#facs_27_r1l22" n="N021"/>ше имѣлъ въ намѣренїи, чтобъ корпусъ Бригадира Из¬
+               <lb facs="#facs_27_r1l23" n="N022"/>майлова изъ его мѣстоположенїя вытѣснить; но для то¬
+               <lb facs="#facs_27_r1l24" n="N023"/>го самаго, и дабы меньшей подвергать себя, а паче лѣ¬
+               <lb facs="#facs_27_r1l25" n="N024"/>вой свой флагъ отъ главной нашей армїи опасности,
+               <lb facs="#facs_27_r1l26" n="N025"/>не оставилъ онъ отправить отъ себя третью колонну;
+               <lb facs="#facs_27_r1l27" n="N026"/>не столь подлинно сильную, подъ командою господина
+               <lb facs="#facs_27_r1l28" n="N027"/>Генералъ-Маїора Рененкамфа, къ правому крылу здѣш¬
+               <lb facs="#facs_27_r1l29" n="N028"/>ней главной армїи, въ такомъ намѣренїи, чтобъ не ток¬
+               <lb facs="#facs_27_r1l30" n="N029"/>мо прямой свой видъ тѣмъ болѣе скрыть, но сею дивер¬
+               <lb facs="#facs_27_r1l31" n="N030"/>зїею надежнѣе достигнуть своего желанїя.
+               <lb facs="#facs_27_r1l32" n="N031"/>ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО, возвращаясь въ свой
+               <lb facs="#facs_27_r1l33" n="N032"/>лагерь съ полнымъ удовольствїемъ о изрядствѣ и искус¬
+               <lb facs="#facs_27_r1l34" n="N033"/>ствѣ распоряженей съ обѣихъ сторонъ, и о скорости и
+               <lb facs="#facs_27_line_1670349582469_891" n="N034"/>веселой бодрости, съ каковою солдатство исполняли
+               <lb facs="#facs_27_r1l38" n="N035"/>оныя, услышала вдругъ далеко впереди отъ праваго кры¬
+               <lb facs="#facs_27_r1l39" n="N036"/>ла главной армїи сильную пушечную стрѣльбу, и пото¬
+               <lb facs="#facs_27_r1l40" n="N037"/>му справедливо заключая новое тамо сраженїе, немедлѣн¬
+               <lb facs="#facs_27_r1l41" n="N038"/>но и всегда на конѣ туда поспѣшать изволила. По при¬
+               <lb facs="#facs_27_r1l42" n="N039"/>бытїи туда найдено, что господинъ Генералъ-Маїоръ
+               <lb facs="#facs_27_r1l43" n="N040"/>Рененкамфъ, стараясь потревоженїемъ здѣшняго праваго
+               <lb facs="#facs_27_r1l44" n="N041"/>крыла облегчить предпрїятїе Генерала Панина, нашелъ
+               <lb facs="#facs_27_r1l45" n="N042"/>весьма
+            </ab><pb facs="#facs_28" n="28" xml:id="img_0028"/><ab facs="#facs_28_r1" type="">
+               <lb facs="#facs_28_r1l2" n="N001"/>25
+               <lb facs="#facs_28_r1l3" n="N002"/>весьма сильное и готовое сопротивленїе, ибо командую¬
+               <lb facs="#facs_28_r1l4" n="N003"/>щей Измайловскимъ полкомъ Его Превосходительство
+               <lb facs="#facs_28_r1l5" n="N004"/>Генералъ и Кавалеръ и того полку Подполковникъ Васи¬
+               <lb facs="#facs_28_r1l6" n="N005"/>лей Ивановичь Суворовъ, не токмо его встрѣтилъ и от¬
+               <lb facs="#facs_28_r1l7" n="N006"/>ступать принудилъ, а тому съ одной стороны Его Пре¬
+               <lb facs="#facs_28_r1l8" n="N007"/>восходительство господинъ Генералъ Порутчикъ и Ка¬
+               <lb facs="#facs_28_r1l9" n="N008"/>валеръ Бергъ съ Кирасирами, а съ другой господинъ Гене¬
+               <lb facs="#facs_28_r1l10" n="N009"/>ралъ-Маїоръ Философовъ съ собранными отъ всѣхъ пол¬
+               <lb facs="#facs_28_r1l11" n="N010"/>ковъ резервами въ подкрѣпленїе итти принуждены были,
+               <lb facs="#facs_28_r1l12" n="N011"/>но усмотря великую ревность и охоту солдатства далѣе
+               <lb facs="#facs_28_r1l13" n="N012"/>итти, употребилъ сей случай къ ихъ эксерцированїю.
+               <lb facs="#facs_28_r1l14" n="N013"/>На семъ походѣ господинъ Генералъ-Маїоръ Ренен¬
+               <lb facs="#facs_28_r1l15" n="N014"/>камфъ употребилъ все искусство, чтобъ отъ превосхо¬
+               <lb facs="#facs_28_r1l16" n="N015"/>дящей силы не быть окружену и отрѣзану, а напро¬
+               <lb facs="#facs_28_r1l17" n="N016"/>тиву того столькожъ употреблено старанїя до того дос¬
+               <lb facs="#facs_28_r1l18" n="N017"/>тигнуть.
+               <lb facs="#facs_28_r1l19" n="N018"/>Но съ одной стороны ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО,
+               <lb facs="#facs_28_r1l20" n="N019"/>ускоря своимъ прибытїемъ, дальнѣйшее преслѣдованїе о¬
+               <lb facs="#facs_28_r1l21" n="N020"/>становить указала, и похваля ревность и усердїе возвра¬
+               <lb facs="#facs_28_r1l22" n="N021"/>щаться однакожъ повелѣла, потому что и время уже
+               <lb facs="#facs_28_r1l23" n="N022"/>весьма поздно стало, и что сїе движенїе не почиталось
+               <lb facs="#facs_28_r1l24" n="N023"/>болѣе надобнымъ, когда Генералъ-Маїоръ Рененкамфъ и
+               <lb facs="#facs_28_r1l25" n="N024"/>безъ того отступалъ. Съ другой же стороны и Его Пре¬
+               <lb facs="#facs_28_r1l26" n="N025"/>восходительство Генералъ Панинъ съ частїю своей кава¬
+               <lb facs="#facs_28_r1l27" n="N026"/>лерїи не опоздалъ прибыть на помощъ своей колоннѣ, и
+               <lb facs="#facs_28_r1l28" n="N027"/>такъ подкрѣпя оную въ свой лагерь возвратился.
+               <lb facs="#facs_28_r1l29" n="N028"/>ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО уже въ одиннатца¬
+               <lb facs="#facs_28_r1l30" n="N029"/>томъ часу въ свой лагерь возвратиться изволила.
+               <lb facs="#facs_28_r1l31" n="N030"/>24 Iюня, день рожденїя Iоанна Крестителя, соизво¬
+               <lb facs="#facs_28_r1l32" n="N031"/>лила ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО слушать по утру
+               <lb facs="#facs_28_r1l33" n="N032"/>божественную литургїю въ полковой Лейбгвардїи Конна¬
+               <lb facs="#facs_28_r1l34" n="N033"/>го полку церькви, а по возвращенїи оттуда принимать
+               <lb facs="#facs_28_r1l35" n="N034"/>рапорты и жаловать къ рукѣ.
+               <lb facs="#facs_28_r1l36" n="N035"/>Сей день предпрїято было удостовѣриться, намѣ¬
+               <lb facs="#facs_28_r1l37" n="N036"/>ренъ ли насупротивной корпусъ, въ случаѣ наступленїя на
+               <lb facs="#facs_28_r1l38" n="N037"/>него всею силою, дать генеральную баталїю, или укло¬
+               <lb facs="#facs_28_r1l39" n="N038"/>нясь отъ оной, отступить за лучшее найдетъ.
+               <lb facs="#facs_28_r1l40" n="N039"/>Сего
+            </ab><pb facs="#facs_29" n="29" xml:id="img_0029"/><ab facs="#facs_29_r2" type="">
+               <lb facs="#facs_29_r2l1" n="N001"/>26
+               <lb facs="#facs_29_r2l3" n="N002"/>Сего ради при паролѣ приказъ отданъ.
+               <lb facs="#facs_29_r2l4" n="N003"/>1. Чтобъ въ 4 часу вся кавалерїя передъ лагеремъ противу
+               <lb facs="#facs_29_r2l5" n="N004"/>Лейбгвардїи Преображенскаго полку у деревни Лагова
+               <lb facs="#facs_29_r2l6" n="N005"/>въ двѣ линїи построилась, а имянно: въ первой линїи
+               <lb facs="#facs_29_line_1670358281351_22" n="N006"/>Лейбгвардїи Конной полкъ и оба Кирасирскїе, а во
+               <lb facs="#facs_29_r2l9" n="N007"/>второй, Новогородской и Санктпетербургской Кара¬
+               <lb facs="#facs_29_r2l10" n="N008"/>бинерные.
+               <lb facs="#facs_29_r2l11" n="N009"/>2. Когда о походѣ повелѣнїе воспослѣдуетъ, то марширо¬
+               <lb facs="#facs_29_r2l12" n="N010"/>вать двумя колоннами, и составлять первую, Лейбгвар¬
+               <lb facs="#facs_29_r2l13" n="N011"/>дїи Конному полку, третьему Кирасирскому и Ново¬
+               <lb facs="#facs_29_line_1670364444610_46" n="N012"/>городскому Карабинерному, а вторую Кирасирскому
+               <lb facs="#facs_29_r2l16" n="N013"/>Его Императорскаго Высочества, и Санктпетербург¬
+               <lb facs="#facs_29_line_1670364485984_51" n="N014"/>скому Карабинерному, а дороги показывать будутъ
+               <lb facs="#facs_29_r2l19" n="N015"/>Генералъ Квартирмейстеръ Лейтенантъ Каховской, и
+               <lb facs="#facs_29_r2l20" n="N016"/>Оберъ-Квартирмейстеръ Бекетовъ.
+               <lb facs="#facs_29_r2l21" n="N017"/>ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО въ пятомъ часу по
+               <lb facs="#facs_29_r2l22" n="N018"/>полудни, прибывъ верьхомъ въ мундирѣ пѣхотной Гвар¬
+               <lb facs="#facs_29_r2l23" n="N019"/>дїи къ помянутой кавалерїи, тотчасъ повелѣла оной
+               <lb facs="#facs_29_r2l24" n="N020"/>въ двѣ колонны маршировать, съ благоволенїемъ смотря,
+               <lb facs="#facs_29_r2l25" n="N021"/>какъ оныя въ наилучшемъ порядкѣ мимо проходили, а
+               <lb facs="#facs_29_r2l26" n="N022"/>по томъ въ слѣдъ за ними отправиться изволила.
+               <lb facs="#facs_29_r2l27" n="N023"/>По приближенїи на пушечной выстрѣлъ къ лѣвому
+               <lb facs="#facs_29_line_1670366813728_74" n="N024"/>наипаче крылу насупротивнаго лагеря, построилась вся
+               <lb facs="#facs_29_r2l31" n="N025"/>кавалерїя въ двѣ линїи съ превеликою скоростїю, а меж¬
+               <lb facs="#facs_29_r2l32" n="N026"/>ду тѣмъ съ обоихъ фланговъ, небольшїя команды Гуса¬
+               <lb facs="#facs_29_r2l33" n="N027"/>ровъ и Козаковъ, посланы встревожить насупротивные
+               <lb facs="#facs_29_r2l34" n="N028"/>пикеты, слѣдовательно и лагерь.
+               <lb facs="#facs_29_r2l35" n="N029"/>Командующїй насупротивнымъ лагеремъ Генералъ,
+               <lb facs="#facs_29_r2l36" n="N030"/>едва отъ форпостовъ своихъ перьвое извѣстїе получилъ,
+               <lb facs="#facs_29_r2l37" n="N031"/>что двѣ колонны, имѣя сильную впереди кавалерїю къ
+               <lb facs="#facs_29_r2l38" n="N032"/>лѣвому его крылу приближаются; то заключая, что
+               <lb facs="#facs_29_r2l39" n="N033"/>сїе чинится для того, чтобъ его совсѣмъ атаковать,
+               <lb facs="#facs_29_r2l40" n="N034"/>или приближаясь съ нѣкоторымъ деташаментомъ, испы¬
+               <lb facs="#facs_29_r2l41" n="N035"/>тавъ токмо, останется ли онъ на прежнемъ своемъ мѣ¬
+               <lb facs="#facs_29_r2l42" n="N036"/>стѣ, или прочь отойдетъ, намѣренїе принялъ, не толь¬
+               <lb facs="#facs_29_r2l43" n="N037"/>ко отъ баталїи не уклоняться, но и показать, что онъ
+               <lb facs="#facs_29_r2l44" n="N038"/>ея съ твердостїю ожидаетъ.
+               <lb facs="#facs_29_r2l45" n="N039"/>Сего ради 1) собралъ онъ къ себѣ свои форпосты и пи¬
+               <lb facs="#facs_29_r2l46" n="N040"/>кеты, кои примѣтно дѣлали слабое токмо нашимъ пе¬
+               <lb facs="#facs_29_r2l47" n="N041"/>редовымъ
+            </ab><pb facs="#facs_30" n="30" xml:id="img_0030"/><ab facs="#facs_30_r1" type="">
+               <lb facs="#facs_30_r1l2" n="N001"/>27
+               <lb facs="#facs_30_r1l3" n="N002"/>редовымъ легкимъ войскамъ сопротивленїе. 2) Всю кава¬
+               <lb facs="#facs_30_r1l4" n="N003"/>лерїю свою перевелъ на свое лѣвое крыло, оставляя на
+               <lb facs="#facs_30_r1l5" n="N004"/>правомъ токмо самую малую часть, и 3) пѣхоту свою
+               <lb facs="#facs_30_r1l6" n="N005"/>равномѣрно прїуготовилъ къ сраженїю, такъ, что сколь
+               <lb facs="#facs_30_r1l7" n="N006"/>скоро правое нашей кавалерїи крыло, къ лѣвому его кры¬
+               <lb facs="#facs_30_r1l8" n="N007"/>лу нѣсколько больше приближаться стало, и стрѣльба съ
+               <lb facs="#facs_30_r1l9" n="N008"/>батарей и редантовъ по оной началась, то въ тотъ же
+               <lb facs="#facs_30_r1l10" n="N009"/>моментъ всѣ палатки въ его лагерѣ сняты, и нѣко¬
+               <lb facs="#facs_30_r1l11" n="N010"/>торая часть пѣхоты на подкрѣпленїе своей кавалерїи
+               <lb facs="#facs_30_r1l12" n="N011"/>выступать стала.
+               <lb facs="#facs_30_r1l13" n="N012"/>Какъ такимъ образомъ имѣвшееся намѣренїе совершен¬
+               <lb facs="#facs_30_r1l14" n="N013"/>но достигнуто и увѣриться можно было, что насупро¬
+               <lb facs="#facs_30_r1l15" n="N014"/>тивной корпусъ, генеральной атаки ожидать намѣренъ,
+               <lb facs="#facs_30_r1l16" n="N015"/>то ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО указала, возвра¬
+               <lb facs="#facs_30_r1l17" n="N016"/>щаться паки въ свой лагерь, что и учинено со всякимъ
+               <lb facs="#facs_30_r1l18" n="N017"/>порядкомъ, при перестрѣливанїи однихъ только легкихъ
+               <lb facs="#facs_30_r1l19" n="N018"/>войскъ позади слѣдовавшихъ; ибо и Генералъ Панинъ
+               <lb facs="#facs_30_r1l20" n="N019"/>изъ подъ защищенїя своей Артиллерїи, кавалерїю свою
+               <lb facs="#facs_30_r1l21" n="N020"/>въ разсужденїи превосходства нашей, вывесть не хотѣлъ,
+               <lb facs="#facs_30_r1l22" n="N021"/>но по отступленїи нашемъ паки въ свой лагерь возвра¬
+               <lb facs="#facs_30_r1l23" n="N022"/>тился, и палатки поставилъ.
+               <lb facs="#facs_30_r1l24" n="N023"/>ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО въ ставку Свою въ
+               <lb facs="#facs_30_r1l25" n="N024"/>девять часовъ вечера прибыть изволила.
+               <lb facs="#facs_30_r1l26" n="N025"/>28 Iюня, назначено быть генеральному движенїю или
+               <lb facs="#facs_30_r1l27" n="N026"/>главной баталїи. Но все утро тѣмъ не меньше ЕЯ ИМПЕ¬
+               <lb facs="#facs_30_r1l28" n="N027"/>РАТОРСКОЕ ВЕЛИСЕСТВО отправленїемъ государственныхъ
+               <lb facs="#facs_30_line_1670368113280_166" n="N028"/>дѣлъ упражняться изволила; по томъ принимать ра¬
+               <lb facs="#facs_30_r1l31" n="N029"/>порты и жаловать къ рукѣ, а между тѣмъ при паролѣ
+               <lb facs="#facs_30_r1l32" n="N030"/>приказъ отданъ:
+               <lb facs="#facs_30_line_1670368159418_174" n="N031"/>1. Лейбгвардїи въ Преображенскомъ полку, въ три часа
+               <lb facs="#facs_30_r1l35" n="N032"/>по полудни ударить генеральной маршъ, въ три часа
+               <lb facs="#facs_30_r1l36" n="N033"/>съ четвертью по возамъ, а въ четыре часа зборъ, и
+               <lb facs="#facs_30_r1l37" n="N034"/>затѣмъ тотчасъ выступать колоннами.
+               <lb facs="#facs_30_line_1670368222497_186" n="N035"/>2. Походъ учредить пятью колоннами.
+               <lb facs="#facs_30_line_1670368240301_191" n="N036"/>3. Лагерь снявъ и палатки уклавъ на возы; оставить
+               <lb facs="#facs_30_r1l42" n="N037"/>однакожъ оныя, такъ какъ и весь обозъ, назади, а вЬюч¬
+               <lb facs="#facs_30_r1l43" n="N038"/>ныхъ лошадей имѣть въ готовности
+               <lb facs="#facs_30_r1l44" n="N039"/>4. Всѣмъ выступающимъ взять съ собою провїанта на
+               <lb facs="#facs_30_line_1670368284345_198" n="N040"/>одни сутки, и столькожъ фуража для лошадей, а
+               <lb facs="#facs_30_r1l47" n="N041"/>манерки наполнить водою.
+               <lb facs="#facs_30_line_1670368380351_205" n="N042"/>г 2 5.
+            </ab><pb facs="#facs_31" n="31" xml:id="img_0031"/><ab facs="#facs_31_r3" type="">
+               <lb facs="#facs_31_r3l2" n="N001"/>28
+               <lb facs="#facs_31_r3l3" n="N002"/>5. Колоннамъ наблюдать, чтобъ во время марша головы
+               <lb facs="#facs_31_r3l4" n="N003"/>ихъ, сколько можно были въ одной линїи, дабы въ
+               <lb facs="#facs_31_r3l5" n="N004"/>одно время на то мѣсто притти могли, гдѣ къ сра¬
+               <lb facs="#facs_31_r3l6" n="N005"/>женїю въ двѣ линїи строиться надлежитъ. Но пятой
+               <lb facs="#facs_31_r3l7" n="N006"/>колоннѣ, состоящей изъ легкаго корпуса, и слѣдовав¬
+               <lb facs="#facs_31_r3l8" n="N007"/>шей съ лѣваго нашего крыла, должно болѣе ускорять,
+               <lb facs="#facs_31_r3l9" n="N008"/>дабы до прибытїя еще прочихъ колоннъ, выведенной
+               <lb facs="#facs_31_r3l10" n="N009"/>отъ насупротивнаго корпуса, противу его крыла и
+               <lb facs="#facs_31_r3l11" n="N010"/>противу главной его на горѣ батареИ, постъ редан¬
+               <lb facs="#facs_31_r3l12" n="N011"/>тами и Артиллерїею укрѣпленной, не токмо атако¬
+               <lb facs="#facs_31_line_1670376256470_244" n="N012"/>вать, но и весьма онымъ завладѣть стараться, по
+               <lb facs="#facs_31_r3l15" n="N013"/>тому, что оной поставленъ былъ на такомъ хребту,
+               <lb facs="#facs_31_r3l16" n="N014"/>которой безпрерывно почти до самаго нашего лагеря про¬
+               <lb facs="#facs_31_r3l17" n="N015"/>стирался, и съ котораго слѣдовательно всѣ движенїя
+               <lb facs="#facs_31_r3l18" n="N016"/>наши видѣть, и онымъ препятствовать можно было.
+               <lb facs="#facs_31_r3l19" n="N017"/>6. Отъ легкаго корпуса командировать 200 человѣкъ Гусаръ
+               <lb facs="#facs_31_r3l20" n="N018"/>и 100 человѣкъ Козаковъ, которымъ разъѣжжая впереди,
+               <lb facs="#facs_31_r3l21" n="N019"/>прикрывать передъ всѣхъ колоннъ, а по прибытїи на
+               <lb facs="#facs_31_r3l22" n="N020"/>мѣсто стать въ третью линїю, близь парка Ар¬
+               <lb facs="#facs_31_r3l23" n="N021"/>тиллерїи.
+               <lb facs="#facs_31_r3l24" n="N022"/>7. При каждой колоннѣ впереди кромѣ кавалерїйскихъ
+               <lb facs="#facs_31_r3l25" n="N023"/>быть изъ парка по двѣ пушки, и въ случаѣ, чтобъ
+               <lb facs="#facs_31_r3l26" n="N024"/>насупротивное войско какїя препятствїи въ походѣ
+               <lb facs="#facs_31_r3l27" n="N025"/>причинять стало, стрѣлять изъ оныхъ не остана¬
+               <lb facs="#facs_31_r3l28" n="N026"/>вливаясь.
+               <lb facs="#facs_31_line_1670376537980_269" n="N027"/>8. Какъ скоро фронтъ построится, такъ скоро изъ всѣхъ
+               <lb facs="#facs_31_r3l31" n="N028"/>орудей состоящихъ въ паркѣ составить четыре ба¬
+               <lb facs="#facs_31_r3l32" n="N029"/>тареи, а именно: двѣ по флангамъ и двѣ въ срединѣ
+               <lb facs="#facs_31_r3l33" n="N030"/>передъ первою линїею.
+               <lb facs="#facs_31_r3l34" n="N031"/>9. Лейбгвардїи Конному полку быть въ зскортѣ ЕЯ ИМПЕ¬
+               <lb facs="#facs_31_r3l35" n="N032"/>РАТОРСКАГО ВЕЛИЧЕСТВА, и во время огня стоять
+               <lb facs="#facs_31_r3l36" n="N033"/>въ третьей линїи.
+               <lb facs="#facs_31_r3l37" n="N034"/>Въ слѣдствїе сего лагерь въ назначенное время съ та¬
+               <lb facs="#facs_31_r3l38" n="N035"/>кою невѣроятною почти скоростїю снятъ, что чрезъ
+               <lb facs="#facs_31_line_1670376640263_289" n="N036"/>пять минутъ не токмо ни одной палатки не осталось,
+               <lb facs="#facs_31_r3l41" n="N037"/>но всѣ на возахъ уже укладены были. Равнымъ обра¬
+               <lb facs="#facs_31_r3l42" n="N038"/>зомъ и походъ точно въ свое время пятью колоннами въ
+               <lb facs="#facs_31_r3l43" n="N039"/>наилучшемъ порядкѣ начался. ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИ¬
+               <lb facs="#facs_31_r3l44" n="N040"/>ЧЕСТВО на все то изъ подъ Своей ставки смотрѣть изво¬
+               <lb facs="#facs_31_r3l45" n="N041"/>лила, потому что съ сей высоты всѣ пять ко¬
+               <lb facs="#facs_31_r3l46" n="N042"/>лоннъ
+            </ab><pb facs="#facs_32" n="32" xml:id="img_0032"/><ab facs="#facs_32_r1" type="">
+               <lb facs="#facs_32_r1l2" n="N001"/>29
+               <lb facs="#facs_32_r1l3" n="N002"/>лоннъ вдругъ видѣть можно было. Но сколь скоро ко¬
+               <lb facs="#facs_32_r1l4" n="N003"/>лонны нѣкоторое разстоянїе перешли, то не умедлила
+               <lb facs="#facs_32_r1l5" n="N004"/>и ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО тудажъ въ слѣдъ въ
+               <lb facs="#facs_32_r1l6" n="N005"/>мундирѣ Конной гвардїи верьхомъ отправиться, въ пре¬
+               <lb facs="#facs_32_r1l7" n="N006"/>провожденїи Его Императорскаго Высочества, всей сви¬
+               <lb facs="#facs_32_r1l8" n="N007"/>ты и деташамента Кавалергардовъ. Во время походу
+               <lb facs="#facs_32_r1l9" n="N008"/>соизволила ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО къ нѣкото¬
+               <lb facs="#facs_32_r1l10" n="N009"/>рымъ колоннамъ подъѣжжать и съ командующими Гене¬
+               <lb facs="#facs_32_r1l11" n="N010"/>ралами разговаривать.
+               <lb facs="#facs_32_r1l12" n="N011"/>Въ приближенїе къ тому мѣсту, гдѣ армїя строиться
+               <lb facs="#facs_32_r1l13" n="N012"/>имѣла, найдено, что господинъ Бригадиръ Измайловъ
+               <lb facs="#facs_32_r1l14" n="N013"/>съ его легкимъ корпусомъ данное выше въ 5 пунктѣ при¬
+               <lb facs="#facs_32_r1l15" n="N014"/>каза повелѣнїе такъ хорошо исполнилъ, что не токмо
+               <lb facs="#facs_32_r1l16" n="N015"/>насупротивныхъ гранодеръ изъ помянутаго тамъ же по¬
+               <lb facs="#facs_32_r1l17" n="N016"/>ста вытѣснилъ, но и одною пушкою овладѣлъ, и сей
+               <lb facs="#facs_32_r1l18" n="N017"/>постъ своею пѣхотою занялъ. По сему ЕЯ ИМПЕРАТОР¬
+               <lb facs="#facs_32_line_1670379492027_328" n="N018"/>СКОЕ ВЕЛИЧЕТВО и указала, чтобъ прочїя колонны
+               <lb facs="#facs_32_r1l21" n="N019"/>примыкая лѣвое крыло къ сему занятому посту депло¬
+               <lb facs="#facs_32_r1l22" n="N020"/>ировались въ право, а Бригадиру Измайлову, не токмо
+               <lb facs="#facs_32_r1l23" n="N021"/>далѣе правое насупротивнаго корпуса крыло обходить,
+               <lb facs="#facs_32_r1l24" n="N022"/>но и такой видъ показывать, яко бы онъ въ тылъ зай¬
+               <lb facs="#facs_32_r1l25" n="N023"/>ти, и отъ построенныхъ чрезъ рѣку Пудость трехъ
+               <lb facs="#facs_32_r1l26" n="N024"/>мостовъ, слѣдовательно и отъ находящихся за сею рѣ¬
+               <lb facs="#facs_32_r1l27" n="N025"/>кою магазиновъ его отрѣзать хочетъ.
+               <lb facs="#facs_32_r1l28" n="N026"/>Колонны деплоировались по сему повелѣнїю съ такою
+               <lb facs="#facs_32_line_1670379695414_350" n="N027"/>скоростїю и порядкомъ, что тогожъ момента на на¬
+               <lb facs="#facs_32_r1l31" n="N028"/>супротивной корпусъ ведены быть могли. Но какъ рас¬
+               <lb facs="#facs_32_r1l32" n="N029"/>положенїе насупротивнаго корпуса было таково: 1. Что
+               <lb facs="#facs_32_r1l33" n="N030"/>передъ правымъ его крыломъ находившаяся гора не токмо
+               <lb facs="#facs_32_r1l34" n="N031"/>артиллерїею но и земляными работами сильно укрѣплена
+               <lb facs="#facs_32_r1l35" n="N032"/>была, и не токмо правое крыло но и большую часть фрон¬
+               <lb facs="#facs_32_r1l36" n="N033"/>та очищать могла. 2. Что на лѣвомъ его крылѣ также
+               <lb facs="#facs_32_r1l37" n="N034"/>весьма выгодная высота случилась и редантами и артил¬
+               <lb facs="#facs_32_r1l38" n="N035"/>лерїею укрѣплена была. 3. Что первая линїя его пѣхоты
+               <lb facs="#facs_32_r1l39" n="N036"/>построена была между сими укрѣпленными возвышенїями
+               <lb facs="#facs_32_r1l40" n="N037"/>примыкая къ онымъ. 4. Что вторая линїя его пѣхоты
+               <lb facs="#facs_32_r1l41" n="N038"/>расположена была по высотамъ преимуществующимъ надъ
+               <lb facs="#facs_32_r1l42" n="N039"/>передними, кромѣ горы праваго крыла. 5. Что отъ горы
+               <lb facs="#facs_32_r1l43" n="N040"/>праваго крыла въ заворотъ до рѣки Пудости, на кото¬
+               <lb facs="#facs_32_r1l44" n="N041"/>рой мосты построены были, случившїяся многїя высо¬
+               <lb facs="#facs_32_r1l45" n="N042"/>г 3 ты
+            </ab><pb facs="#facs_33" n="33" xml:id="img_0033"/><ab facs="#facs_33_r1" type="">
+               <lb facs="#facs_33_r1l2" n="N001"/>30
+               <lb facs="#facs_33_r1l3" n="N002"/>ты равномѣрно редантами заняты были, на которыхъ
+               <lb facs="#facs_33_r1l4" n="N003"/>артиллерїя частїю уже стояла, а частїю скоро изъ дру¬
+               <lb facs="#facs_33_r1l5" n="N004"/>гихъ мѣстъ перевозима быть могла, и которыми слѣ¬
+               <lb facs="#facs_33_r1l6" n="N005"/>довательно правое крыло обѣихъ его линїй прикрывалось.
+               <lb facs="#facs_33_r1l7" n="N006"/>6. Равнымъ образомъ на лѣвомъ крылѣ второй ево линїи
+               <lb facs="#facs_33_r1l8" n="N007"/>здѣланы были редуты артиллерїею и пѣхотою снабден¬
+               <lb facs="#facs_33_r1l9" n="N008"/>ные. 7. Кавалерїя раздѣлясь на двѣ части, однимъ кры¬
+               <lb facs="#facs_33_r1l10" n="N009"/>ломъ примыкалась къ вышепомянутымъ укрѣпленнымъ
+               <lb facs="#facs_33_r1l11" n="N010"/>вышинамъ, а другимъ столько распространилась въ полѣ,
+               <lb facs="#facs_33_r1l12" n="N011"/>что своею артиллерїею защищаема быть могла. Того
+               <lb facs="#facs_33_r1l13" n="N012"/>ради ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО справедливо рас¬
+               <lb facs="#facs_33_r1l14" n="N013"/>суждая, что есть ли самую средину насупротивнаго
+               <lb facs="#facs_33_r1l15" n="N014"/>корпуса атаковать, то сперва надлежитъ завладѣть обѣ
+               <lb facs="#facs_33_r1l16" n="N015"/>вышепомянутыя сильно укрѣпленныя высоты, а на то
+               <lb facs="#facs_33_r1l17" n="N016"/>не токмо много времени употребить, но въ такъ ус¬
+               <lb facs="#facs_33_r1l18" n="N017"/>комъ мѣстѣ и превосходство силы мало служилобъ въ
+               <lb facs="#facs_33_r1l19" n="N018"/>нашу пользу, за лучшее найти изволила, главную ата¬
+               <lb facs="#facs_33_r1l20" n="N019"/>ку устремить на лѣвое насупротивной армїи крыло, а
+               <lb facs="#facs_33_r1l21" n="N020"/>что до его праваго крыла и средины принадлежитъ, то
+               <lb facs="#facs_33_r1l22" n="N021"/>перьвое легкимъ Бригадира Измайлова корпусомъ, а сре¬
+               <lb facs="#facs_33_r1l23" n="N022"/>дину своимъ лѣвымъ крыломъ въ опасности и безпокой¬
+               <lb facs="#facs_33_r1l24" n="N023"/>ствѣ содержать. Сего ради тотчасъ приказано: построив¬
+               <lb facs="#facs_33_r1l25" n="N024"/>шейся уже на правомъ нашемъ крылѣ кавалерїи потя¬
+               <lb facs="#facs_33_line_1670381067324_434" n="N025"/>нуться на лѣвое между фронтомъ первой линїи, и
+               <lb facs="#facs_33_r1l28" n="N026"/>поставленной впереди артиллерїи, а линїямъ пѣхо¬
+               <lb facs="#facs_33_r1l29" n="N027"/>ты въ тожъ время тянуться позади сея кавалерїи на
+               <lb facs="#facs_33_r1l30" n="N028"/>право, и полевой артиллерїи на правомъ крылѣ столько
+               <lb facs="#facs_33_r1l31" n="N029"/>умножить, чтобъ насупротивную къ молчанїю привесть
+               <lb facs="#facs_33_r1l32" n="N030"/>можно было. Сей маневръ или движенїе при начатой
+               <lb facs="#facs_33_r1l33" n="N031"/>уже съ обѣихъ сторонъ пушечной стрѣльбѣ учинено съ
+               <lb facs="#facs_33_r1l34" n="N032"/>крайнею скоростїю и порядкомъ. ЕЯ ИМПЕРАТОРСКОЕ
+               <lb facs="#facs_33_r1l35" n="N033"/>ВЕЛИЧЕСТВО, проѣжжая тогда между линей кавалерїи и
+               <lb facs="#facs_33_r1l36" n="N034"/>пѣхоты, съ особливымъ удовольствїемъ видѣть изволила,
+               <lb facs="#facs_33_r1l37" n="N035"/>что оныя а наипаче полковъ Лейбгвардїи такъ тянулись,
+               <lb facs="#facs_33_r1l38" n="N036"/>что ни стѣснялись ниже перерывались.
+               <lb facs="#facs_33_r1l39" n="N037"/>Сколь скоро такимъ непремѣннымъ образомъ мы лѣвое
+               <lb facs="#facs_33_r1l40" n="N038"/>крыло насупротивной армїи гораздо обошли, а кавалерїя
+               <lb facs="#facs_33_r1l41" n="N039"/>наша протянувшись до нашего лѣваго крыла, за обѣ ли¬
+               <lb facs="#facs_33_r1l42" n="N040"/>нїи заворотила, и позади оныхъ во весь скакъ, паки
+               <lb facs="#facs_33_r1l43" n="N041"/>къ правому своему крылу поспѣшала и уже строиться
+               <lb facs="#facs_33_r1l44" n="N042"/>начала,
+            </ab><pb facs="#facs_34" n="34" xml:id="img_0034"/><ab facs="#facs_34_r1" type="">
+               <lb facs="#facs_34_r1l2" n="N001"/>31
+               <lb facs="#facs_34_line_1670381445761_473" n="N002"/>начала, то по высочайшему ЕЯ ИМПЕРАТОРСКАГО ВЕ¬
+               <lb facs="#facs_34_r1l5" n="N003"/>ЛИЧЕСТВА повелѣнїю началась сильнѣйшая стрѣльба изъ
+               <lb facs="#facs_34_r1l6" n="N004"/>артиллерїи, а по томъ скоро и изъ мѣлкаго ружья при
+               <lb facs="#facs_34_r1l7" n="N005"/>непрестанномъ наступленїи.
+               <lb facs="#facs_34_r1l8" n="N006"/>Его Превосходительство Генералъ Панинъ едва усмо¬
+               <lb facs="#facs_34_r1l9" n="N007"/>трѣлъ, что наша пѣхота лѣвое его крыло сильно обхо¬
+               <lb facs="#facs_34_r1l10" n="N008"/>дить стала, и тамо главную атаку устремить намѣ¬
+               <lb facs="#facs_34_r1l11" n="N009"/>ренїе принято, тотчасъ первую линїю своей пѣхоты
+               <lb facs="#facs_34_r1l12" n="N010"/>сократилъ, и лѣвое свое крыло заворотя ко второй ли¬
+               <lb facs="#facs_34_r1l13" n="N011"/>нїи примкнулъ къ находящемуся тамъ редуту, а дерев¬
+               <lb facs="#facs_34_r1l14" n="N012"/>но тутъ же въ близости за второю линїею находящую¬
+               <lb facs="#facs_34_r1l15" n="N013"/>ся занялъ изъ сей линїи гранодерами и пушками.
+               <lb facs="#facs_34_line_1670381774868_494" n="N014"/>Въ семъ положенїи зачался мѣлкаго ружья огонь; но
+               <lb facs="#facs_34_r1l18" n="N015"/>какъ огонь нашей артиллерїи примѣтно пересилилъ ар¬
+               <lb facs="#facs_34_r1l19" n="N016"/>тиллерїю насупротивнаго корпуса на высотѣ лѣваго его
+               <lb facs="#facs_34_r1l20" n="N017"/>крыла поставленную, то Его Превосходительство коман¬
+               <lb facs="#facs_34_r1l21" n="N018"/>дующїй корпусомъ Генералъ велѣлъ какъ съ оной всю по¬
+               <lb facs="#facs_34_r1l22" n="N019"/>левую артиллерїю въ редутъ второй линїи тогожъ кры¬
+               <lb facs="#facs_34_r1l23" n="N020"/>ла, такъ со всѣхъ переднихъ редантовъ полковыя пуш¬
+               <lb facs="#facs_34_r1l24" n="N021"/>ки и съ ихъ прикрытїями въ ихъ полки перевести, а между
+               <lb facs="#facs_34_r1l25" n="N022"/>тѣмъ главную свою противу праваго его крыла гору или
+               <lb facs="#facs_34_r1l26" n="N023"/>вышину тѣмъ сильняе защищать.
+               <lb facs="#facs_34_r1l27" n="N024"/>Но какъ мы неотмѣнно и съ превосходящею силою на лѣ¬
+               <lb facs="#facs_34_r1l28" n="N025"/>вое его крыло наступали, то Его Превосходительство
+               <lb facs="#facs_34_r1l29" n="N026"/>Генералъ Панинъ, примѣтя, что съ нашей стороны нѣтѣ
+               <lb facs="#facs_34_r1l30" n="N027"/>прямаго намѣренїя сильно атаковать его правое крыло,
+               <lb facs="#facs_34_r1l31" n="N028"/>и между обоихъ высотъ построенной фронтъ, приказалъ
+               <lb facs="#facs_34_r1l32" n="N029"/>1) Двумъ полкамъ перьвой его линїи съ праваго крыла,
+               <lb facs="#facs_34_r1l33" n="N030"/>такимъ образомъ потянуться косою линїею ко второй или
+               <lb facs="#facs_34_r1l34" n="N031"/>задней линїи, чтобъ одно крыло сихъ полковъ неотмѣнно
+               <lb facs="#facs_34_r1l35" n="N032"/>оставалось при помянутой главной вышинѣ, а другое
+               <lb facs="#facs_34_r1l36" n="N033"/>соотвѣтствовало бы тому второй линїи редуту, на ко¬
+               <lb facs="#facs_34_r1l37" n="N034"/>торой артиллерїя съ оставленной батареи перевезена 2)
+               <lb facs="#facs_34_r1l38" n="N035"/>Третьему и послѣднему лѣваго крыла полку, поворотясь
+               <lb facs="#facs_34_r1l39" n="N036"/>на право съ безперерывною мушкетною и пушечною палъ¬
+               <lb facs="#facs_34_r1l40" n="N037"/>бою, итти въ заднюю на правой флагъ линїю такимъ
+               <lb facs="#facs_34_line_1670382290311_534" n="N038"/>образомъ, чтобъ походомъ и пальбою закрывать новое
+               <lb facs="#facs_34_r1l43" n="N039"/>двухъ отступающихъ полковъ построенїе, а стать лѣ¬
+               <lb facs="#facs_34_r1l44" n="N040"/>вымъ флангомъ къ другой деревнѣ позадижъ второй
+               <lb facs="#facs_34_r1l45" n="N041"/>линїи находящейся, а правымъ подъ защищенїе удер¬
+               <lb facs="#facs_34_r1l46" n="N042"/>жанныхъ
+            </ab><pb facs="#facs_35" n="35" xml:id="img_0035"/><ab facs="#facs_35_r1" type="">
+               <lb facs="#facs_35_r1l2" n="N001"/>32
+               <lb facs="#facs_35_line_1670382395205_552" n="N002"/>жанныхъ на правомъ крылѣ редута и редантовъ. 3) Вто¬
+               <lb facs="#facs_35_line_1670382420884_560" n="N003"/>рой линїи одному полку, пришедъ колонною, занять
+               <lb facs="#facs_35_line_1670382444119_566" n="N004"/>въ косую линїю то мѣсто, которое между перьвыхъ
+               <lb facs="#facs_35_r1l10" n="N005"/>двухъ полковъ и частопомянутаго редута оставалось. 4)
+               <lb facs="#facs_35_r1l11" n="N006"/>Другому второй линїи полку построиться во вторуюжъ
+               <lb facs="#facs_35_line_1670382543558_580" n="N007"/>за тѣми линїю между помянутыхъ двухъ деревень, и
+               <lb facs="#facs_35_r1l15" n="N008"/>5) Третьему и послѣднему той второй линїи полку за¬
+               <lb facs="#facs_35_r1l16" n="N009"/>нять сїи обѣ деревни.
+               <lb facs="#facs_35_r1l17" n="N010"/>Сїи движенїя уменьшали нѣсколько его огонъ, но не пре¬
+               <lb facs="#facs_35_r1l18" n="N011"/>рывали онаго. ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО усматри¬
+               <lb facs="#facs_35_r1l19" n="N012"/>вала, что хотя такимъ образомъ Генералъ Панинъ изъ
+               <lb facs="#facs_35_r1l20" n="N013"/>своего корпуса совсѣмъ другое ополченїе здѣлалъ, можно
+               <lb facs="#facs_35_r1l21" n="N014"/>однакожъ былобъ здѣлать и намъ тотчасъ новое распоря¬
+               <lb facs="#facs_35_r1l22" n="N015"/>женїе и новую атаку, и тѣмъ принудить его къ оставле¬
+               <lb facs="#facs_35_r1l23" n="N016"/>нїю и сего положенїя; но какъ и безъ того онъ изъ вели¬
+               <lb facs="#facs_35_r1l24" n="N017"/>кой части прежняго своего мѣстоположенїя вытѣсненъ,
+               <lb facs="#facs_35_r1l25" n="N018"/>многїя потому выгоды надъ нимъ одержаны, и твердо
+               <lb facs="#facs_35_line_1670382730497_602" n="N019"/>сохранялось вышеизображенное правило, непобѣждать
+               <lb facs="#facs_35_r1l28" n="N020"/>часть своего непобѣдимаго войска, а притомъ и время
+               <lb facs="#facs_35_r1l29" n="N021"/>уже поздно становиться начало; то ЕЯ ИМПЕРАТОРСКОЕ
+               <lb facs="#facs_35_r1l30" n="N022"/>ВЕЛИЧЕСТВО указала далѣе не наступать, но прекратя
+               <lb facs="#facs_35_r1l31" n="N023"/>палъбу тотчасъ остановиться.
+               <lb facs="#facs_35_r1l32" n="N024"/>Его Превосходительство Генералъ Панинъ, примѣтя,
+               <lb facs="#facs_35_r1l33" n="N025"/>что съ стороны главной армїи огонъ прекращенъ, при¬
+               <lb facs="#facs_35_r1l34" n="N026"/>нялъ въ запасъ такїя мѣры, чтобъ въ случаѣ вторичной
+               <lb facs="#facs_35_r1l35" n="N027"/>атаки, отойти за рѣку Пудость, и на правомъ по те¬
+               <lb facs="#facs_35_r1l36" n="N028"/>ченїю ея берегу, которой возвышенїемъ своимъ пре¬
+               <lb facs="#facs_35_line_1670382853642_622" n="N029"/>имуществовалъ надъ противнымъ, съ корпусомъ своимъ
+               <lb facs="#facs_35_r1l39" n="N030"/>стать, и для того немедлѣнно отправилъ туда нѣсколь¬
+               <lb facs="#facs_35_r1l40" n="N031"/>ко артиллерїи, пѣхоты и егерей.
+               <lb facs="#facs_35_r1l41" n="N032"/>Кавалерїя обѣихъ сторонъ не имѣла случая къ сраже¬
+               <lb facs="#facs_35_r1l42" n="N033"/>нїю; ибо находившаяся при насупротивномъ корпусѣ въ
+               <lb facs="#facs_35_r1l43" n="N034"/>разсужденїи превосходства бывшей при главной армїи
+               <lb facs="#facs_35_r1l44" n="N035"/>довольствовалась прикрывать токмо движенїя своей пѣ¬
+               <lb facs="#facs_35_r1l45" n="N036"/>хоты, но не удаляясь изъ подъ своей на высотахъ по¬
+               <lb facs="#facs_35_r1l46" n="N037"/>ставленной артиллерїи. Почему и съ стороны главной
+               <lb facs="#facs_35_r1l47" n="N038"/>армїи тѣмъ довольствоваться надобно было, что кава¬
+               <lb facs="#facs_35_r1l48" n="N039"/>лерїею движенїя пѣхоты скрывались, и готовостїю ея
+               <lb facs="#facs_35_r1l49" n="N040"/>на правомъ крылѣ Генералъ Панинъ принужденъ былъ
+               <lb facs="#facs_35_r1l50" n="N041"/>весь свой корпусъ перестраивать.
+               <lb facs="#facs_35_r1l51" n="N042"/>Какъ
+            </ab><pb facs="#facs_36" n="36" xml:id="img_0036"/><ab facs="#facs_36_r1" type="">
+               <lb facs="#facs_36_r1l2" n="N001"/>33
+               <lb facs="#facs_36_r1l3" n="N002"/>Какъ такимъ образомъ и насупротивной оборонной огонъ
+               <lb facs="#facs_36_r1l4" n="N003"/>прекратился, то ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО ука¬
+               <lb facs="#facs_36_r1l5" n="N004"/>зала, разставя ведеты и пикеты, всей армеѣ отдохНо¬
+               <lb facs="#facs_36_r1l6" n="N005"/>венїе взять, и сама на семъ мѣстѣ столько пробыть
+               <lb facs="#facs_36_r1l7" n="N006"/>изволила, сколько казалось довольно для отдохновенїя
+               <lb facs="#facs_36_r1l8" n="N007"/>армеи. Симъ временемъ Генералъ Панинъ переправился со
+               <lb facs="#facs_36_r1l9" n="N008"/>всѣмъ своимъ корпусомъ по мостамъ за рѣку Пудость, со
+               <lb facs="#facs_36_r1l10" n="N009"/>всякимъ порядкомъ, составляя арїергардъ изъ своей кава¬
+               <lb facs="#facs_36_r1l11" n="N010"/>лерїи, и того пѣхотнаго полку, которымъ наконецъ
+               <lb facs="#facs_36_r1l12" n="N011"/>двѣ деревни заняты были.
+               <lb facs="#facs_36_line_1670433601137_675" n="N012"/>Насупротивная армея, или корпусъ Его Превосходи¬
+               <lb facs="#facs_36_r1l15" n="N013"/>тельства Генерала Панина, будучи расположена по высо¬
+               <lb facs="#facs_36_r1l16" n="N014"/>тамъ одни надъ другими преимуществующимъ, всѣми
+               <lb facs="#facs_36_r1l17" n="N015"/>своими движенїями привлекала любопытное на себя зрѣнїе.
+               <lb facs="#facs_36_r1l18" n="N016"/>Главная армея напротиву того строилась и насту¬
+               <lb facs="#facs_36_r1l19" n="N017"/>пательно дѣйствовала по мѣстамъ вдоль линїи нерав¬
+               <lb facs="#facs_36_r1l20" n="N018"/>нымъ, такъ что намъ всей обширности своей вдругъ ви¬
+               <lb facs="#facs_36_r1l21" n="N019"/>дѣть было не возможно, но тѣмъ паче и надлежитъ уди¬
+               <lb facs="#facs_36_r1l22" n="N020"/>вляться съ какою точностїю раздавались высочайшїя ЕЯ
+               <lb facs="#facs_36_r1l23" n="N021"/>ИМПЕРАТОРСКАГО ВЕЛЧЕСТВА повелѣнїя, и отдать
+               <lb facs="#facs_36_r1l24" n="N022"/>справедливость, что командующїе дивизїями и бригадами
+               <lb facs="#facs_36_r1l25" n="N023"/>Генералы и полками своими Полковники исполняли оныя
+               <lb facs="#facs_36_r1l26" n="N024"/>съ такимъ же искусствомъ какъ и скоростїю. Въ на¬
+               <lb facs="#facs_36_r1l27" n="N025"/>супротивномъ корпусѣ съ бывшихъ тамо высотъ лучше
+               <lb facs="#facs_36_r1l28" n="N026"/>можно было видѣть все главной армей ополченїе, и на¬
+               <lb facs="#facs_36_r1l29" n="N027"/>добно присовокупить, что изрядство онаго и величество
+               <lb facs="#facs_36_r1l30" n="N028"/>служило утѣшенїемъ отступать принужденному корпусу;
+               <lb facs="#facs_36_r1l31" n="N029"/>ибо хотя ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО высочайшею
+               <lb facs="#facs_36_r1l32" n="N030"/>Своею Особою главную армею предводительствовать изво¬
+               <lb facs="#facs_36_r1l33" n="N031"/>лила, но Монаршее Ея благоволенїе равно раздѣлялось
+               <lb facs="#facs_36_r1l34" n="N032"/>на обѣ армеи, слѣдовательно равно непобѣдимое войско
+               <lb facs="#facs_36_r1l35" n="N033"/>равнымъ пылало и желанїемъ, такимъ казаться, каково
+               <lb facs="#facs_36_r1l36" n="N034"/>оно въ самомъ дѣлѣ есть.
+               <lb facs="#facs_36_r1l37" n="N035"/>Порядочное отступленїе и занятїе новаго лагеря
+               <lb facs="#facs_36_r1l38" n="N036"/>въ виду превосходящей силы, есть такое воинское движе¬
+               <lb facs="#facs_36_r1l39" n="N037"/>нїе, которое обоими корпусами вдругъ предпрїято быть
+               <lb facs="#facs_36_r1l40" n="N038"/>не могло, и которое здѣсь только для того почтено
+               <lb facs="#facs_36_r1l41" n="N039"/>нужнымъ, что и оное къ военному искусству генерально
+               <lb facs="#facs_36_r1l42" n="N040"/>прнадлежитъ.
+               <lb facs="#facs_36_line_1670434161854_723" n="N041"/>д По
+            </ab><pb facs="#facs_37" n="37" xml:id="img_0037"/><ab facs="#facs_37_r1" type="">
+               <lb facs="#facs_37_r1l2" n="N001"/>34
+               <lb facs="#facs_37_r1l3" n="N002"/>По окончанїи такимъ образомъ сего главнаго дѣйствїя
+               <lb facs="#facs_37_r1l4" n="N003"/>и по довольномъ отдокновенїи, указала ЕЯ ИМПЕРАТОРСКОЕ
+               <lb facs="#facs_37_r1l5" n="N004"/>ВЕЛИЧЕСТВО генеральной маршъ бить, и армеѣ обратно
+               <lb facs="#facs_37_r1l6" n="N005"/>въ прежней свой лагерь тѣмъ же порядкомъ слѣдовать.
+               <lb facs="#facs_37_r1l7" n="N006"/>ЕЯ ВЕЛИЧЕСТВО въ ставки Свои прибыла уже поздно въ
+               <lb facs="#facs_37_r1l8" n="N007"/>ночь, а вскорѣ за тѣмъ и всѣ полки въ свой лагерь всту¬
+               <lb facs="#facs_37_r1l9" n="N008"/>пать начали.
+               <lb facs="#facs_37_r1l10" n="N009"/>25 числа въ воскресенье по утру изволила ЕЯ ИМПЕ¬
+               <lb facs="#facs_37_r1l11" n="N010"/>РАТОРСКОЕ ВЕЛИЧЕСТВО слушать Божественную литургїю
+               <lb facs="#facs_37_r1l12" n="N011"/>въ полковой Лейбгвардїи Коннаго полку церьквѣ, а по воз¬
+               <lb facs="#facs_37_r1l13" n="N012"/>вращенїи въ ставки представлены были всѣ Оберъ-Офи¬
+               <lb facs="#facs_37_r1l14" n="N013"/>церы полковъ Лейбгвардїи и Артиллерїйскаго корпуса,
+               <lb facs="#facs_37_r1l15" n="N014"/>которыхъ ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО къ рукѣ жало¬
+               <lb facs="#facs_37_r1l16" n="N015"/>вать изволила, оказывая высочайшее Свое благоволенїе о
+               <lb facs="#facs_37_r1l17" n="N016"/>усердїи и исправности, съ каковыми всѣ и каждой вче¬
+               <lb facs="#facs_37_r1l18" n="N017"/>рашняго дня должность свою исправляли.
+               <lb facs="#facs_37_r1l19" n="N018"/>По полудни изволила ЕЯ ВЕЛИЧЕСТВО прогуливаться
+               <lb facs="#facs_37_r1l20" n="N019"/>на высотахъ Дудоровой горы.
+               <lb facs="#facs_37_r1l21" n="N020"/>27 числа по утру до одиннатцати часовъ продолжа¬
+               <lb facs="#facs_37_r1l22" n="N021"/>лись паки обыкновенныя ЕЯ ИМПЕРАТОРСКАГО ВЕЛИЧЕ¬
+               <lb facs="#facs_37_r1l23" n="N022"/>СТВА въ государственныхъ дѣлахъ упражненїя. Потомъ
+               <lb facs="#facs_37_r1l24" n="N023"/>представлены были всѣ Штабъ- и Оберъ-Офицеры дивизїи
+               <lb facs="#facs_37_r1l25" n="N024"/>Его Сїятельства Генерала и Кавалера Князя Александра
+               <lb facs="#facs_37_r1l26" n="N025"/>Михайловича Голицына, а по полудни дивизїя Его Пре¬
+               <lb facs="#facs_37_r1l27" n="N026"/>восходительства Генерала и Кавалера Петра Ивановича
+               <lb facs="#facs_37_r1l28" n="N027"/>Панина, которыхъ также ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИ¬
+               <lb facs="#facs_37_line_1670525102341_791" n="N028"/>ЧЕСТВО къ рукѣ жаловать изволила, съ равномѣрнымъ
+               <lb facs="#facs_37_r1l31" n="N029"/>оказанїемъ Своего высочайшаго благоволенїя.
+               <lb facs="#facs_37_r1l32" n="N030"/>Потомъ отправлялось всенощное бдѣнїе въ ставкахъ
+               <lb facs="#facs_37_r1l33" n="N031"/>ЕЯ ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА для завтрешняго тор¬
+               <lb facs="#facs_37_r1l34" n="N032"/>жественнаго дня.
+               <lb facs="#facs_37_r1l35" n="N033"/>28 Iюня, день во всѣ вѣки прославляемый но никогда
+               <lb facs="#facs_37_r1l36" n="N034"/>довольно торжествуемый, празднованъ былъ слѣдующимъ
+               <lb facs="#facs_37_r1l37" n="N035"/>образомъ:
+               <lb facs="#facs_37_r1l38" n="N036"/>По утру соизволила ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО
+               <lb facs="#facs_37_r1l39" n="N037"/>отправиться въ каретѣ съ Его Императорскимъ Высоче¬
+               <lb facs="#facs_37_r1l40" n="N038"/>ствомъ въ поставленную предъ лагеремъ на высотѣ Лейб¬
+               <lb facs="#facs_37_r1l41" n="N039"/>гвардїи Преображенскаго полку полковую церьковъ, въ пре¬
+               <lb facs="#facs_37_r1l42" n="N040"/>провожденїи всего Кавалергардскаго корпуса на коняхъ въ
+               <lb facs="#facs_37_r1l43" n="N041"/>новомъ богатомъ и великолѣпномъ уборѣ онаго, которымъ
+               <lb facs="#facs_37_r1l44" n="N042"/>предво¬
+            </ab><pb facs="#facs_38" n="38" xml:id="img_0038"/><ab facs="#facs_38_r1" type="">
+               <lb facs="#facs_38_r1l2" n="N001"/>35
+               <lb facs="#facs_38_r1l3" n="N002"/>предводительствовали, Шефъ сего корпуса, Его Сїятель¬
+               <lb facs="#facs_38_r1l4" n="N003"/>ство Генералъ-Адъютантъ и Генералъ Фелдцейхмейстеръ,
+               <lb facs="#facs_38_r1l5" n="N004"/>Графъ Григорей Григорьевичь Орловъ, и Порутчикъ сегожъ
+               <lb facs="#facs_38_r1l6" n="N005"/>корпуса Его Сїятельство Генералъ-Порутчикъ и Кава¬
+               <lb facs="#facs_38_r1l7" n="N006"/>леръ, Графъ Алексѣй Григорьевичь Орловъ.
+               <lb facs="#facs_38_r1l8" n="N007"/>Вся въ лагерѣ бывшая армея и Артиллерїиской корпусъ
+               <lb facs="#facs_38_r1l9" n="N008"/>стояли баталїономъ-карре въ парадѣ, подъ командою Его
+               <lb facs="#facs_38_r1l10" n="N009"/>Сїятельства Генерала Фельдмаршала и старшаго Гвардїи
+               <lb facs="#facs_38_r1l11" n="N010"/>Подполковника, Графа Александра Борисовича Бутурлина,
+               <lb facs="#facs_38_r1l12" n="N011"/>на такомъ отъ стоящей по срединѣ церькви разстоянїи,
+               <lb facs="#facs_38_r1l13" n="N012"/>на какомъ построиться могла, имѣя Кавалерїйскїя полки
+               <lb facs="#facs_38_r1l14" n="N013"/>на лошадяхъ по концамъ каждаго фаса.
+               <lb facs="#facs_38_r1l15" n="N014"/>При въѣздѣ ЕЯ ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВО въ сей
+               <lb facs="#facs_38_r1l16" n="N015"/>баталїонъ-карре, отдана честь со всѣми церемонїями. По
+               <lb facs="#facs_38_r1l17" n="N016"/>окончанїи Божественной литургїи произведенъ всею армеею
+               <lb facs="#facs_38_r1l18" n="N017"/>троекратной бѣглой огонъ, и между онымъ здѣлала
+               <lb facs="#facs_38_r1l19" n="N018"/>Артиллерїя сто одинъ выстрѣлъ.
+               <lb facs="#facs_38_r1l20" n="N019"/>Оттуда соизволила ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО
+               <lb facs="#facs_38_r1l21" n="N020"/>тѣмъ же порядкомъ отправиться въ Красное село, въ
+               <lb facs="#facs_38_r1l22" n="N021"/>вышепомянутой вновь построенной домъ, и тамо отъ
+               <lb facs="#facs_38_r1l23" n="N022"/>собравшихся изъ города въ великомъ множествѣ обоего по¬
+               <lb facs="#facs_38_r1l24" n="N023"/>ла знатныхъ персонъ и иностранныхъ Министровъ при¬
+               <lb facs="#facs_38_r1l25" n="N024"/>нимать поздравленїя и всѣхъ жаловать къ рукѣ.
+               <lb facs="#facs_38_r1l26" n="N025"/>При обѣденномъ столѣ ЕЯ ИМПЕРАТОРСКАГО ВЕЛИ¬
+               <lb facs="#facs_38_r1l27" n="N026"/>ЧЕСТВА, при которомъ и Его Императорское Высочество
+               <lb facs="#facs_38_r1l28" n="N027"/>присудствовалъ, приглашены были двѣсти десять пер¬
+               <lb facs="#facs_38_line_1670527614911_878" n="N028"/>сонъ, и во время онаго продолжалась Италїанская
+               <lb facs="#facs_38_r1l32" n="N029"/>инструментальная и вокальная музыка.
+               <lb facs="#facs_38_r1l33" n="N030"/>Генералитетъ, усердствуя оказать благодарность и
+               <lb facs="#facs_38_r1l34" n="N031"/>радость свою и всей армей, что ЕЯ ИМПЕРАТОРСКОЕ
+               <lb facs="#facs_38_r1l35" n="N032"/>ВЕЛИЧЕСТВО толикимъ о благосостоянїи армей попеченїемъ
+               <lb facs="#facs_38_r1l36" n="N033"/>преисполняя мѣру всѣхъ щедротъ, преисполнила ихъ же¬
+               <lb facs="#facs_38_r1l37" n="N034"/>ланїи, всеподданнѣйше просили ЕЯ ВЕЛИЧЕСТВО, чтобъ
+               <lb facs="#facs_38_r1l38" n="N035"/>имъ дозволено было сей для всей Россїи радостный день
+               <lb facs="#facs_38_r1l39" n="N036"/>особливо торжествовать въ лагерѣ, и сїе торжество Мо¬
+               <lb facs="#facs_38_r1l40" n="N037"/>наршимъ присудствїемъ удостоить.
+               <lb facs="#facs_38_r1l41" n="N038"/>Получа на то позволенїе, званы были весь дворъ и
+               <lb facs="#facs_38_r1l42" n="N039"/>всѣ въ городѣ остававшїяся знатныя обоего пола персоны
+               <lb facs="#facs_38_r1l43" n="N040"/>на балъ и ужинъ въ лагерь 28 Iюня.
+               <lb facs="#facs_38_line_1670527826084_899" n="N041"/>д 2 ЕЯ
+            </ab><pb facs="#facs_39" n="39" xml:id="img_0039"/><ab facs="#facs_39_r1" type="">
+               <lb facs="#facs_39_r1l2" n="N001"/>36
+               <lb facs="#facs_39_r1l3" n="N002"/>ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО въ началѣ 8 часа ве¬
+               <lb facs="#facs_39_r1l4" n="N003"/>чера съ Его Императорскимъ Высочествомъ, въ препро¬
+               <lb facs="#facs_39_r1l5" n="N004"/>вожденїи Своей свиты отправиться изволила на то мѣсто,
+               <lb facs="#facs_39_r1l6" n="N005"/>гдѣ помянутое торжество прїуготовлено было. ЕЯ ВЕЛИ¬
+               <lb facs="#facs_39_r1l7" n="N006"/>ЧЕСТВО при прїѣздѣ къ оному встрѣчена была всемъ Гене¬
+               <lb facs="#facs_39_r1l8" n="N007"/>ралитетомъ, при игранїи на трубахъ и литаврахъ.
+               <lb facs="#facs_39_r1l9" n="N008"/>Описанїе той палатки, или лутче сказать дому, въ
+               <lb facs="#facs_39_r1l10" n="N009"/>которомъ былъ балъ и ужинъ, хотя оной здѣланъ былъ весь
+               <lb facs="#facs_39_r1l11" n="N010"/>изъ полотна, здѣсь никакъ вмѣщено быть не можетъ;
+               <lb facs="#facs_39_r1l12" n="N011"/>но довольно коротко сказать, что за день до сего тор¬
+               <lb facs="#facs_39_r1l13" n="N012"/>жества на семъ мѣстѣ ничего видимо не было; что сей
+               <lb facs="#facs_39_r1l14" n="N013"/>домъ имѣлъ равные четыре фаса, каждой по 30 саженъ
+               <lb facs="#facs_39_r1l15" n="N014"/>длиною, на осми саженяхъ ширины; что внутри
+               <lb facs="#facs_39_r1l16" n="N015"/>оставшагося двора воздвигнуто было зданїе великолѣп¬
+               <lb facs="#facs_39_r1l17" n="N016"/>ныя трїумфальныя врата представляющее; что весь сей
+               <lb facs="#facs_39_r1l18" n="N017"/>домъ, по всѣмъ четыремъ фасамъ равно вдоль раздѣленный,
+               <lb facs="#facs_39_r1l19" n="N018"/>имѣлъ двѣ превеликїя залы для танцованїя, съ особливыми
+               <lb facs="#facs_39_r1l20" n="N019"/>для музыкантовъ оркестрами, и четыре неотдѣленные
+               <lb facs="#facs_39_r1l21" n="N020"/>отъ оныхъ кабинета, въ которыхъ столы для игранїя
+               <lb facs="#facs_39_r1l22" n="N021"/>въ карты поставлены были, и нѣсколько еще кабинетовъ;
+               <lb facs="#facs_39_r1l23" n="N022"/>а по угламъ всѣхъ фасовъ бюфеты стояли.
+               <lb facs="#facs_39_r1l24" n="N023"/>Балъ продолжался до двенатцатаго часа безпрерывно.
+               <lb facs="#facs_39_r1l25" n="N024"/>Собранїе было столь многочисленно, что все поле казалось
+               <lb facs="#facs_39_r1l26" n="N025"/>покрыто экипажами, и что всѣхъ зрителей не моглибъ
+               <lb facs="#facs_39_r1l27" n="N026"/>вмѣстить и еще такїяжъ два дома.
+               <lb facs="#facs_39_r1l28" n="N027"/>Въ двенатцатомъ часу началась отъ Артиллерїи, бли¬
+               <lb facs="#facs_39_r1l29" n="N028"/>ско отъ сего дома поставленной, пушечная стрѣльба, на
+               <lb facs="#facs_39_r1l30" n="N029"/>построенной тутъ же деревянной городокъ, предъ ко¬
+               <lb facs="#facs_39_r1l31" n="N030"/>торымъ земляной валъ въ двѣ сажени съ половиною вы¬
+               <lb facs="#facs_39_r1l32" n="N031"/>шины, на 12 саженяхъ ширины, съ пропорцїональнымъ
+               <lb facs="#facs_39_r1l33" n="N032"/>рвомъ здѣланѣ былъ, и которой въ одно время съ домомъ
+               <lb facs="#facs_39_r1l34" n="N033"/>выросъ, послѣ чего зажженнымъ подкопомъ городокъ по¬
+               <lb facs="#facs_39_r1l35" n="N034"/>дорванѣ, и валъ обрушенной ровъ засыпалъ. По окончанїи
+               <lb facs="#facs_39_r1l36" n="N035"/>сего Артиллерїйскаго дѣйства представилъ Его Сїятель¬
+               <lb facs="#facs_39_r1l37" n="N036"/>ство Генералъ Фелдцейгмейстерѣ, великолѣпной фейерверкъ.
+               <lb facs="#facs_39_r1l38" n="N037"/>Описанїе и планъ сего фейерверка можно видѣть въ особ¬
+               <lb facs="#facs_39_r1l39" n="N038"/>ливыхъ напечатанныхъ и того дня раздаванныхъ ли¬
+               <lb facs="#facs_39_r1l40" n="N039"/>стахъ. Неоднократно того дня случившейся сильной дождъ
+               <lb facs="#facs_39_r1l41" n="N040"/>и со всѣмъ сырая погода много отнимали изрядства онаго,
+               <lb facs="#facs_39_r1l42" n="N041"/>но тѣмъ не меньше видимо было искусство разположенїя.
+               <lb facs="#facs_39_r1l43" n="N042"/>ЕЯ
+            </ab><pb facs="#facs_40" n="40" xml:id="img_0040"/><ab facs="#facs_40_r1" type="">
+               <lb facs="#facs_40_r1l2" n="N001"/>37
+               <lb facs="#facs_40_r1l3" n="N002"/>ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО во все время, пока¬
+               <lb facs="#facs_40_r1l4" n="N003"/>артиллерїя дѣйствовала и горѣлъ фейерверкъ, изволила
+               <lb facs="#facs_40_r1l5" n="N004"/>оной смотрѣть стоя предъ домомъ. А когда въ залы воз¬
+               <lb facs="#facs_40_r1l6" n="N005"/>вратиться изволила, то вскорѣ послѣ того всѣ внутрен¬
+               <lb facs="#facs_40_r1l7" n="N006"/>нїя сего дома стѣны, кои казались живописными обоями
+               <lb facs="#facs_40_line_1670531999418_982" n="N007"/>убраны быть, поднялись на верьхъ, и представили
+               <lb facs="#facs_40_r1l13" n="N008"/>аркады подобранными гардинами украшенныя, а за оными
+               <lb facs="#facs_40_r1l14" n="N009"/>во всю длину трехъ фасовъ видимы были столы къ ве¬
+               <lb facs="#facs_40_r1l15" n="N010"/>чернему кушанью великолѣпно прїуготовленныя, на сто¬
+               <lb facs="#facs_40_r1l16" n="N011"/>лахъ иллюминованной дессертъ средину оныхъ во всю
+               <lb facs="#facs_40_r1l17" n="N012"/>длину занимающей, которой представляя въ срединѣ
+               <lb facs="#facs_40_r1l18" n="N013"/>славу Россїйскаго оружїя, изображалъ всѣ воинскїя дѣй¬
+               <lb facs="#facs_40_r1l19" n="N014"/>ствїя, и сколько огромностїю своею, болѣе еще искус¬
+               <lb facs="#facs_40_r1l20" n="N015"/>ствомъ приводилъ всѣхъ во удивленїе, а по срединѣ двора
+               <lb facs="#facs_40_r1l21" n="N016"/>трїумфальное зданїе также иллюминовано было
+               <lb facs="#facs_40_r1l22" n="N017"/>За столомъ кушали попарно 365 персонъ, а во услугахъ
+               <lb facs="#facs_40_r1l23" n="N018"/>были нарочно на сей день въ особливую ливрею одѣтые
+               <lb facs="#facs_40_r1l24" n="N019"/>сто человѣкъ гайдуковъ, кромѣ придворныхъ ливрейныхъ
+               <lb facs="#facs_40_r1l25" n="N020"/>служителей.
+               <lb facs="#facs_40_r1l26" n="N021"/>Однимъ словомъ все достойно было сего великаго дня.
+               <lb facs="#facs_40_r1l27" n="N022"/>ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО, по окончанїи стола,
+               <lb facs="#facs_40_r1l28" n="N023"/>засвидѣтельствовавъ о всемъ томъ всемилостивѣйшее Свое
+               <lb facs="#facs_40_r1l29" n="N024"/>благоволенїе, уже въ два часа за полночь въ Красносельской
+               <lb facs="#facs_40_r1l30" n="N025"/>дворецъ возвратиться изволила.
+               <lb facs="#facs_40_r1l31" n="N026"/>29 Iюня, въ торжественный день тезоименитства Его
+               <lb facs="#facs_40_r1l32" n="N027"/>Императорскаго Высочества, поутру соизволила ЕЯ ИМПЕ¬
+               <lb facs="#facs_40_r1l33" n="N028"/>РАТОРСКОЕ ВЕЛИЧЕСТВО слушать божественную литур¬
+               <lb facs="#facs_40_r1l34" n="N029"/>гїю въ приходской Краснаго села церьквѣ, по окончанїи
+               <lb facs="#facs_40_r1l35" n="N030"/>которой придворной Проповѣдникъ и Его Императорскаго
+               <lb facs="#facs_40_r1l36" n="N031"/>Высочества Учитель, Iеромонахъ Платонъ, говорилъ тому
+               <lb facs="#facs_40_r1l37" n="N032"/>дню приличное Слово, въ которомъ прославляя Божїе въ
+               <lb facs="#facs_40_r1l38" n="N033"/>Особѣ Помазанницы Его на насъ изливаемое милосердїе,
+               <lb facs="#facs_40_r1l39" n="N034"/>и теплую всея Россїи принося молитву о долголѣтномъ
+               <lb facs="#facs_40_r1l40" n="N035"/>Ея государствованїи, и здравїи дражайшаго Имянинника,
+               <lb facs="#facs_40_r1l41" n="N036"/>тронулъ усердныя сердца всѣхъ слушателей. Егожъ
+               <lb facs="#facs_40_r1l42" n="N037"/>Императорское Высочество, для случившейся небольшой
+               <lb facs="#facs_40_r1l43" n="N038"/>простуды при томъ не присудствовалъ.
+               <lb facs="#facs_40_r1l44" n="N039"/>По возвращенїи въ покои соизволила ЕЯ ИМПЕРАТОРСКОЕ
+               <lb facs="#facs_40_r1l45" n="N040"/>ВЕЛИЧЕСТВО принимать поздравленїи отъ собравшихся паки
+               <lb facs="#facs_40_r1l46" n="N041"/>въ превеликомъ множествѣ знатныхъ обоего пола персонъ
+               <lb facs="#facs_40_line_1670534309066_1031" n="N042"/>и иностранныхъ Министровъ. Обѣден¬
+            </ab><pb facs="#facs_41" n="41" xml:id="img_0041"/><ab facs="#facs_41_r1" type="">
+               <lb facs="#facs_41_r1l2" n="N001"/>38
+               <lb facs="#facs_41_r1l3" n="N002"/>Обѣденный столъ былъ на 150 кувертовъ, а въ вечеру
+               <lb facs="#facs_41_r1l4" n="N003"/>балъ и ужинъ.
+               <lb facs="#facs_41_r1l5" n="N004"/>30 Iюня, все утро отъ пяти часовъ начиная, изво¬
+               <lb facs="#facs_41_r1l6" n="N005"/>лила ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО паки упражняться
+               <lb facs="#facs_41_r1l7" n="N006"/>отправленїемъ государственныхъ дѣлъ.
+               <lb facs="#facs_41_line_1670534434337_1049" n="N007"/>Въ сей день роздано на всѣ полки по нѣскольку бы¬
+               <lb facs="#facs_41_r1l10" n="N008"/>ковъ и погребъ вина и пива, потому что 28 число былъ
+               <lb facs="#facs_41_r1l11" n="N009"/>день посной; и приказъ отданъ, на другой день полки
+               <lb facs="#facs_41_r1l12" n="N010"/>изъ лагеря разводить въ ихъ квартиры.
+               <lb facs="#facs_41_r1l13" n="N011"/>ЕЯ ИМПЕРАТОРСКОЕ ВЕЛИЧЕСТВО, по окончанїи обѣ¬
+               <lb facs="#facs_41_r1l14" n="N012"/>деннаго кушаннья, простясь съ оставшимися тамо при
+               <lb facs="#facs_41_r1l15" n="N013"/>полкахъ Генералами, и отпустя съѣхавшихся для смо¬
+               <lb facs="#facs_41_r1l16" n="N014"/>трѣнїя лагеря другихъ дивизїй господъ Генераловъ и
+               <lb facs="#facs_41_r1l17" n="N015"/>Штабъ-Офицеровъ, и оказавъ всѣмъ Свое благоволенїе,
+               <lb facs="#facs_41_r1l18" n="N016"/>изволила въ Санктпетербургъ отправиться, и въ пять
+               <lb facs="#facs_41_r1l19" n="N017"/>часовъ по полудни въ лѣтней домъ въ вожделѣнномъ здра¬
+               <lb facs="#facs_41_r1l20" n="N018"/>вїи прибыть, куда и Его Императорское Высочество съ
+               <lb facs="#facs_41_r1l21" n="N019"/>своею свитою почти въ тожъ время прибылъ.
+               <lb facs="#facs_41_r1l22" n="N020"/>Такимъ образомъ благополучно окончался нынѣшнїй
+               <lb facs="#facs_41_line_1670534786282_1077" n="N021"/>лагерь. Ея Императорское Величество, оставя въ
+               <lb facs="#facs_41_line_1670534808131_1082" n="N022"/>ономъ радости и усердїя наполненныя сердца, оживотво¬
+               <lb facs="#facs_41_r1l28" n="N023"/>рила возвращенїемъ своимъ веселости столичнаго города.
+            </ab><pb facs="#facs_42" n="42" xml:id="img_0042"/><ab facs="#facs_42_r1" type="">
+               <lb facs="#facs_42_r1l2" n="N001"/>39
+               <lb facs="#facs_42_r1l3" n="N002"/>ВОЛОНТЕРЫ
+               <lb facs="#facs_42_r1l4" n="N003"/>при свитѣ ЕЯ ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА
+               <lb facs="#facs_42_r1l5" n="N004"/>находившїеся.
+               <lb facs="#facs_42_r1l6" n="N005"/>1. Графъ Петръ Семено¬
+               <lb facs="#facs_42_r1l7" n="N006"/>Генералъ Фельдмаршалъ.
+               <lb facs="#facs_42_r1l8" n="N007"/>вичь Салтыковъ. .
+               <lb facs="#facs_42_r1l9" n="N008"/>2. Ѳедоръ Матвѣевичь Воейковъ
+               <lb facs="#facs_42_r1l10" n="N009"/>Генералы.
+               <lb facs="#facs_42_r1l11" n="N010"/>3. Петръ Ивановичь Олицъ. .
+               <lb facs="#facs_42_r1l12" n="N011"/>4. Алексѣй Петровичь Мельгуновъ. Генералы По¬
+               <lb facs="#facs_42_r1l13" n="N012"/>5. Сиверсъ
+               <lb facs="#facs_42_r1l14" n="N013"/>рутчики.
+               <lb facs="#facs_42_r1l15" n="N014"/>Генералъ¬
+               <lb facs="#facs_42_line_1670535132393_1126" n="N015"/>6. Князь Александръ Алексѣевичь Вяземской
+               <lb facs="#facs_42_r1l18" n="N016"/>Квартир¬
+               <lb facs="#facs_42_r1l19" n="N017"/>7. Николай Ивановичь Чичеринъ
+               <lb facs="#facs_42_r1l20" n="N018"/>мейстеръ.
+               <lb facs="#facs_42_r1l21" n="N019"/>8. Дунтенъ
+               <lb facs="#facs_42_r1l22" n="N020"/>9. Эссенъ
+               <lb facs="#facs_42_r1l23" n="N021"/>10. Карлъ Принцъ Курляндскїй
+               <lb facs="#facs_42_r1l24" n="N022"/>Генералы Маїоры.
+               <lb facs="#facs_42_r1l25" n="N023"/>11. Транзе
+               <lb facs="#facs_42_r1l26" n="N024"/>12. Алексѣй Михайловичь Масловъ
+               <lb facs="#facs_42_r1l27" n="N025"/>13. Николай Ивановичь Салтыковъ
+               <lb facs="#facs_42_r1l28" n="N026"/>14. Ларїонъ Матвѣевичь Кутузовъ
+               <lb facs="#facs_42_r1l29" n="N027"/>Статс. Дѣйствит.
+               <lb facs="#facs_42_r1l30" n="N028"/>15. Дмитрей Васильевичь Волковъ
+               <lb facs="#facs_42_r1l31" n="N029"/>Совѣтникъ.
+               <lb facs="#facs_42_r1l32" n="N030"/>16. Князь Александръ Ивановичь
+               <lb facs="#facs_42_r1l34" n="N031"/>Брегадиръ и
+               <lb facs="#facs_42_r1l35" n="N032"/>Прозоровской.
+               <lb facs="#facs_42_r1l36" n="N033"/>Полковникъ.
+               <lb facs="#facs_42_r1l37" n="N034"/>Инженеръ¬
+               <lb facs="#facs_42_r1l38" n="N035"/>17. Пурпуръ
+               <lb facs="#facs_42_r1l39" n="N036"/>Полковникъ.
+               <lb facs="#facs_42_r1l40" n="N037"/>18. Князь Трубецкой
+               <lb facs="#facs_42_r1l41" n="N038"/>19. Князь Голицынъ.
+               <lb facs="#facs_42_line_1670535323305_1165" n="N039"/>20. Волковъ
+               <lb facs="#facs_42_line_1670535332298_1169" n="N040"/>21. Графъ Мантейфель.
+               <lb facs="#facs_42_r1l46" n="N041"/>ПОЛКОВНИКИ.
+               <lb facs="#facs_42_line_1670535357547_1176" n="N042"/>22. Курсель
+               <lb facs="#facs_42_line_1670535382145_1184" n="N043"/>23. Князь Долгоруковъ.
+               <lb facs="#facs_42_line_1670535407353_1192" n="N044"/>24. Знгелгардъ. . .
+               <lb facs="#facs_42_line_1670535432907_1198" n="N045"/>25. Давыдовъ . 
+               <lb facs="#facs_42_line_1670535542921_1225" n="N046"/>26.
+            </ab><pb facs="#facs_43" n="43" xml:id="img_0043"/><ab facs="#facs_43_r1" type="">
+               <lb facs="#facs_43_r1l2" n="N001"/>40
+               <lb facs="#facs_43_r1l3" n="N002"/>26. Князь Петръ Голицынъ
+               <lb facs="#facs_43_r1l4" n="N003"/>27. Чарторижской.
+               <lb facs="#facs_43_r1l5" n="N004"/>28. Ребиндеръ
+               <lb facs="#facs_43_r1l7" n="N005"/>Полковники.
+               <lb facs="#facs_43_r1l8" n="N006"/>29. Цеймернъ . 
+               <lb facs="#facs_43_r1l9" n="N007"/>30. Ушаковъ
+               <lb facs="#facs_43_r1l11" n="N008"/>31. Нероновъ . 
+               <lb facs="#facs_43_r1l12" n="N009"/>32. Зиновьевъ, Гвардїи Порутчикъ.
+               <lb facs="#facs_43_r1l13" n="N010"/>33. Фрейголдъ. Премїеръ-Маїоръ.
+               <lb facs="#facs_43_r1l14" n="N011"/>Адъютантъ Генерала Графа
+               <lb facs="#facs_43_r1l15" n="N012"/>34 Елчаниновъ.
+               <lb facs="#facs_43_r1l16" n="N013"/>Румянцова.
+            </ab><pb facs="#facs_44" n="44" xml:id="img_0044"/><pb facs="#facs_45" n="45" xml:id="img_0045"/>
+         </div>
+      </body>
+   </text>
+</TEI>

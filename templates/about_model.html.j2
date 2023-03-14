@@ -4,17 +4,25 @@
     <meta charset="utf-8">
     <title>About model</title>
     <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
-
     
+    <style>
+
+      .bd-header bg-light py-3 d-flex align-items-stretch border-bottom border-light{
+        background-color: #BBC6C8;
+      }
+
+    </style>
   </head>
   <body>
     
-<header class="bd-header bg-dark py-3 d-flex align-items-stretch border-bottom border-dark">
-  <div class="container-fluid d-flex align-items-center">
-    <h1 class="d-flex align-items-center fs-4 text-white mb-0">
-      Создание модели для распознавания текстов в Транскрибусе
-    </h1>
-    <a href="/" class="ms-auto link-light" hreflang="ar">На главную</a>
+<header> 
+  <div class="navbar navbar-light" style="background-color: #BBC6C8;">
+    <div class="container-fluid d-flex align-items-center">
+      <h3 class="d-flex align-items-center fs-4 text-dark mb-0">
+        <TT>Russian print XVIII cent</TT>
+      </h3>
+      <a class="btn btn-light" href="/"><TT>Домой</TT></a>
+    </div>
   </div>
 </header>
 
@@ -84,12 +92,17 @@
 </main>
 
 
-<footer class="text-muted py-5">
-  <div class="container">
-    <p class="float-end mb-1">
+<footer class="text-muted py-5" style="background-color: #BBC6C8;">
+   <p class="float-end mb-1">
       <a href="#">Back to top</a>
     </p>
-    <p class="mb-1">&copy; Transkribus_project, 2022</p>
+   <p><a name="contact"></a></p>
+  <div class="container">
+    <p class="mb-1">&copy; Russian print XVIII cent PyLaia, 2023 <br>Мы команда создателей модели Russian print XVIII cent PyLaia на платформе Transkribus</p>
+    <ul class="list-unstyled">
+      <li><a href="https://github.com/PolinaStaroverova/Russian-print-XVIII-cent_Transkribus.git" class="text-whiфпкфte">Наш репозиторий на GitHub</a></li>
+      <li><a href="https://readcoop.eu/model/russian-print-xviii-cent/" class="text-whiфпкфte">Наша модель на сайте Transkribus</a></li>
+    </ul> 
   </div>
 </footer>
 
